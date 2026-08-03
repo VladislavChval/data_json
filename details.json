@@ -1,0 +1,36 @@
+{
+  "scraped_at": "2026-08-03T23:05:00",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Restaurace Obecní dům",
+      "district": "praha-1",
+      "address": "náměstí Republiky , 1090/5, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
+    },
+    {
+      "name": "Hospůdka u Kašpárka",
+      "district": "praha-1",
+      "address": "Dubečská, 4/74, 10000, Praha 10",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
+    },
+    {
+      "name": "Krušovická Šalanda",
+      "district": "praha-1",
+      "address": "Václavské náměstí , 819/43, 11000, Praha 1",
+      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-24:00 Sobota: 11:30-24:00 Neděle: 11:30-23:00"
+    },
+    {
+      "name": "PJ Bistro a Bar",
+      "district": "praha-1",
+      "address": "Velehradská, 4, 13000, Praha 3",
+      "openingHours": "Dnes: 9:00-21:00 Pondělí: 9:00-21:00 Úterý: 9:00-21:00 Středa: 9:00-21:00 Čtvrtek: 9:00-21:00 Pátek: 9:00-21:00 Sobota: 9:00-21:00 Neděle: 9:00-21:00"
+    },
+    {
+      "name": "Cotton 66",
+      "district": "praha-1",
+      "address": "Pražská , 74/19, 250 0, Brandýs nad Labem",
+      "openingHours": "Dnes: 08:00 - 21:00 Pondělí: 08:00 - 21:00 Úterý: 08:00 - 21:00 Středa: 08:00 - 21:00 Čtvrtek: 08:00 - 21:00 Pátek: 08:00 - 01:00 Sobota: 08:00 - 01:00 Neděle: 11:00 - 21:00"
+    }
+  ]
+}
