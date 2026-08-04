@@ -1,12 +1,18 @@
 {
-  "scraped_at": "2026-08-03T23:05:00",
-  "count": 5,
+  "scraped_at": "2026-08-04T14:40:11",
+  "count": 19,
   "restaurants": [
     {
       "name": "Restaurace Obecní dům",
       "district": "praha-1",
       "address": "náměstí Republiky , 1090/5, 110 00, Praha 1",
       "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
+    },
+    {
+      "name": "St. Martin",
+      "district": "praha-1",
+      "address": "Vlašská, 7, 118 00, Praha 1",
+      "openingHours": "Dnes: 12:00 - 23:00 Pondělí: 12:00 - 23:00 Úterý: 12:00 - 23:00 Středa: 12:00 - 23:00 Čtvrtek: 12:00 - 23:00 Pátek: 12:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
       "name": "Hospůdka u Kašpárka",
@@ -31,6 +37,84 @@
       "district": "praha-1",
       "address": "Pražská , 74/19, 250 0, Brandýs nad Labem",
       "openingHours": "Dnes: 08:00 - 21:00 Pondělí: 08:00 - 21:00 Úterý: 08:00 - 21:00 Středa: 08:00 - 21:00 Čtvrtek: 08:00 - 21:00 Pátek: 08:00 - 01:00 Sobota: 08:00 - 01:00 Neděle: 11:00 - 21:00"
+    },
+    {
+      "name": "A.Dvořák",
+      "district": "praha-1",
+      "address": "Opletalova, 916/11, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Kavárna Adria",
+      "district": "praha-1",
+      "address": "Národní, 40/36, 110 00, Praha 1",
+      "openingHours": "Dnes: 08:00 - 23:00 Pondělí: 08:00 - 23:00 Úterý: 08:00 - 23:00 Středa: 08:00 - 23:00 Čtvrtek: 08:00 - 23:00 Pátek: 08:00 - 23:00 Sobota: 09:00 - 23:00 Neděle: 09:00 - 23:00"
+    },
+    {
+      "name": "Brasserie 1932",
+      "district": "praha-1",
+      "address": "Štěpánská, 623/40, 110 00, Praha 1",
+      "openingHours": "Dnes: 12:00 - 23:00 Pondělí: 12:00 - 17:00 Úterý: 12:00 - 23:00 Středa: 12:00 - 23:00 Čtvrtek: 12:00 - 23:00 Pátek: 12:00 - 23:00 Sobota: 18:00 - 23:00 Neděle: Zavřeno"
+    },
+    {
+      "name": "Alforno Petrské nám.",
+      "district": "praha-1",
+      "address": "Petrské náměstí, 4, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Alforno Široká ul.",
+      "district": "praha-1",
+      "address": "Široká, 25/6, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Atmosphere",
+      "district": "praha-1",
+      "address": "Smetanovo nábřeží, 14, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 02:00 Pondělí: 11:00 - 02:00 Úterý: 11:00 - 02:00 Středa: 11:00 - 02:00 Čtvrtek: 11:00 - 02:00 Pátek: 11:00 - 02:00 Sobota: 11:00 - 02:00 Neděle: 11:00 - 02:00"
+    },
+    {
+      "name": "Beefhouse grill & bar",
+      "district": "praha-1",
+      "address": "Mlynářská, 3, 11000, Praha 1",
+      "openingHours": "Dnes: 10.30 – 23.00 Pondělí: 10.30 – 23.00 Úterý: 10.30 – 23.00 Středa: 10.30 – 23.00 Čtvrtek: 10.30 – 23.00 Pátek: 10.30 – 23.00 Sobota: 10.30 – 23.00 Neděle: 10.30 – 22.00"
+    },
+    {
+      "name": "Bílá Vrána",
+      "district": "praha-1",
+      "address": "Ve Smečkách, 604/5, 110 00, Praha 1",
+      "openingHours": "Dnes: 9:00 - 18:00 Pondělí: 9:00 - 18:00 Úterý: 9:00 - 18:00 Středa: 9:00 - 18:00 Čtvrtek: 9:00 - 18:00 Pátek: Zavřeno Sobota: Zavřeno Neděle: Zavřeno"
+    },
+    {
+      "name": "Bistro&Café Grandior",
+      "district": "praha-1",
+      "address": "Na Poříčí, 42, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30 - 22:30 Pondělí: 11:30 - 22:30 Úterý: 11:30 - 22:30 Středa: 11:30 - 22:30 Čtvrtek: 11:30 - 22:30 Pátek: 11:30 - 22:30 Sobota: 11:00 - 22:30 Neděle: 11:00 - 22:30"
+    },
+    {
+      "name": "Bistro Muzeum",
+      "district": "praha-1",
+      "address": "Vinohradská, 52/1, 110 00, Praha 1",
+      "openingHours": "Dnes: 09:30 - 19:00 Pondělí: 09:30 - 19:00 Úterý: 09:30 - 19:00 Středa: 09:30 - 19:00 Čtvrtek: 09:30 - 19:00 Pátek: 09:30 - 19:00 Sobota: 09:30 - 19:00 Neděle: 09:30 - 19:00"
+    },
+    {
+      "name": "Bistro Národní",
+      "district": "praha-1",
+      "address": "Národní, 3, 110 00, Praha 1",
+      "openingHours": "Dnes: 07:45 - 15:30 Pondělí: 07:45 - 15:30 Úterý: 07:45 - 15:30 Středa: 07:45 - 15:30 Čtvrtek: 07:45 - 15:30 Pátek: 07:45 - 15:30 Sobota: ------- Neděle: -------"
+    },
+    {
+      "name": "Bistro Nekázanka 11",
+      "district": "praha-1",
+      "address": "Nekázanka , 880/11, 110 00, Praha 1",
+      "openingHours": "Dnes: 08:00 - 16:00 Pondělí: 08:00 - 16:00 Úterý: 08:00 - 16:00 Středa: 08:00 - 16:00 Čtvrtek: 08:00 - 16:00 Pátek: 08:00 - 15:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Bredovský dvůr",
+      "district": "praha-1",
+      "address": "Politických vězňů, 935/13, 110 00, Praha 1",
+      "openingHours": "Dnes: 11.00 - 24.00 Pondělí: 11.00 - 24.00 Úterý: 11.00 - 24.00 Středa: 11.00 - 24.00 Čtvrtek: 11.00 - 24.00 Pátek: 11.00 - 24.00 Sobota: 11.00 - 24.00 Neděle: 11.00 - 23.00"
     }
   ]
 }
