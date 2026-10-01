@@ -1,18 +1,42 @@
 {
-  "scraped_at": "2026-09-01T11:45:04",
-  "count": 574,
+  "scraped_at": "2026-10-01T13:11:08",
+  "count": 572,
   "restaurants": [
     {
-      "name": "Malostranská Beseda",
+      "name": "The Piano Bar Prague",
       "district": "praha-1",
-      "address": "Malostranské náměstí, 35/21, 11800, Praha 1",
+      "address": "Na Příkopě, 852/10, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30-01:00 Pondělí: - Úterý: 11:30-00:00 Středa: 11:30-01:00 Čtvrtek: 11:30-01:00 Pátek: 11:30-03:00 Sobota: 11:30-03:00 Neděle: 11:30-00:00"
+    },
+    {
+      "name": "Farina",
+      "district": "praha-1",
+      "address": "Hybernská, 1033/7, 110 00, Praha 1",
+      "openingHours": "Dnes: 10:30 - 23:30 Pondělí: 10:30 - 23:30 Úterý: 10:30 - 23:30 Středa: 10:30 - 23:30 Čtvrtek: 10:30 - 23:30 Pátek: 10:30 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
+    },
+    {
+      "name": "Mlejn",
+      "district": "praha-1",
+      "address": "Kovářova, 1615/4, 155 00, Praha 5",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Restaurace Obecní dům",
+      "name": "Vila Lanna",
       "district": "praha-1",
-      "address": "náměstí Republiky , 1090/5, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
+      "address": "V Sadech, 1, 160 00, Praha 6",
+      "openingHours": "Dnes: Pondělí: Úterý: Středa: Čtvrtek: Pátek: Sobota: Neděle:"
+    },
+    {
+      "name": "Bernard Pub U Bílého Lva",
+      "district": "praha-1",
+      "address": "Bělohorská, 241/79, 169 00, Praha 6",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
+    },
+    {
+      "name": "Balounova restaurace U Břízy",
+      "district": "praha-1",
+      "address": "Jižní, IX , 2960/12, 141 00, Praha 4",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 01:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
       "name": "U Rozvařilů",
@@ -27,12 +51,6 @@
       "openingHours": "Dnes: 12:00 - 23:00 Pondělí: 12:00 - 23:00 Úterý: 12:00 - 23:00 Středa: 12:00 - 23:00 Čtvrtek: 12:00 - 23:00 Pátek: 12:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
-      "name": "Hospůdka u Kašpárka",
-      "district": "praha-1",
-      "address": "Dubečská, 4/74, 10000, Praha 10",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
-    },
-    {
       "name": "A.Dvořák",
       "district": "praha-1",
       "address": "Opletalova, 916/11, 110 00, Praha 1",
@@ -43,12 +61,6 @@
       "district": "praha-1",
       "address": "Národní, 40/36, 110 00, Praha 1",
       "openingHours": "Dnes: 08:00 - 23:00 Pondělí: 08:00 - 23:00 Úterý: 08:00 - 23:00 Středa: 08:00 - 23:00 Čtvrtek: 08:00 - 23:00 Pátek: 08:00 - 23:00 Sobota: 09:00 - 23:00 Neděle: 09:00 - 23:00"
-    },
-    {
-      "name": "Brasserie 1932",
-      "district": "praha-1",
-      "address": "Štěpánská, 623/40, 110 00, Praha 1",
-      "openingHours": "Dnes: 12:00 - 23:00 Pondělí: 12:00 - 17:00 Úterý: 12:00 - 23:00 Středa: 12:00 - 23:00 Čtvrtek: 12:00 - 23:00 Pátek: 12:00 - 23:00 Sobota: 18:00 - 23:00 Neděle: Zavřeno"
     },
     {
       "name": "Alforno Petrské nám.",
@@ -81,22 +93,10 @@
       "openingHours": "Dnes: 9:00 - 18:00 Pondělí: 9:00 - 18:00 Úterý: 9:00 - 18:00 Středa: 9:00 - 18:00 Čtvrtek: 9:00 - 18:00 Pátek: Zavřeno Sobota: Zavřeno Neděle: Zavřeno"
     },
     {
-      "name": "Bistro&Café Grandior",
-      "district": "praha-1",
-      "address": "Na Poříčí, 42, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:30 - 22:30 Pondělí: 11:30 - 22:30 Úterý: 11:30 - 22:30 Středa: 11:30 - 22:30 Čtvrtek: 11:30 - 22:30 Pátek: 11:30 - 22:30 Sobota: 11:00 - 22:30 Neděle: 11:00 - 22:30"
-    },
-    {
       "name": "Bistro Deli & Bakery",
       "district": "praha-1",
       "address": "Štěpánská, 1677/20, 110 00, Praha 1",
       "openingHours": "Dnes: 8:00 - 20:00 Pondělí: 8:00 - 20:00 Úterý: 8:00 - 20:00 Středa: 8:00 - 20:00 Čtvrtek: 8:00 - 20:00 Pátek: 8:00 - 20:00 Sobota: 9:00 - 17:00 Neděle: 9:00 - 17:00"
-    },
-    {
-      "name": "Bistro Muzeum",
-      "district": "praha-1",
-      "address": "Vinohradská, 52/1, 110 00, Praha 1",
-      "openingHours": "Dnes: 09:30 - 19:00 Pondělí: 09:30 - 19:00 Úterý: 09:30 - 19:00 Středa: 09:30 - 19:00 Čtvrtek: 09:30 - 19:00 Pátek: 09:30 - 19:00 Sobota: 09:30 - 19:00 Neděle: 09:30 - 19:00"
     },
     {
       "name": "Bistro Národní",
@@ -105,28 +105,22 @@
       "openingHours": "Dnes: 07:45 - 15:30 Pondělí: 07:45 - 15:30 Úterý: 07:45 - 15:30 Středa: 07:45 - 15:30 Čtvrtek: 07:45 - 15:30 Pátek: 07:45 - 15:30 Sobota: ------- Neděle: -------"
     },
     {
+      "name": "Bistro Nekázanka 11",
+      "district": "praha-1",
+      "address": "Nekázanka , 880/11, 110 00, Praha 1",
+      "openingHours": "Dnes: 08:00 - 16:00 Pondělí: 08:00 - 16:00 Úterý: 08:00 - 16:00 Středa: 08:00 - 16:00 Čtvrtek: 08:00 - 16:00 Pátek: 08:00 - 15:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
       "name": "Bredovský dvůr",
       "district": "praha-1",
       "address": "Politických vězňů, 935/13, 110 00, Praha 1",
       "openingHours": "Dnes: 11.00 - 24.00 Pondělí: 11.00 - 24.00 Úterý: 11.00 - 24.00 Středa: 11.00 - 24.00 Čtvrtek: 11.00 - 24.00 Pátek: 11.00 - 24.00 Sobota: 11.00 - 24.00 Neděle: 11.00 - 23.00"
     },
     {
-      "name": "Cacao",
-      "district": "praha-1",
-      "address": "V Celnici , 1031/4, 110 00, Praha 1",
-      "openingHours": "Dnes: 8:30 – 23:00 Pondělí: 8:30 – 23:00 Úterý: 8:30 – 23:00 Středa: 8:30 – 23:00 Čtvrtek: 8:30 – 23:00 Pátek: 8:30 – 23:00 Sobota: 9:30 – 23:00 Neděle: 9:30 – 23:00"
-    },
-    {
       "name": "Cafe de Paris",
       "district": "praha-1",
       "address": "Velkopřevorském náměstí 4, 4, 118 00, Praha 1",
       "openingHours": "Dnes: 11:30 - 24:00 Pondělí: 11:30 - 24:00 Úterý: 11:30 - 24:00 Středa: 11:30 - 24:00 Čtvrtek: 11:30 - 24:00 Pátek: 11:30 - 24:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 24:00"
-    },
-    {
-      "name": "Café Imperial",
-      "district": "praha-1",
-      "address": "Na Poříčí, 15, 110 00, Praha 1",
-      "openingHours": "Dnes: 7:00 - 23:00 Pondělí: 7:00 - 23:00 Úterý: 7:00 - 23:00 Středa: 7:00 - 23:00 Čtvrtek: 7:00 - 23:00 Pátek: 7:00 - 23:00 Sobota: 7:00 - 23:00 Neděle: 7:00 - 23:00"
     },
     {
       "name": "Café Jericho",
@@ -147,12 +141,6 @@
       "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "Ristorante Carmelita Pizzeria",
-      "district": "praha-1",
-      "address": "Újezd , 31, 11800, Praha 1",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
-    },
-    {
       "name": "Kolkovna Celnice",
       "district": "praha-1",
       "address": "V Celnici, 1031/4, 11000, Praha 1",
@@ -169,12 +157,6 @@
       "district": "praha-1",
       "address": "Václavské náměstí, 799/48, 140 00, Praha 1",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Country Life Melantrichova",
-      "district": "praha-1",
-      "address": "Melantrichova, 15, 110 00, Praha 1",
-      "openingHours": "Dnes: 10.30-18.00 Pondělí: 10.30-18.00 Úterý: 10.30-18.00 Středa: 10.30-18.00 Čtvrtek: 10.30-18.00 Pátek: 10.30-17.00 Sobota: ---------- Neděle: 11.30-15.30"
     },
     {
       "name": "Dantes bistro",
@@ -195,16 +177,16 @@
       "openingHours": "Dnes: 07:30 - 17:00 Pondělí: 07:30 - 17:00 Úterý: 07:30 - 17:00 Středa: 07:30 - 17:00 Čtvrtek: 07:30 - 17:00 Pátek: 07:30 - 17:00 Sobota: 11:00 - 21:00 Neděle: 11:00 - 17:00"
     },
     {
+      "name": "Dutch Pub",
+      "district": "praha-1",
+      "address": "Vladislavova , 1390/17, 11000, Praha 1",
+      "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 01:00 Sobota: 12:00 - 01:00 Neděle: 12:00 - 23:00"
+    },
+    {
       "name": "Dvě Kachny",
       "district": "praha-1",
       "address": "Na Příkopě, 16, 110 00, Praha 1",
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
-    },
-    {
-      "name": "Farina",
-      "district": "praha-1",
-      "address": "Hybernská, 1033/7, 110 00, Praha 1",
-      "openingHours": "Dnes: 10:30 - 23:30 Pondělí: 10:30 - 23:30 Úterý: 10:30 - 23:30 Středa: 10:30 - 23:30 Čtvrtek: 10:30 - 23:30 Pátek: 10:30 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
       "name": "Ferdinanda Novoměstská",
@@ -231,12 +213,6 @@
       "openingHours": "Dnes: 11:00-23:30 Pondělí: 11:00-23:30 Úterý: 11:00-23:30 Středa: 11:00-23:30 Čtvrtek: 11:00-23:30 Pátek: 11:00-23:30 Sobota: 12:00-23:30 Neděle: 12:00-23:30"
     },
     {
-      "name": "GamberoRosso",
-      "district": "praha-1",
-      "address": "Jakubská , 744/4, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
       "name": "Góvinda",
       "district": "praha-1",
       "address": "Soukenická , 27, 110 00, Praha 1",
@@ -261,19 +237,13 @@
       "openingHours": "Dnes: 11:00 - 02:00 Pondělí: 11:00 - 02:00 Úterý: 11:00 - 02:00 Středa: 11:00 - 02:00 Čtvrtek: 11:00 - 02:00 Pátek: 11:00 - 02:00 Sobota: 18:00 - 02:00 Neděle:"
     },
     {
-      "name": "Hotel Opera",
-      "district": "praha-1",
-      "address": "Těšnov, 1743/13, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 16:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 14:00"
-    },
-    {
       "name": "InGarden Noodles Restaurant Café",
       "district": "praha-1",
       "address": "Politických vězňů, 913/12, 110 00, Praha 1",
       "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
     },
     {
-      "name": "Isaac BBQ",
+      "name": "Isaac's BBQ",
       "district": "praha-1",
       "address": "Jungmannova, 10, 11000, Praha 1",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle:"
@@ -295,12 +265,6 @@
       "district": "praha-1",
       "address": "U obecního dvora - Josefov, 4, 110 00, Praha 1",
       "openingHours": "Dnes: 11:00 - 00:30 Pondělí: 11:00 - 00:30 Úterý: 11:00 - 00:30 Středa: 11:00 - 00:30 Čtvrtek: 11:00 - 00:30 Pátek: 11:00 - 02:00 Sobota: 11:00 - 02:00 Neděle: 11:00 - 00:30"
-    },
-    {
-      "name": "Jídelna SVĚTOZOR",
-      "district": "praha-1",
-      "address": "Vodičkova, 39, 11000, Praha 1",
-      "openingHours": "Dnes: 10:00 - 15:00 Pondělí: 10:00 - 15:00 Úterý: 10:00 - 15:00 Středa: 10:00 - 15:00 Čtvrtek: 10:00 - 15:00 Pátek: 10:00 - 15:00 Sobota: 10:00 - 15:00 Neděle: 10:00 - 15:00"
     },
     {
       "name": "Jiná Krajina",
@@ -327,22 +291,22 @@
       "openingHours": "Dnes: 11:00 – 23:30 Pondělí: 11:00 – 23:30 Úterý: 11:00 – 23:30 Středa: 11:00 – 23:30 Čtvrtek: 11:00 – 23:30 Pátek: 11:00 – 00:30 Sobota: 11:00 – 00:30 Neděle: 11:00 – 23:30"
     },
     {
-      "name": "Krušovická Šalanda",
+      "name": "Krčma",
       "district": "praha-1",
-      "address": "Václavské náměstí , 819/43, 11000, Praha 1",
-      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-24:00 Sobota: 11:30-24:00 Neděle: 11:30-23:00"
+      "address": "Kostečná, 4, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Krusta",
+      "district": "praha-1",
+      "address": "Vodičkova, 11, 11000, Praha 1",
+      "openingHours": "Dnes: 00:00 - 00:00 Pondělí: 00:00 - 00:00 Úterý: 00:00 - 00:00 Středa: 00:00 - 00:00 Čtvrtek: 00:00 - 00:00 Pátek: 00:00 - 00:00 Sobota: 00:00 - 00:00 Neděle: 00:00 - 00:00"
     },
     {
       "name": "Kyvadlo",
       "district": "praha-1",
       "address": "V Jámě, 5, 110 00, Praha 1",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: Neděle:"
-    },
-    {
-      "name": "La Boca",
-      "district": "praha-1",
-      "address": "Truhlářská, 1114/10, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
       "name": "La Casa Blů",
@@ -355,6 +319,12 @@
       "district": "praha-1",
       "address": "V Jámě, 8, 101 00, Praha 1",
       "openingHours": "Dnes: 11:00 – 15:00, 17:00 Pondělí: 11:00 – 15:00, 17:00 Úterý: 11:00 – 15:00, 17:00 Středa: 11:00 – 15:00, 17:00 Čtvrtek: 11:00 – 15:00, 17:00 Pátek: 11:00 – 15:00, 17:00 Sobota: 11:00 - 22:00 Neděle: zavřeno"
+    },
+    {
+      "name": "La Corte & Dvůr restaurant",
+      "district": "praha-1",
+      "address": "Na Poříčí, 44, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
       "name": "La Piccola Perla",
@@ -375,10 +345,16 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "Las Adelitas - V Jámě",
+      "name": "Lacinka",
       "district": "praha-1",
-      "address": "V Jámě, 633/9, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
+      "address": "Na Florenci, 1413/33, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00-20:00 Pondělí: 11:00-20:00 Úterý: 11:00-20:00 Středa: 11:00-20:00 Čtvrtek: 11:00-20:00 Pátek: 11:00-20:00 Sobota: Neděle:"
+    },
+    {
+      "name": "Lehká hlava",
+      "district": "praha-1",
+      "address": "Boršov , 2/280, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30-20:00 Pondělí: 11:30-20:00 Úterý: 11:30-20:00 Středa: 11:30-20:00 Čtvrtek: 11:30-20:00 Pátek: 11:30-20:00 Sobota: 12:00-20:00 Neděle: 12:00-20:00"
     },
     {
       "name": "Lidová jídelna Těšnov",
@@ -387,10 +363,10 @@
       "openingHours": "Dnes: 10:30 - 14:00 / 17:0 Pondělí: 10:30 - 14:00 / 17: Úterý: 10:30 - 14:00 / 17:0 Středa: 10:30 - 14:00 / 17:0 Čtvrtek: 10:30 - 14:00 / 17:0 Pátek: 10:30 - 14:00 / 17:0 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
-      "name": "Hospoda v Lucerně",
+      "name": "Restaurace MAITREA",
       "district": "praha-1",
-      "address": "Vodičkova, 36, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 24.00 Pondělí: 11:00 - 24.00 Úterý: 11:00 - 24.00 Středa: 11:00 - 24.00 Čtvrtek: 11:00 - 24.00 Pátek: 11:00 - 03.00 Sobota: 17:00 - 03.00 Neděle: ----------"
+      "address": "Týnská ulička, 1064/6, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30-22:30 Pondělí: 11:30-22:30 Úterý: 11:30-22:30 Středa: 11:30-22:30 Čtvrtek: 11:30-22:30 Pátek: 11:30-22:30 Sobota: 12:00-22:30 Neděle: 12:00-22:00"
     },
     {
       "name": "Art Restaurant Mánes",
@@ -411,12 +387,6 @@
       "openingHours": "Dnes: 11:00–23:00 Pondělí: 11:00–23:00 Úterý: 11:00–23:00 Středa: 11:00–23:00 Čtvrtek: 11:00–23:00 Pátek: 11:00–23:00 Sobota: 12:00–23:00 Neděle: 12:00–23:00"
     },
     {
-      "name": "Meat Beer",
-      "district": "praha-1",
-      "address": "Washingtonova , 1568/23, 1100, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 22:00"
-    },
-    {
       "name": "Mimosa",
       "district": "praha-1",
       "address": "Národní, 37/416, 110 00, Praha 1",
@@ -427,12 +397,6 @@
       "district": "praha-1",
       "address": "Staroměstské náměstí, 930/7 , 11000, Praha 1",
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
-    },
-    {
-      "name": "Monarch",
-      "district": "praha-1",
-      "address": "Na Perštýně , 15, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 17:00 - 23:00"
     },
     {
       "name": "Národní kavárna",
@@ -462,13 +426,7 @@
       "name": "Hybernská",
       "district": "praha-1",
       "address": "Dlážděná , 1003/7, 110 00, Praha 1",
-      "openingHours": "Dnes: 10:45 - 23:00 Pondělí: 10:45 - 23:00 Úterý: 10:45 - 23:00 Středa: 10:45 - 23:00 Čtvrtek: 10:45 - 00:00 Pátek: 10:45 - 00:00 Sobota: 11:30 - 00:00 Neděle: 11:30 - 22:30"
-    },
-    {
-      "name": "Pilsnerka Národní",
-      "district": "praha-1",
-      "address": "Národní, 1987/22, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
+      "openingHours": "Dnes: 10:45 - 00:00 Pondělí: 10:45 - 23:00 Úterý: 10:45 - 23:00 Středa: 10:45 - 23:00 Čtvrtek: 10:45 - 00:00 Pátek: 10:45 - 00:00 Sobota: 11:30 - 00:00 Neděle: 11:30 - 22:30"
     },
     {
       "name": "Pivnice Obecní dům",
@@ -489,16 +447,16 @@
       "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 23:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 22:00"
     },
     {
-      "name": "Pizzeria Castello",
-      "district": "praha-1",
-      "address": "Bílkova, 5, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: Neděle:"
-    },
-    {
       "name": "Platz",
       "district": "praha-1",
       "address": "Malé náměstí, 459/11, 11000, Praha 1",
       "openingHours": "Dnes: 11:00 - 15:00 Pondělí: 11:00 - 15:00 Úterý: 11:00 - 15:00 Středa: 11:00 - 15:00 Čtvrtek: 11:00 - 15:00 Pátek: 11:00 - 15:00 Sobota: Neděle:"
+    },
+    {
+      "name": "Restaurace Plný Pekáč",
+      "district": "praha-1",
+      "address": "Lázeňská , 286/6, 11800, Praha 1",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
       "name": "Malostranský Restaurant Pod Petřínem",
@@ -525,12 +483,6 @@
       "openingHours": "Dnes: 11.00 - 15.30 Pondělí: 11.00 - 15.30 Úterý: 11.00 - 15.30 Středa: 11.00 - 15.30 Čtvrtek: 11.00 - 15.30 Pátek: 11.00 - 15.30 Sobota: Neděle:"
     },
     {
-      "name": "Bistro Republika",
-      "district": "praha-1",
-      "address": "Petrská , 5, 110 00, Praha 1",
-      "openingHours": "Dnes: 7:30-20:00 Pondělí: 7:30-20:00 Úterý: 7:30-20:00 Středa: 7:30-20:00 Čtvrtek: 7:30-20:00 Pátek: 7:30-20:00 Sobota: 8:00-22:00 Neděle: 8:00-20:00"
-    },
-    {
       "name": "Restaurant Amos",
       "district": "praha-1",
       "address": "Masná, 17, 11000, Praha 1",
@@ -543,10 +495,22 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
+      "name": "Restaurace Obecní dům",
+      "district": "praha-1",
+      "address": "náměstí Republiky , 1090/5, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
+    },
+    {
       "name": "Restaurace Sklep",
       "district": "praha-1",
       "address": "Na Poříčí, 1933/36, 11000, Praha 1",
       "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:30 Sobota: 11:30-23:30 Neděle: 11:00-23:00"
+    },
+    {
+      "name": "Roesel",
+      "district": "praha-1",
+      "address": "Mostecká , 20, 118 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 12:00 - 19:30"
     },
     {
       "name": "Rustica",
@@ -585,10 +549,10 @@
       "openingHours": "Dnes: 11:30 - 23:30 Pondělí: 11:30 - 23:30 Úterý: 11:30 - 23:30 Středa: 11:30 - 23:30 Čtvrtek: 11:30 - 23:30 Pátek: 11:30 - 23:30 Sobota: 11:30 - 23:30 Neděle: 11:30 - 23:30"
     },
     {
-      "name": "The Piano Bar Prague",
+      "name": "Restaurace Štupartská",
       "district": "praha-1",
-      "address": "Na Příkopě, 852/10, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:30-00:00 Pondělí: - Úterý: 11:30-00:00 Středa: 11:30-01:00 Čtvrtek: 11:30-01:00 Pátek: 11:30-03:00 Sobota: 11:30-03:00 Neděle: 11:30-00:00"
+      "address": "Štupartská, 745/9, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
       "name": "The Pub",
@@ -601,12 +565,6 @@
       "district": "praha-1",
       "address": "Konviktská , 11, 110 00, Praha 1",
       "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 00:00 Sobota: 11:00 - 00:00 Neděle: 11:00 - 00:00"
-    },
-    {
-      "name": "Restaurace Tiskárna",
-      "district": "praha-1",
-      "address": "Jindřišská ulice , 940/22, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
       "name": "Titanic steak & beer",
@@ -624,13 +582,7 @@
       "name": "U Balbínů",
       "district": "praha-1",
       "address": "Jungmannova, 742/22, 110 00, Praha 1",
-      "openingHours": "Dnes: 12:00 - 24:00 Pondělí: 12:00 - 24:00 Úterý: 12:00 - 24:00 Středa: 12:00 - 24:00 Čtvrtek: 12:00 - 01:00 Pátek: 12:00 - 01:00 Sobota: 12:00 - 01:00 Neděle: 12:00 - 24:00"
-    },
-    {
-      "name": "U Betlémské kaple",
-      "district": "praha-1",
-      "address": "U Betlémské kaple , 251/2, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+      "openingHours": "Dnes: 12:00 - 01:00 Pondělí: 12:00 - 24:00 Úterý: 12:00 - 24:00 Středa: 12:00 - 24:00 Čtvrtek: 12:00 - 01:00 Pátek: 12:00 - 01:00 Sobota: 12:00 - 01:00 Neděle: 12:00 - 24:00"
     },
     {
       "name": "U Dvou Koček",
@@ -642,7 +594,7 @@
       "name": "U Jindřišské věže",
       "district": "praha-1",
       "address": "Jindřišská, 26, 110 00, Praha 1",
-      "openingHours": "Dnes: 10:00 - 22:00 Pondělí: 10:00 - 22:00 Úterý: 10:00 - 22:00 Středa: 10:00 - 22:00 Čtvrtek: 1:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 -22:00 Neděle: 11:00 -22:00"
+      "openingHours": "Dnes: 1:00 - 22:00 Pondělí: 10:00 - 22:00 Úterý: 10:00 - 22:00 Středa: 10:00 - 22:00 Čtvrtek: 1:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 -22:00 Neděle: 11:00 -22:00"
     },
     {
       "name": "Restaurace U Kotvy",
@@ -687,6 +639,12 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
+      "name": "U Špirků",
+      "district": "praha-1",
+      "address": "Kožná, 12, 110 00, Praha 1",
+      "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 21:00 Sobota: 11:00 - 21:00 Neděle: 11:00 - 21:00"
+    },
+    {
       "name": "U Tří růží",
       "district": "praha-1",
       "address": "Husova, 10/232, 110 00, Praha 1",
@@ -696,13 +654,7 @@
       "name": "U tří zlatých trojek",
       "district": "praha-1",
       "address": "Tomášská, 25/6, 118 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00-22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
-    },
-    {
-      "name": "U Zlatého slona",
-      "district": "praha-1",
-      "address": "Havelská, 508/í, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:30 - 22:00 Neděle: 11:30 - 22:00"
+      "openingHours": "Dnes: 11:00-22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00-22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "U Zpěváčků",
@@ -711,10 +663,10 @@
       "openingHours": "Dnes: 11:00 - 01:00 Pondělí: 11:00 - 01:00 Úterý: 11:00 - 01:00 Středa: 11:00 - 01:00 Čtvrtek: 11:00 - 01:00 Pátek: 11:00 - 01:00 Sobota: 11:00 - 01:00 Neděle: 11:00 - 01:00"
     },
     {
-      "name": "Kavárna & restaurace Velryba",
+      "name": "Veget bistro café",
       "district": "praha-1",
-      "address": "Opatovická, 24, 110 00, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: Neděle:"
+      "address": "Štěpánská , 51, 110 00, Praha 1",
+      "openingHours": "Dnes: 8:00 - 18:00 Pondělí: 8:00 - 18:00 Úterý: 8:00 - 18:00 Středa: 8:00 - 18:00 Čtvrtek: 8:00 - 18:00 Pátek: 8:00 - 18:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
       "name": "Vinograf",
@@ -744,7 +696,7 @@
       "name": "Zdravé žití U Tří růží",
       "district": "praha-1",
       "address": "Soukenická, 21, 110 00, Praha 1",
-      "openingHours": "Dnes: 9:00 - 18:30 Pondělí: 9:00 - 18:30 Úterý: 9:00 - 18:30 Středa: 9:00 - 18:30 Čtvrtek: 9:00 - 18:30 Pátek: 9:00 - 18:30 Sobota: zavřeno Neděle: zavřeno"
+      "openingHours": "Dnes: 10:00 - 18:00 Pondělí: 10:00 - 18:00 Úterý: 10:00 - 18:00 Středa: 10:00 - 18:00 Čtvrtek: 10:00 - 18:00 Pátek: 10:00 - 18:00 Sobota: zavřeno Neděle: zavřeno"
     },
     {
       "name": "Zlatá Lyra",
@@ -753,52 +705,40 @@
       "openingHours": "Dnes: 12:00 - 21:00 Pondělí: 12:00 - 20:00 Úterý: 12:00 - 21:00 Středa: 12:00 - 21:00 Čtvrtek: 12:00 - 21:00 Pátek: 12:00 - 22:00 Sobota: 12:00 - 22:00 Neděle: Zavřeno"
     },
     {
-      "name": "Zlaté Časy",
-      "district": "praha-1",
-      "address": "Vladislavova , 1719/1, 11000, Praha 1",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 1:00 - 00:00 Sobota: 12:00 - 00:00 Neděle: 12:00 - 23:00"
-    },
-    {
       "name": "Zorto",
       "district": "praha-1",
       "address": "Nekázanka, 2037/6, 110 00, Praha 1",
       "openingHours": "Dnes: 8:30-23:00 Pondělí: 8:30-23:00 Úterý: 8:30-23:00 Středa: 8:30-23:00 Čtvrtek: 8:30-23:00 Pátek: 8:30-23:00 Sobota: Zavřeno Neděle: Zavřeno"
     },
     {
-      "name": "Chang Restaurace",
+      "name": "Pohostinství Sport",
       "district": "praha-1",
-      "address": "Tržní, 421, 436 01, Litvínov",
-      "openingHours": "Dnes: Pondělí: Úterý: Středa: Čtvrtek: Pátek: Sobota: Neděle:"
+      "address": "Drážďanská , 487/70, 400 07, Ústí nad Labem",
+      "openingHours": "Dnes: 10:00 - 20:00 Pondělí: 10:00 - 20:00 Úterý: 10:00 - 20:00 Středa: 10:00 - 20:00 Čtvrtek: 10:00 - 20:00 Pátek: 10:00 - 20:00 Sobota: -------------- Neděle: --------------"
     },
     {
-      "name": "Jídelna Elka",
+      "name": "Pulpamen",
       "district": "praha-1",
-      "address": "Masarykovo náměstí, 2655, 530 02, Pardubice",
-      "openingHours": "Dnes: 07:15 - 14:00 Pondělí: 07:15 - 14:00 Úterý: 07:15 - 14:00 Středa: 07:15 - 14:00 Čtvrtek: 07:15 - 14:00 Pátek: 07:15 - 14:00 Sobota: -------------- Neděle: --------------"
+      "address": "Hradišťská , 184/3, 29306, Mladá Boleslav",
+      "openingHours": "Dnes: 11:00 - 14:00 Pondělí: Úterý: 11:00 - 14:00 Středa: 11:00 - 14:00 Čtvrtek: 11:00 - 14:00 Pátek: 11:00 - 14:00 Sobota: Neděle:"
     },
     {
-      "name": "Jídelna Lions Group",
+      "name": "na.zimáku",
       "district": "praha-1",
-      "address": "Jana Palacha, 515, 530 02, Pardubice",
-      "openingHours": "Dnes: 10:30 - 13:00 Pondělí: 10:30 - 13:00 Úterý: 10:30 - 13:00 Středa: 10:30 - 13:00 Čtvrtek: 10:30 - 13:00 Pátek: 10:30 - 13:00 Sobota: -------------- Neděle: --------------"
+      "address": "Zámecký okruh, 413/8, 74601, Opava",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 21:00"
     },
     {
-      "name": "U Petra",
+      "name": "Staré Nádraží",
       "district": "praha-1",
-      "address": "Seifertova, 1698, 43601, Litvínov",
-      "openingHours": "Dnes: 10:30 - 23:00 Pondělí: 10:30 - 23:00 Úterý: 10:30 - 23:00 Středa: 10:30 - 23:00 Čtvrtek: 10:30 - 23:00 Pátek: 10:30 - 24:00 Sobota: 10:00 - 24:00 Neděle: 10:00 - 22:00"
+      "address": "K Černavám , 239/5, 725 29, Ostrava",
+      "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 20:00"
     },
     {
-      "name": "The Pub and Grill No. 1",
+      "name": "Pizzeria Al Tagliere",
       "district": "praha-2",
-      "address": "Karlovo nám., 28, 12000, Praha 2",
-      "openingHours": "Dnes: 9:00 - 23:00 Pondělí: 9:00 - 23:00 Úterý: 9:00 - 23:00 Středa: 9:00 - 23:00 Čtvrtek: 9:00 - 23:00 Pátek: 9:00 - 23:00 Sobota: 09:00 - 23:00 Neděle: ZAVŘENO"
-    },
-    {
-      "name": "Café AdAstra",
-      "district": "praha-2",
-      "address": "Podskalská, 8 , 128 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: ZAVŘENO"
+      "address": "Balbínova, 496/8, 120 00, Praha 2",
+      "openingHours": "Dnes: 11:30 - 22:30 Pondělí: 11:30 - 22:30 Úterý: 11:30 - 22:30 Středa: 11:30 - 22:30 Čtvrtek: 11:30 - 22:30 Pátek: 11:30 - 22:30 Sobota: 12:00 - 22:30 Neděle: 12:00 - 22:30"
     },
     {
       "name": "Amiata - La Cucina Toscana",
@@ -807,34 +747,16 @@
       "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:00 Sobota: 11:00-23:00 Neděle: 11:00-23:00"
     },
     {
-      "name": "Mechanický Balet",
-      "district": "praha-2",
-      "address": "Žitná , 1578/52, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 00:00 Sobota: 17:00 - 00:00 Neděle: zavřeno"
-    },
-    {
-      "name": "Beer & Burger U Čížků",
-      "district": "praha-2",
-      "address": "Karlovo náměstí, 551/34, 120 00, Praha 2",
-      "openingHours": "Dnes: 10:00 - 22:00 Pondělí: 10:00 - 22:00 Úterý: 10:00 - 22:00 Středa: 10:00 - 22:00 Čtvrtek: 10:00 - 22:00 Pátek: 10:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
-    },
-    {
       "name": "Bistro Poctivka",
       "district": "praha-2",
       "address": "Vyšehradská, 1376/43, 12800, Praha 2",
       "openingHours": "Dnes: 07:30 - 15:00 Pondělí: 07:30 - 15:00 Úterý: 07:30 - 15:00 Středa: 07:30 - 15:00 Čtvrtek: 07:30 - 15:00 Pátek: 07:30 - 15:00 Sobota: Neděle:"
     },
     {
-      "name": "Bistro Živina",
-      "district": "praha-2",
-      "address": "Albertov , 2038/6 , 128 00, Praha 2",
-      "openingHours": "Dnes: 08:00- 16:30 Pondělí: 08:00- 16:30 Úterý: 08:00- 16:30 Středa: 08:00- 16:30 Čtvrtek: 08:00- 16:30 Pátek: 08:00- 16:30 Sobota: ZAVŘENO Neděle: ZAVŘENO"
-    },
-    {
       "name": "Bruxx",
       "district": "praha-2",
       "address": "Náměstí Míru, 9, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:30 - 23:30 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:30 Středa: 11:30 - 23:30 Čtvrtek: 11:30 - 00:00 Pátek: 11:30 - 00:00 Sobota: 11:30 - 00:00 Neděle: 11:30 - 23:00"
+      "openingHours": "Dnes: 11:30 - 00:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:30 Středa: 11:30 - 23:30 Čtvrtek: 11:30 - 00:00 Pátek: 11:30 - 00:00 Sobota: 11:30 - 00:00 Neděle: 11:30 - 23:00"
     },
     {
       "name": "Restaurace Buket",
@@ -843,22 +765,22 @@
       "openingHours": "Dnes: 09:00 - 22:00 Pondělí: 09:00 - 22:00 Úterý: 09:00 - 22:00 Středa: 09:00 - 22:00 Čtvrtek: 09:00 - 22:00 Pátek: 09:00 - 22:00 Sobota: na objednávku Neděle: na objednávku"
     },
     {
-      "name": "Concordia Ristorante & Pizzeria",
+      "name": "Café AdAstra",
       "district": "praha-2",
-      "address": "Náměstí Míru, 1220/3, 12000, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+      "address": "Podskalská, 8 , 128 00, Praha 2",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Turnovská pivnice Churchill",
+      "district": "praha-2",
+      "address": "Italská, 69, 12000, Praha 2",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Demínka",
       "district": "praha-2",
       "address": "Škrétova, 1 , 120 0, Praha 2",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
-    },
-    {
-      "name": "Excelsior Pub",
-      "district": "praha-2",
-      "address": "Fričova, 1350/8, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
       "name": "Fair Food Club",
@@ -906,7 +828,7 @@
       "name": "Herbivore",
       "district": "praha-2",
       "address": "Rašínovo nábřeží, 409/34, 120 00, Praha 2",
-      "openingHours": "Dnes: Zavřeno Pondělí: Zavřeno Úterý: Zavřeno Středa: 11:00 - 19:00 Čtvrtek: 11:00 - 19:00 Pátek: 11:00 - 19:00 Sobota: 11:00 - 19:00 Neděle: 11:00 - 19:00"
+      "openingHours": "Dnes: 11:00 - 19:00 Pondělí: Zavřeno Úterý: Zavřeno Středa: 11:00 - 19:00 Čtvrtek: 11:00 - 19:00 Pátek: 11:00 - 19:00 Sobota: 11:00 - 19:00 Neděle: 11:00 - 19:00"
     },
     {
       "name": "Pub & Restaurant Jamrtál",
@@ -927,28 +849,22 @@
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 23:00"
     },
     {
-      "name": "Restaurace Kravín",
-      "district": "praha-2",
-      "address": "Náměstí Míru, 109/18, 12000, Praha 2",
-      "openingHours": "Dnes: 11:00- 24:00 Pondělí: 11:00- 24:00 Úterý: 11:00- 24:00 Středa: 11:00- 24:00 Čtvrtek: 11:00- 24:00 Pátek: 11:00-01:00 Sobota: 12:00-24:00 Neděle: 12:00-23:00"
-    },
-    {
       "name": "Las Adelitas - Americká",
       "district": "praha-2",
       "address": "Americká , 8, 120 00, Praha 2",
       "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 00:00 Sobota: 12:00 - 00:00 Neděle: 12:00 - 00:00"
     },
     {
+      "name": "Restaurace Legenda",
+      "district": "praha-2",
+      "address": "Legerova, 39/1820, 12000, Praha 2",
+      "openingHours": "Dnes: 10:00 - 23:59 Pondělí: 10:00 - 23:59 Úterý: 10:00 - 23:59 Středa: 10:00 - 23:59 Čtvrtek: 10:00 - 23:59 Pátek: 10:00 - 23:59 Sobota: 10:28 - 23:59 Neděle: 10:28 - 23:59"
+    },
+    {
       "name": "Ristorante Leggero",
       "district": "praha-2",
       "address": "Londýnská, 135/29, 120 00, Praha 2",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Máchova plzeňská restaurace",
-      "district": "praha-2",
-      "address": "Máchova, 56/20, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
     },
     {
       "name": "Polévkárna paní Mančo",
@@ -967,12 +883,6 @@
       "district": "praha-2",
       "address": "Londýnská , 52, 120 00, Praha 2",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
-    },
-    {
-      "name": "Mlsnej Kocour",
-      "district": "praha-2",
-      "address": "Belgická, 116/42, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
       "name": "Na Bojišti - Centrální dispečink DP",
@@ -1011,16 +921,10 @@
       "openingHours": "Dnes: 11:00-23:30 Pondělí: 11:00-23:30 Úterý: 11:00-23:30 Středa: 11:00-23:30 Čtvrtek: 11:00-23:30 Pátek: 11:00-23:30 Sobota: 11:00-23:30 Neděle: 11:00-22:00"
     },
     {
-      "name": "Restaurace Pod Vyšehradem",
+      "name": "The Pub and Grill No. 1",
       "district": "praha-2",
-      "address": "Vratislavova , 32/4, 128 0, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 22:00"
-    },
-    {
-      "name": "QUOQ Bistro",
-      "district": "praha-2",
-      "address": "Vyšehradská, 13, 12800, Praha 2",
-      "openingHours": "Dnes: 11:30-21:00 Pondělí: 11:30-21:00 Úterý: 11:30-21:00 Středa: 11:30-21:00 Čtvrtek: 11:30-21:00 Pátek: 11:30-21:00 Sobota: 9:00-21:00 Neděle: 9:00-21:00"
+      "address": "Karlovo nám., 28, 12000, Praha 2",
+      "openingHours": "Dnes: 9:00 - 23:00 Pondělí: 9:00 - 23:00 Úterý: 9:00 - 23:00 Středa: 9:00 - 23:00 Čtvrtek: 9:00 - 23:00 Pátek: 9:00 - 23:00 Sobota: 09:00 - 23:00 Neděle: ZAVŘENO"
     },
     {
       "name": "Hostinec Respublica",
@@ -1059,12 +963,6 @@
       "openingHours": "Dnes: 11:30-22:00 Pondělí: 11:30-22:00 Úterý: 11:30-22:00 Středa: 11:30-22:00 Čtvrtek: 11:30-22:00 Pátek: 11:30-22:00 Sobota: 12:30-22:00 Neděle: 12:30-22:00"
     },
     {
-      "name": "Šenkovna PUB",
-      "district": "praha-2",
-      "address": "Sokolská , 60, 12000, Praha 2",
-      "openingHours": "Dnes: 11:00 - 1:00 Pondělí: 11:00 - 1:00 Úterý: 11:00 - 1:00 Středa: 11:00 - 1:00 Čtvrtek: 11:00 - 1:00 Pátek: 11:00 - 1:00 Sobota: 16:00 - 1:00 Neděle: zavřeno"
-    },
-    {
       "name": "Restaurace Sladovna Praha",
       "district": "praha-2",
       "address": "Vodičkova, 12/5, 120 00, Praha 2",
@@ -1077,28 +975,16 @@
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
-      "name": "TamarindTree",
-      "district": "praha-2",
-      "address": "Vyšehradská , 43, 12800, Praha 2",
-      "openingHours": "Dnes: 11:00 - 15:00 Pondělí: 11:00 - 15:00 Úterý: 11:00 - 15:00 Středa: 11:00 - 15:00 Čtvrtek: 11:00 - 15:00 Pátek: 11:00 - 15:00 Sobota: Zavřeno Neděle: Zavřeno"
-    },
-    {
       "name": "The PUB",
       "district": "praha-2",
       "address": "Hálkova , 6, 120 00, Praha 2",
       "openingHours": "Dnes: 11:00 - 02:00 Pondělí: 11:00 - 02:00 Úterý: 11:00 - 02:00 Středa: 11:00 - 02:00 Čtvrtek: 11:00 - 02:00 Pátek: 11:00 - 05:00 Sobota: 18:00 - 05:00 Neděle: zavřeno"
     },
     {
-      "name": "Trattoria Da Adi",
-      "district": "praha-2",
-      "address": "Oldřichova, 251/3, 128 00, Praha 2",
-      "openingHours": "Dnes: 11:30 - 22:00 Pondělí: 11:30 - 22:00 Úterý: 11:30 - 22:00 Středa: 11:30 - 22:00 Čtvrtek: 11:30 - 22:00 Pátek: 11:30 - 22:00 Sobota: 12:00 - 22:00 Neděle: 12:00 - 22:00"
-    },
-    {
       "name": "U Dobré myšlenky",
       "district": "praha-2",
       "address": "Podsklaská, 27, 12800, Praha 2",
-      "openingHours": "Dnes: 11:00 -19:00 Pondělí: 11:00 - 19:00 Úterý: 11:00 -19:00 Středa: 11:00 -19:00 Čtvrtek: 11:00 - 19:00 Pátek: 11:00 - 19:00 Sobota: 11:00 -19:00 Neděle: 11:00 - 19:00"
+      "openingHours": "Dnes: 11:00 - 19:00 Pondělí: 11:00 - 19:00 Úterý: 11:00 -19:00 Středa: 11:00 -19:00 Čtvrtek: 11:00 - 19:00 Pátek: 11:00 - 19:00 Sobota: 11:00 -19:00 Neděle: 11:00 - 19:00"
     },
     {
       "name": "U Gráffů",
@@ -1111,12 +997,6 @@
       "district": "praha-2",
       "address": "Šumavská , 47/20, 120 00, Praha 2",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Restaurant U Kašpara",
-      "district": "praha-2",
-      "address": "Pod Nuselskými schody, 139/1, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
       "name": "U Kroka",
@@ -1161,12 +1041,6 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Plzeňská restaurace U Sedlerů",
-      "district": "praha-2",
-      "address": "Karlovo náměstí, 17, 12000, Praha 2",
-      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:00 Sobota: 11:30-23:00 Neděle: 11:30-22:00"
-    },
-    {
       "name": "Restaurace U Šumavy",
       "district": "praha-2",
       "address": "Štěpánská , 543/3, 120 00, Praha 2",
@@ -1191,12 +1065,6 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00-24:00 Sobota: 10:00-24:00 Neděle: 10:00-23:00"
     },
     {
-      "name": "V Podskalí",
-      "district": "praha-2",
-      "address": "Podskalská , 29, 128 00, Praha 2",
-      "openingHours": "Dnes: 10.30 - 23.00 Pondělí: 10.30 - 23.00 Úterý: 10.30 - 23.00 Středa: 10.30 - 23.00 Čtvrtek: 10.30 - 23.00 Pátek: 10.30 - 23.00 Sobota: 11:00 - 22:00 Neděle: 10.30 - 23.00"
-    },
-    {
       "name": "Václavské bistro",
       "district": "praha-2",
       "address": "Karlovo náměstí, 315/6, 120 00, Praha 2",
@@ -1206,7 +1074,7 @@
       "name": "Vinohradský parlament",
       "district": "praha-2",
       "address": "Korunní, 1, 120 00, Praha 2",
-      "openingHours": "Dnes: 10:45 – 23:30 Pondělí: 10:45 – 23:00 Úterý: 10:45 – 23:30 Středa: 10:45 – 23:30 Čtvrtek: 10:45 – 24:00 Pátek: 10:45 – 24:00 Sobota: 11:30 – 24:00 Neděle: 11:30 – 23:00"
+      "openingHours": "Dnes: 10:45 – 24:00 Pondělí: 10:45 – 23:00 Úterý: 10:45 – 23:30 Středa: 10:45 – 23:30 Čtvrtek: 10:45 – 24:00 Pátek: 10:45 – 24:00 Sobota: 11:30 – 24:00 Neděle: 11:30 – 23:00"
     },
     {
       "name": "Restaurace Zapomenutý čas",
@@ -1215,22 +1083,10 @@
       "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 12:00 - 23:30 Neděle: 12:00 - 23:00"
     },
     {
-      "name": "Restaurace Zvonařka",
-      "district": "praha-2",
-      "address": "Šafaříkova, 1, 120 00, Praha 2",
-      "openingHours": "Dnes: 11:30 - 24:00 Pondělí: 11:30 - 24:00 Úterý: 11:30 - 24:00 Středa: 11:30 - 24:00 Čtvrtek: 11:30 - 24:00 Pátek: 11:30 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12.00 - 23.00"
-    },
-    {
       "name": "Plavecká Polévka",
       "district": "praha-2",
       "address": "Plavecká , 4, 120 00, Praha 2",
       "openingHours": "Dnes: 09:00 - 15:00 Pondělí: 09:00 - 15:00 Úterý: 09:00 - 15:00 Středa: 09:00 - 15:00 Čtvrtek: 09:00 - 15:00 Pátek: 09:00 - 15:00 Sobota: zavřeno Neděle: zavřeno"
-    },
-    {
-      "name": "Restaurace U Vodárny",
-      "district": "praha-3",
-      "address": "Korunní , 972/75, 130 00, Praha 3",
-      "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 23:00"
     },
     {
       "name": "Restaurace Oryx",
@@ -1239,10 +1095,16 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 00:00 Sobota: 12:00 - 00:00 Neděle: 12:00 - 23:00"
     },
     {
-      "name": "Balu Kitchen",
+      "name": "Pub Na Plech",
       "district": "praha-3",
-      "address": "Pod Krejcárkem , 975/2 , 130 00, Praha 3",
-      "openingHours": "Dnes: 8:00 - 15:00 Pondělí: 8:00 - 15:00 Úterý: 8:00 - 15:00 Středa: 8:00 - 15:00 Čtvrtek: 8:00 - 15:00 Pátek: 8:00 - 15:00 Sobota: Zavřeno Neděle: Zavřeno"
+      "address": "Bořivojova , 503/25, 13000, Praha 3",
+      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-0:00 Sobota: 11:00-0:00 Neděle: 11:00-23:00"
+    },
+    {
+      "name": "Bistro Empras",
+      "district": "praha-3",
+      "address": "Sudoměřská, 1092/30, 130 00, Praha 3",
+      "openingHours": "Dnes: 10:30 - 17:00 Pondělí: 10:30 - 17.00 Úterý: 10:30 - 17:00 Středa: 10:30 - 17:00 Čtvrtek: 10:30 - 17:00 Pátek: 10:30 - 16:30 Sobota: ---------- Neděle: ----------"
     },
     {
       "name": "Bombay Express",
@@ -1251,22 +1113,22 @@
       "openingHours": "Dnes: 11.00 – 22.30 Pondělí: 11.00 – 22.30 Úterý: 11.00 – 22.30 Středa: 11.00 – 22.30 Čtvrtek: 11.00 – 22.30 Pátek: 11.00 – 22.30 Sobota: 11.00 – 22.30 Neděle: 11.00 – 22.30"
     },
     {
-      "name": "Gouranga",
+      "name": "Cafe Lux=Air",
       "district": "praha-3",
-      "address": "Chlumova, 2, 13000, Praha 3",
-      "openingHours": "Dnes: 11:30 - 20:00 Pondělí: 11:30 - 20:00 Úterý: 11:30 - 20:00 Středa: 11:30 - 20:00 Čtvrtek: 11:30 - 20:00 Pátek: 11:30 - 17:00 Sobota: Zavřeno Neděle: Zavřeno"
+      "address": "Premyslovska , 43, 130 00, Praha 3",
+      "openingHours": "Dnes: 8:00 - 17:00 Pondělí: 8:00 - 17:00 Úterý: 8:00 - 17:00 Středa: 8:00 - 17:00 Čtvrtek: 8:00 - 17:00 Pátek: 8:00 - 15:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Jídelna na Krejcárku",
+      "district": "praha-3",
+      "address": "Pod Krejcárkem , 975/2, 130 00, Praha 3",
+      "openingHours": "Dnes: 7:30 - 15:30 Pondělí: 7:30 - 15:30 Úterý: 7:30 - 15:30 Středa: 7:30 - 15:30 Čtvrtek: 7:30 - 15:30 Pátek: 7:30 - 14:30 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
       "name": "Jídelna Sudop",
       "district": "praha-3",
       "address": "Olšanská, 2643/1a, 130 00, Praha 3",
       "openingHours": "Dnes: 11:00 - 14:00 Pondělí: 11:00 - 14:00 Úterý: 11:00 - 14:00 Středa: 11:00 - 14:00 Čtvrtek: 11:00 - 14:00 Pátek: 11:00 - 14:00 Sobota: Zavřeno Neděle: Zavřeno"
-    },
-    {
-      "name": "Kofein",
-      "district": "praha-3",
-      "address": "Nitranská, 9, 13000, Praha 3",
-      "openingHours": "Dnes: 11:00 – 24:00 Pondělí: 11:00 – 24:00 Úterý: 11:00 – 24:00 Středa: 11:00 – 24:00 Čtvrtek: 11:00 – 24:00 Pátek: 11:00 – 24:00 Sobota: 17:00 – 24:00 Neděle: 17:00 – 24:00"
     },
     {
       "name": "La Farma restaurant",
@@ -1299,6 +1161,12 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle:"
     },
     {
+      "name": "Menza AV GASTRO",
+      "district": "praha-3",
+      "address": "náměstí Winstona Churchilla, 1938/4, 130 67, Praha 3",
+      "openingHours": "Dnes: 11:00 - 18:30 Pondělí: 11:00 - 18:30 Úterý: 11:00 - 18:30 Středa: 11:00 - 18:30 Čtvrtek: 11:00 - 18:30 Pátek: 11:00 - 14:30 Sobota: Neděle:"
+    },
+    {
       "name": "Mikrofarma",
       "district": "praha-3",
       "address": "Jiřího z Poděbrad, 9, 130 00, Praha 3",
@@ -1323,6 +1191,12 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle:"
     },
     {
+      "name": "Pivnice U Sadu",
+      "district": "praha-3",
+      "address": "Pospíšilova , 1528/2, 13000, Praha 3",
+      "openingHours": "Dnes: 08:00 - 04:00 Pondělí: 08:00 - 02:00 Úterý: 08:00 - 04:00 Středa: 08:00 - 04:00 Čtvrtek: 08:00 - 04:00 Pátek: 08:00 - 04:00 Sobota: 08:00 - 04:00 Neděle: 08:00 - 02:00"
+    },
+    {
       "name": "PJ Bistro a Bar",
       "district": "praha-3",
       "address": "Velehradská, 4, 13000, Praha 3",
@@ -1333,24 +1207,6 @@
       "district": "praha-3",
       "address": "Tachovské nám. , 79/1, 130 00, Praha 3",
       "openingHours": "Dnes: 11:00 – 01:00 Pondělí: 11:00 – 01:00 Úterý: 11:00 – 01:00 Středa: 11:00 – 01:00 Čtvrtek: 11:00 – 01:00 Pátek: 11:00 – 01:00 Sobota: 11:00 – 01:00 Neděle: 11:00 – 00:00"
-    },
-    {
-      "name": "Pub Na Plech",
-      "district": "praha-3",
-      "address": "Bořivojova , 503/25, 13000, Praha 3",
-      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-0:00 Sobota: 11:00-0:00 Neděle: 11:00-23:00"
-    },
-    {
-      "name": "Restaurace Sklep",
-      "district": "praha-3",
-      "address": "Seifertova, 447/53, 13000, Praha 3",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle:"
-    },
-    {
-      "name": "Restaurace U Tří Prasátek",
-      "district": "praha-3",
-      "address": "Vinohradská, 122, 13000, Praha 3",
-      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-00:00 Sobota: 11:00-00:00 Neděle: 12:00-23:00"
     },
     {
       "name": "Roma Uno",
@@ -1368,13 +1224,7 @@
       "name": "Spravovna",
       "district": "praha-3",
       "address": "Ondříčkova, 1, 130 00, Praha 3",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 01:00 Pátek: 11:00 - 01:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 23:00"
-    },
-    {
-      "name": "Restaurace U 3 trojek",
-      "district": "praha-3",
-      "address": "Roháčova , 333/19, 130 00, Praha 3",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
+      "openingHours": "Dnes: 11:00 - 01:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 01:00 Pátek: 11:00 - 01:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 23:00"
     },
     {
       "name": "U Agamy",
@@ -1401,12 +1251,6 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "U Lapáčků",
-      "district": "praha-3",
-      "address": "Pod Jarovem , 2812/8, 13000, Praha 3",
-      "openingHours": "Dnes: 11:30 - 22:00 Pondělí: 11:30 - 22:00 Úterý: 11:30 - 22:00 Středa: 11:30 - 22:00 Čtvrtek: 11:30 - 22:00 Pátek: 11:30 - 22:00 Sobota: 11:30 - 22:00 Neděle: 11:30 - 22:00"
-    },
-    {
       "name": "U Mariánského Obrazu",
       "district": "praha-3",
       "address": "Kubelíkova , 1089/22, 130 00, Praha 3",
@@ -1419,12 +1263,6 @@
       "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:00 Sobota: 12:00-23:00 Neděle: 12:00-23:00"
     },
     {
-      "name": "Plzeňská restaurace U Sládečků",
-      "district": "praha-3",
-      "address": "Vinohradská , 142, 13000, Praha 3",
-      "openingHours": "Dnes: 11:30 – 01:00 Pondělí: 11:30 – 01:00 Úterý: 11:30 – 01:00 Středa: 11:30 – 01:00 Čtvrtek: 11:30 – 01:00 Pátek: 11:30 – 01:00 Sobota: 11:30 – 01:00 Neděle: 11:30 – 01:00"
-    },
-    {
       "name": "U Slovanské Lípy",
       "district": "praha-3",
       "address": "Tachovské nám., 288/6, 130 00, Praha 3",
@@ -1435,6 +1273,12 @@
       "district": "praha-3",
       "address": "Strážní , 1946/10 , 130 00, Praha 3",
       "openingHours": "Dnes: 10:00 - 23:00 &#8203 Pondělí: 10:00 - 23:00 &#8203 Úterý: 10:00 - 23:00 &#8203 Středa: 10:00 - 23:00 &#8203 Čtvrtek: 10:00 - 23:00 &#8203 Pátek: 10:00 - 23:00 &#8203 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Restaurace U Vodárny",
+      "district": "praha-3",
+      "address": "Korunní , 972/75, 130 00, Praha 3",
+      "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 23:00"
     },
     {
       "name": "VinCaffé",
@@ -1461,6 +1305,12 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
     },
     {
+      "name": "Perfect Canteen - Moneta",
+      "district": "praha-4",
+      "address": "Vyskočilova, 1422/1a,, 140 0, Praha 4",
+      "openingHours": "Dnes: 07:30 - 17:30 Pondělí: 07:30 - 17:30 Úterý: 07:30 - 17:30 Středa: 07:30 - 17:30 Čtvrtek: 07:30 - 17:30 Pátek: 07:30 - 16:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
       "name": "Restaurace ABC",
       "district": "praha-4",
       "address": "Za Mlýnem, 1774/12, 147 00, Praha 4",
@@ -1473,16 +1323,16 @@
       "openingHours": "Dnes: 11:00 - 22:30 Pondělí: 11:00 - 22:30 Úterý: 11:00 - 22:30 Středa: 11:00 - 22:30 Čtvrtek: 11:00 - 22:30 Pátek: 11:00 - 22:30 Sobota: 11:00 - 22:30 Neděle: 11.00 - 16:00"
     },
     {
-      "name": "Balounova restaurace U Břízy",
+      "name": "Be Gourmet - Jídelna Bezová",
       "district": "praha-4",
-      "address": "Jižní, IX , 2960/12, 141 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 01:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
+      "address": "Bezová , 1658/1, 140 00, Praha 4",
+      "openingHours": "Dnes: 8.00 – 16.00 Pondělí: 8.00 – 16.00 Úterý: 8.00 – 16.00 Středa: 8.00 – 16.00 Čtvrtek: 8.00 – 16.00 Pátek: 8.00 – 16.00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
       "name": "BejkBuu KantýnaBar",
       "district": "praha-4",
       "address": "Sofijské náměstí, 3, 14300, Praha 4",
-      "openingHours": "Dnes: 7:00 - 22:00 Pondělí: 7:00 - 22:00 Úterý: 7:00 - 22:00 Středa: 7:00 - 22:00 Čtvrtek: 7:00 - 23:00 Pátek: 7:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
+      "openingHours": "Dnes: 7:00 - 23:00 Pondělí: 7:00 - 22:00 Úterý: 7:00 - 22:00 Středa: 7:00 - 22:00 Čtvrtek: 7:00 - 23:00 Pátek: 7:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Bistro Plavecký areál Jedenáctka",
@@ -1521,12 +1371,6 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Chateau St. Havel",
-      "district": "praha-4",
-      "address": "Před nádražím, 1/6, 140 00, Praha 4",
-      "openingHours": "Dnes: 8:00- 20:00 Pondělí: 8:00- 20:00 Úterý: 8:00- 20:00 Středa: 8:00- 20:00 Čtvrtek: 8:00- 20:00 Pátek: 8:00- 20:00 Sobota: 8:00- 20:00 Neděle: 8:00- 20:00"
-    },
-    {
       "name": "Restaurace Columna",
       "district": "praha-4",
       "address": "Pyšelská, 2361/4, 149 00, Praha 4",
@@ -1549,6 +1393,12 @@
       "district": "praha-4",
       "address": "Hvězdova, 1734/2c, 140 00, Praha 4",
       "openingHours": "Dnes: 7:30 - 22:00 Pondělí: 7:30 - 22:00 Úterý: 7:30 - 22:00 Středa: 7:30 - 22:00 Čtvrtek: 7:30 - 22:00 Pátek: 7:30 - 22:00 Sobota: Neděle:"
+    },
+    {
+      "name": "Hamr - Braník",
+      "district": "praha-4",
+      "address": "K Vodě , 3200/3 , 106 00, Praha 4",
+      "openingHours": "Dnes: 7:00 do 23:00 Pondělí: 7:00 do 23:00 Úterý: 7:00 do 23:00 Středa: 7:00 do 23:00 Čtvrtek: 7:00 do 23:00 Pátek: 7:00 do 23:00 Sobota: 7:00 do 23:00 Neděle: 7:00 do 23:00"
     },
     {
       "name": "il Giardino",
@@ -1587,22 +1437,16 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "Krušovická Chalupa",
-      "district": "praha-4",
-      "address": "5. května, 798/62, 14000, Praha 4",
-      "openingHours": "Dnes: 10:30 – 22:30 Pondělí: 10:30 – 22:30 Úterý: 10:30 – 22:30 Středa: 10:30 – 22:30 Čtvrtek: 10:30 – 22:30 Pátek: 10:30 – 22:30 Sobota: 10:30 – 22:30 Neděle: 10:30 – 22:30"
-    },
-    {
       "name": "Kuta restaurace",
       "district": "praha-4",
       "address": "Zelený pruh , 95/97, 140 00, Praha 4",
-      "openingHours": "Dnes: 8:00-13:30 Pondělí: 8:00-13:30 Úterý: 8:00-13:30 Středa: 8:00-13:30 Čtvrtek: 8:00-13:30 Pátek: 8:00-13:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+      "openingHours": "Dnes: 8:00-13:00 Pondělí: 8:00-13:00 Úterý: 8:00-13:00 Středa: 8:00-13:00 Čtvrtek: 8:00-13:00 Pátek: 8:00-13:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
       "name": "La Forchetta",
       "district": "praha-4",
       "address": "Na Strži , 343/5, 140 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle:"
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: Neděle:"
     },
     {
       "name": "Restaurace Maják",
@@ -1623,12 +1467,6 @@
       "openingHours": "Dnes: 11:00 - 18:00 Pondělí: 11:00 - 18:00 Úterý: 11:00 - 18:00 Středa: 11:00 - 18:00 Čtvrtek: 11:00 - 18:00 Pátek: 11:00 - 18:00 Sobota: zavřeno Neděle: 11:00 - 16:00"
     },
     {
-      "name": "Na Kamýku",
-      "district": "praha-4",
-      "address": "Krhanická, 994/21a, 142 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle:"
-    },
-    {
       "name": "Restaurant Na Květnici",
       "district": "praha-4",
       "address": "Na Květnici, 700/1A, 14000, Praha 4",
@@ -1638,6 +1476,12 @@
       "name": "Krušovická Na Michelské",
       "district": "praha-4",
       "address": "Na Michelské, 87/812, 14100, Praha 4",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Na Paloučku",
+      "district": "praha-4",
+      "address": "Žateckých, 1091/16, 140 00, Praha 4",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
@@ -1671,12 +1515,6 @@
       "openingHours": "Dnes: 07:00 - 20:00 Pondělí: 07:00 - 20:00 Úterý: 07:00 - 20:00 Středa: 07:00 - 20:00 Čtvrtek: 07:00 - 20:00 Pátek: 07:00 - 20:00 Sobota: 07:00 - 20:00 Neděle: 07:00 - 20:00"
     },
     {
-      "name": "Restaurant ne - SMYSL",
-      "district": "praha-4",
-      "address": "Jihlavská , 78, 140 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: Pouze rezervace Neděle: zavřeno"
-    },
-    {
       "name": "Obederia",
       "district": "praha-4",
       "address": "Milevská , 5, 14000, Praha 4",
@@ -1707,6 +1545,12 @@
       "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
+      "name": "Podolská kotva",
+      "district": "praha-4",
+      "address": "Podolské nábřeží , 46/20, 147 00, Praha 4",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
+    },
+    {
       "name": "Prague Gate",
       "district": "praha-4",
       "address": "Turkova, 2319/5b, 149 00, Praha 4",
@@ -1731,12 +1575,6 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 12:00 - 22:00 Neděle: 12:00 - 22:00"
     },
     {
-      "name": "Šalanda Pankrác",
-      "district": "praha-4",
-      "address": "Na Strži , 2097/63, 140 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
-    },
-    {
       "name": "Šalanda U Čejpů",
       "district": "praha-4",
       "address": "U Strže, 150/1, 140 00, Praha 4",
@@ -1746,7 +1584,7 @@
       "name": "SASY.RE",
       "district": "praha-4",
       "address": "HUBIČKOVA, 888/2, 14300, Praha 4",
-      "openingHours": "Dnes: 11:30 - 22:00 Pondělí: 11:30 - 22:00 Úterý: 11:30 - 22:00 Středa: 11:30 - 22:00 Čtvrtek: 11:30 - 22:00 Pátek: 11:30 - 22:00 Sobota: 11:30 - 22:00 Neděle: 11:30 - 22:00"
+      "openingHours": "Dnes: 11:30 - 22:00 Pondělí: Zavřeno Úterý: 11:30 - 22:00 Středa: 11:30 - 22:00 Čtvrtek: 11:30 - 22:00 Pátek: 11:30 - 22:00 Sobota: 11:30 - 22:00 Neděle: 11:30 - 22:00"
     },
     {
       "name": "Šenkýrna Na Ledárnách",
@@ -1758,12 +1596,6 @@
       "name": "Šenkýrna Obzor",
       "district": "praha-4",
       "address": "Papírníkova , 4, 14200, Praha 4",
-      "openingHours": "Dnes: 10:30 - 23:00 Pondělí: 10:30 - 23:00 Úterý: 10:30 - 23:00 Středa: 10:30 - 23:00 Čtvrtek: 10:30 - 23:00 Pátek: 10:30 - 23:00 Sobota: 10:30 - 23:00 Neděle: 10:30 - 23:00"
-    },
-    {
-      "name": "Šenkýrna Pražanka",
-      "district": "praha-4",
-      "address": "Jažlovická, 38, 14900, Praha 4",
       "openingHours": "Dnes: 10:30 - 23:00 Pondělí: 10:30 - 23:00 Úterý: 10:30 - 23:00 Středa: 10:30 - 23:00 Čtvrtek: 10:30 - 23:00 Pátek: 10:30 - 23:00 Sobota: 10:30 - 23:00 Neděle: 10:30 - 23:00"
     },
     {
@@ -1779,16 +1611,10 @@
       "openingHours": "Dnes: 8.00–16.30 Pondělí: 8.00–16.30 Úterý: 8.00–16.30 Středa: 8.00–16.30 Čtvrtek: 8.00–16.30 Pátek: 8.00–16.30 Sobota: 8.00–16.30 Neděle: 8.00–16.30"
     },
     {
-      "name": "Restaurace Terassa",
-      "district": "praha-4",
-      "address": "Gregorova , 2115/10, 149 00, Praha 4",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 12:00 - 22:00"
-    },
-    {
       "name": "U Bansethů",
       "district": "praha-4",
       "address": "Táborská , 389/49, 140 00, Praha 4",
-      "openingHours": "Dnes: 11.00 &#8210; 24.00 Pondělí: 11.00 &#8210; 24.00 Úterý: 11.00 &#8210; 24.00 Středa: 11.00 &#8210; 24.00 Čtvrtek: 11.00 &#8210; 24.00 Pátek: 11.00 &#8210; 24.00 Sobota: 11.00 &#8210; 24.00 Neděle: 11.00 &#8210; 24.00"
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
       "name": "Jankovna U Bazénu",
@@ -1801,12 +1627,6 @@
       "district": "praha-4",
       "address": "Ražická, 88, 143 00, Praha 4",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "U Čtyř Bernardýnů",
-      "district": "praha-4",
-      "address": "Novodvorská, 1176/112, 142 00, Praha 4",
-      "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 23:00"
     },
     {
       "name": "U Havlíčků",
@@ -1825,12 +1645,6 @@
       "district": "praha-4",
       "address": "Na veselí , 702/48, 140 00, Praha 4",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Motel U krbu",
-      "district": "praha-4",
-      "address": "Vídeňská, 360, 252 42, Praha 4",
-      "openingHours": "Dnes: 08:00 - 22:00 Pondělí: 08:00 - 22:00 Úterý: 08:00 - 22:00 Středa: 08:00 - 22:00 Čtvrtek: 08:00 - 22:00 Pátek: 08:00 - 22:00 Sobota: 08:00 - 22:00 Neděle: 08:00 - 22:00"
     },
     {
       "name": "Restaurace U Labutě",
@@ -1887,6 +1701,12 @@
       "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 21:00 Sobota: Zavřeno. Neděle: Zavřeno."
     },
     {
+      "name": "Plzeňský restaurant Anděl",
+      "district": "praha-5",
+      "address": "Nádražní, 60/114, 150 00, Praha 5",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
+    },
+    {
       "name": "Andělský Pivovar",
       "district": "praha-5",
       "address": "Lidická, 30, 15000, Praha 5",
@@ -1929,22 +1749,10 @@
       "openingHours": "Dnes: 11:30 - 21:00 Pondělí: 11:30 - 21:00 Úterý: 11:30 - 21:00 Středa: 11:30 - 21:00 Čtvrtek: 11:30 - 21:00 Pátek: 11:30 - 21:00 Sobota: 11:30 - 21:00 Neděle:"
     },
     {
-      "name": "Gastro Bistro",
-      "district": "praha-5",
-      "address": "Zborovská, 81/11, 150 21, Praha 5",
-      "openingHours": "Dnes: 07:00 - 14:00 Pondělí: 07:00 - 15:00 Úterý: 07:00 - 14:00 Středa: 07:00 - 15:00 Čtvrtek: 07:00 - 14:00 Pátek: 07:00 - 14:00 Sobota: ---------- Neděle: ----------"
-    },
-    {
       "name": "U svatého Filipa a Jakuba",
       "district": "praha-5",
       "address": "Arbesovo náměstí , 71/5, 150 00, Praha 5",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Plzeňský restaurant Kamera",
-      "district": "praha-5",
-      "address": "Tilleho náměstí, 792/2, 150 00, Praha 5",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Kaskáda",
@@ -1971,10 +1779,10 @@
       "openingHours": "Dnes: 7:00 - 20:00 Pondělí: 7:00 - 20:00 Úterý: 7:00 - 20:00 Středa: 7:00 - 20:00 Čtvrtek: 7:00 - 20:00 Pátek: 7:00 - 20:00 Sobota: 10:00 - 17:00 Neděle: 10:00 - 17:00"
     },
     {
-      "name": "Mlejn",
+      "name": "Loki Burgers",
       "district": "praha-5",
-      "address": "Kovářova, 1615/4, 155 00, Praha 5",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+      "address": "Vítězná , 419/15, 150 00, Praha 5",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Restaurace Na Farkáně",
@@ -1983,16 +1791,16 @@
       "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
-      "name": "NaJedli",
-      "district": "praha-5",
-      "address": "Plzeňská , 608/7, 150 00, Praha 5",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: Zavřeno"
-    },
-    {
       "name": "Na kopci",
       "district": "praha-5",
       "address": "K Závěrce , 2774/20, 150 00, Praha 5",
       "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 23:00"
+    },
+    {
+      "name": "Jídelna Na Marjánce",
+      "district": "praha-5",
+      "address": "Na Bělidle , 38, 150 00, Praha 5",
+      "openingHours": "Dnes: NONSTOP Pondělí: NONSTOP Úterý: NONSTOP Středa: NONSTOP Čtvrtek: NONSTOP Pátek: NONSTOP Sobota: NONSTOP Neděle: NONSTOP"
     },
     {
       "name": "Olive Coral",
@@ -2017,6 +1825,12 @@
       "district": "praha-5",
       "address": "Běhounkova, 2579/8, 158 00, Praha 5",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 12:00 - 23:00"
+    },
+    {
+      "name": "Pastva",
+      "district": "praha-5",
+      "address": "Nádražní, 54/102, 150 00, Praha 5",
+      "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 21:00 Sobota: Neděle:"
     },
     {
       "name": "Radegastovna Perón",
@@ -2073,10 +1887,10 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Škoda lásky",
+      "name": "Hotel Smaragd",
       "district": "praha-5",
-      "address": "Zbraslavské náměstí , 453 , 156 00, Praha 5",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 00:00 Sobota: 11:00 - 00:00 Neděle: 11:00 - 21:00"
+      "address": "GEOLOGICKÁ, 1018/2a, 152 00, Praha 5",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 – 22:00 Neděle: 12:00 – 22:00"
     },
     {
       "name": "Smíchovská Krčma",
@@ -2091,22 +1905,10 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "The Beer Spot",
-      "district": "praha-5",
-      "address": "Plaská, 623/5, 15000, Praha 5",
-      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 16:00 - 23:00 Neděle: 11:30 - 23:00"
-    },
-    {
       "name": "The Spot Malá Strana",
       "district": "praha-5",
       "address": "Náměstí Kinských , 76/7, 15000, Praha 5",
       "openingHours": "Dnes: 08:00 - 19:00 Pondělí: 08:00 - 19:00 Úterý: 08:00 - 19:00 Středa: 08:00 - 19:00 Čtvrtek: 08:00 - 19:00 Pátek: 08:00 - 19:00 Sobota: 08:30 - 19:00 Neděle: 08:30 - 17:00"
-    },
-    {
-      "name": "U Bílého Lva",
-      "district": "praha-5",
-      "address": "Na bělidle, 30/310, 150 00, Praha 5",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 00:00 Sobota: 11:30 - 23:00 Neděle: 11:30 - 22:00"
     },
     {
       "name": "Restaurace U Bůčka",
@@ -2205,12 +2007,6 @@
       "openingHours": "Dnes: 11:30-23.00 Pondělí: 7:30-23.00 Úterý: 11:30-23.00 Středa: 7:30-23.00 Čtvrtek: 11:30-23.00 Pátek: 11:30-23.00 Sobota: 11.30-23.00 Neděle:"
     },
     {
-      "name": "Ballon restaurant",
-      "district": "praha-6",
-      "address": "Kladenská, 115, 16000, Praha 6",
-      "openingHours": "Dnes: 9:30 - 23:30 Pondělí: 9:30 - 23:30 Úterý: 9:30 - 23:30 Středa: 9:30 - 23:30 Čtvrtek: 9:30 - 23:30 Pátek: 9:30 - 23:30 Sobota: 9:30 - 23:30 Neděle: 9:30 - 23:30"
-    },
-    {
       "name": "Bowling Manta",
       "district": "praha-6",
       "address": "Makovského, 1342, 16300, Praha 6",
@@ -2241,16 +2037,22 @@
       "openingHours": "Dnes: 08:00 – 20:00 Pondělí: 08:00 – 20:00 Úterý: 08:00 – 20:00 Středa: 08:00 – 20:00 Čtvrtek: 08:00 – 20:00 Pátek: 08:00 – 20:00 Sobota: 09:00 – 18:00 Neděle: 09:00 – 18:00"
     },
     {
+      "name": "ČELENTANO",
+      "district": "praha-6",
+      "address": "Makovského , 1349/2a, 16300, Praha 6",
+      "openingHours": "Dnes: 10:00 - 21:00 Pondělí: 10:00 - 21:00 Úterý: 10:00 - 21:00 Středa: 10:00 - 21:00 Čtvrtek: 10:00 - 21:00 Pátek: 10:00 - 21:00 Sobota: 10:00 - 21:00 Neděle: 10:00 - 21:00"
+    },
+    {
+      "name": "Restaurace Chládek",
+      "district": "praha-6",
+      "address": "Střešovická , 458/47, 162 00, Praha 6",
+      "openingHours": "Dnes: 08:00 - 19:00 Pondělí: 08:00 - 19:00 Úterý: 08:00 - 19:00 Středa: 08:00 - 19:00 Čtvrtek: 08:00 - 19:00 Pátek: 08:00 - 19:00 Sobota: 08:00 - 19:00 Neděle: 09:00 - 19:00"
+    },
+    {
       "name": "Country Life Dejvice",
       "district": "praha-6",
       "address": "Čs. armády, 30, 160 00, Praha 6",
       "openingHours": "Dnes: 10.00 - 18.00 Pondělí: 10.00 - 18.00 Úterý: 10.00 - 18.00 Středa: 10.00 - 18.00 Čtvrtek: 10.00 - 18.00 Pátek: 10.00 - 17.00 Sobota: zavřeno Neděle: zavřeno"
-    },
-    {
-      "name": "Hotel DAP ***",
-      "district": "praha-6",
-      "address": "Vítězné nám., 684/4, 160 00, Praha 6",
-      "openingHours": "Dnes: 11,00-22,00 Pondělí: 11,00-22,00 Úterý: 11,00-22,00 Středa: 11,00-22,00 Čtvrtek: 11,00-22,00 Pátek: 11,00-22,00 Sobota: 11,00-22,00 Neděle: 11,00-20,00"
     },
     {
       "name": "Dejvická 34",
@@ -2262,7 +2064,7 @@
       "name": "Restaurace Dejvická Sokolovna",
       "district": "praha-6",
       "address": "Dejvická, 181/2 , 160 00, Praha 6",
-      "openingHours": "Dnes: 10:30 – 23:00 Pondělí: 10:30 – 23:00 Úterý: 10:30 – 23:00 Středa: 10:30 – 24:00 Čtvrtek: 10:30 – 24:00 Pátek: 10:30 – 24:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
+      "openingHours": "Dnes: 10:30 – 24:00 Pondělí: 10:30 – 23:00 Úterý: 10:30 – 23:00 Středa: 10:30 – 24:00 Čtvrtek: 10:30 – 24:00 Pátek: 10:30 – 24:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
     },
     {
       "name": "Ristorante Fabiano",
@@ -2313,10 +2115,10 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "Na Hradčanské",
+      "name": "Na břehu Rhôny",
       "district": "praha-6",
-      "address": "Milady Horákové, 125, 16000, Praha 6",
-      "openingHours": "Dnes: 11.00 – 24.00 Pondělí: 11.00 – 24.00 Úterý: 11.00 – 24.00 Středa: 11.00 – 24.00 Čtvrtek: 11.00 – 24.00 Pátek: 11.00 – 24.00 Sobota: 11.00 – 24.00 Neděle: 11.00 – 24.00"
+      "address": "Puškinovo náměstí, 633/13, 160 00, Praha 6",
+      "openingHours": "Dnes: 11:30 - 22:00 Pondělí: 11:30 - 22:00 Úterý: 11:30 - 22:00 Středa: 11:30 - 22:00 Čtvrtek: 11:30 - 22:00 Pátek: 11:30 - 22:00 Sobota: 11:30 - 22:00 Neděle: 11:30 - 22:00"
     },
     {
       "name": "Na Hrádku",
@@ -2331,12 +2133,6 @@
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Restaurace Na Marjánce",
-      "district": "praha-6",
-      "address": "Bělohorská, 262/35, 16900, Praha 6",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 01:00 Sobota: 11:00 - 01:00 Neděle: 11:00 - 24:00"
-    },
-    {
       "name": "Restaurace Na Markétě",
       "district": "praha-6",
       "address": "Radimova, 2322/40, 160 00, Praha 6",
@@ -2347,6 +2143,12 @@
       "district": "praha-6",
       "address": "Srbská , 286/7, 160 00, Praha 6",
       "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:30 - 23:30 Neděle: 12:00 - 22:00"
+    },
+    {
+      "name": "Na Slamníku",
+      "district": "praha-6",
+      "address": "Wolkerova, 12, 16000, Praha 6",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
     },
     {
       "name": "Restaurace Na Staré Faře",
@@ -2365,12 +2167,6 @@
       "district": "praha-6",
       "address": "Brunclíkova, 1875/17, 16200, Praha 6",
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12:00 - 23:00"
-    },
-    {
-      "name": "Oléo Pazzo",
-      "district": "praha-6",
-      "address": "Aviatická , 8, 160 00, Praha 6",
-      "openingHours": "Dnes: 06:30 - 23:00 Pondělí: 06:30 - 23:00 Úterý: 06:30 - 23:00 Středa: 06:30 - 23:00 Čtvrtek: 06:30 - 23:00 Pátek: 06:30 - 23:00 Sobota: 06:30 - 23:00 Neděle: 06:30 - 23:00"
     },
     {
       "name": "Originál Šenkovna",
@@ -2397,6 +2193,12 @@
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
     },
     {
+      "name": "Řeznictví u Rudolfa",
+      "district": "praha-6",
+      "address": "Kamýcká, 1077, 160 00, Praha 6",
+      "openingHours": "Dnes: 7:00 - 18:00 Pondělí: 7:00 - 18:00 Úterý: 7:00 - 18:00 Středa: 7:00 - 18:00 Čtvrtek: 7:00 - 18:00 Pátek: 7:00 - 18:00 Sobota: Neděle:"
+    },
+    {
       "name": "Restaurace Sokol",
       "district": "praha-6",
       "address": "Na Chobotě, 125/2b, 16300, Praha 6",
@@ -2415,22 +2217,10 @@
       "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 24:00 Sobota: 12:00 – 24:00 Neděle: 12:00 – 22:00"
     },
     {
-      "name": "The Pub",
-      "district": "praha-6",
-      "address": "Čs. Armády, 22, 16000, Praha 6",
-      "openingHours": "Dnes: 10:00 - 24:00 Pondělí: 10:00 - 24:00 Úterý: 10:00 - 24:00 Středa: 10:00 - 24:00 Čtvrtek: 10:00 - 24:00 Pátek: 10:00 – 02:00 Sobota: 16:00 - 02:00 Neděle: 16:00 - 23:00"
-    },
-    {
       "name": "Tonkin Dejvice",
       "district": "praha-6",
       "address": "Na Hutích, 661/9, 160 00, Praha 6",
       "openingHours": "Dnes: 11:00 - 21:30 Pondělí: 11:00 - 21:30 Úterý: 11:00 - 21:30 Středa: 11:00 - 21:30 Čtvrtek: 11:00 - 21:30 Pátek: 11:00 - 21:30 Sobota: 11:00 - 21:30 Neděle: 11:00 - 21:30"
-    },
-    {
-      "name": "Bernard Pub U Bílého Lva",
-      "district": "praha-6",
-      "address": "Bělohorská, 241/79, 169 00, Praha 6",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "U Čechů",
@@ -2457,12 +2247,6 @@
       "openingHours": "Dnes: 11:00 - 15:30 Pondělí: 11:00 - 15:30 Úterý: 11:00 - 15:30 Středa: 11:00 - 15:30 Čtvrtek: 11:00 - 15:30 Pátek: 11:00 - 22:00 Sobota: 11:00-22:00 Neděle: ZAVŘENO"
     },
     {
-      "name": "U Pětníka",
-      "district": "praha-6",
-      "address": "Lotyšská, 8, 16000, Praha 6",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
-    },
-    {
       "name": "Restaurace U Pramene",
       "district": "praha-6",
       "address": "Goetheho, 25/105, 160 00, Praha 6",
@@ -2481,12 +2265,6 @@
       "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11.00:23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:00 Sobota: 11:00-23:00 Neděle: 11:00-23:00"
     },
     {
-      "name": "V zahradě",
-      "district": "praha-6",
-      "address": "Schwaigerova , 59/3, 160 00, Praha 6",
-      "openingHours": "Dnes: 12:00 - 23:30 Pondělí: 12:00 - 23:30 Úterý: 12:00 - 23:30 Středa: 12:00 - 23:30 Čtvrtek: 12:00 - 23:30 Pátek: 12:00 - 23:30 Sobota: 12:00 - 23:30 Neděle: 12:00 - 22:00"
-    },
-    {
       "name": "Valcha",
       "district": "praha-6",
       "address": "Bělohorská, 105, 162 00, Praha 6",
@@ -2499,22 +2277,10 @@
       "openingHours": "Dnes: 11:00–23:00 Pondělí: 11:00–23:00 Úterý: 11:00–23:00 Středa: 11:00–23:00 Čtvrtek: 11:00–23:00 Pátek: 11:00–23:00 Sobota: 11:00–23:00 Neděle: 11:00-23:00"
     },
     {
-      "name": "Vila Lanna",
-      "district": "praha-6",
-      "address": "V Sadech, 1, 160 00, Praha 6",
-      "openingHours": "Dnes: Pondělí: Úterý: Středa: Čtvrtek: Pátek: Sobota: Neděle:"
-    },
-    {
       "name": "Kolkovna Argentinská",
       "district": "praha-7",
       "address": "U garáží , 1611/1, 170 00, Praha 7",
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Bar Cobra",
-      "district": "praha-7",
-      "address": "Milady Horákové, 8, 17000, Praha 7",
-      "openingHours": "Dnes: 8:00 - 21:00 Pondělí: 8:00 - 21:00 Úterý: 8:00 - 21:00 Středa: 8:00 - 21:00 Čtvrtek: 8:00 - 21:00 Pátek: 8:00 - 21:00 Sobota: 8:00 - 21:00 Neděle: 8:00 - 21:00"
     },
     {
       "name": "Belcredi Bistro & Bar",
@@ -2535,22 +2301,16 @@
       "openingHours": "Dnes: 08:00-16:00 Pondělí: 08:00-16:00 Úterý: 08:00-16:00 Středa: 08:00-16:00 Čtvrtek: 08:00-16:00 Pátek: 08:00-16:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
-      "name": "Čtyrka",
+      "name": "Bistrot Puglia",
       "district": "praha-7",
-      "address": "Komunardů 1001, 30, 17000, Praha 7",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 12:00 - 23:30 Neděle: 17:00 - 22:00"
+      "address": "Ortenovo náměstí, 1086/22, 170 00, Praha 7",
+      "openingHours": "Dnes: 6:30 - 23:00 Pondělí: 6:30 - 23:00 Úterý: 6:30 - 23:00 Středa: 6:30 - 23:00 Čtvrtek: 6:30 - 23:00 Pátek: 6:30 - 23:00 Sobota: 7:00 - 23:00 Neděle: 7:00 - 23:00"
     },
     {
       "name": "Del Corso",
       "district": "praha-7",
       "address": "Trojská, 632/173B, 170 00, Praha 7",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Dim Sum Spot Letná",
-      "district": "praha-7",
-      "address": "Milady Horákové , 806/29, 170 00, Praha 7",
-      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 9:00 - 22:00 Sobota: 9:00 - 22:00 Neděle: 9:00 - 22:00"
     },
     {
       "name": "Domažlická Jizba",
@@ -2571,22 +2331,10 @@
       "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12:00 - 24:00"
     },
     {
-      "name": "Holešovická Sedma",
-      "district": "praha-7",
-      "address": "Dukelských Hrdinů, 43, 170 00, Praha 7",
-      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 12:00-24:00 Neděle: 12:00 - 23:00"
-    },
-    {
       "name": "Restaurace Home Kitchen Bistro Jankovcova",
       "district": "praha-7",
       "address": "Jankovcova, 1596/14a, 170 00, Praha 7",
       "openingHours": "Dnes: 7:30 - 22:00 Pondělí: 7:30 - 22:00 Úterý: 7:30 - 22:00 Středa: 7:30 - 22:00 Čtvrtek: 7:30 - 22:00 Pátek: 7:30 - 22:00 Sobota: 8:00 - 22:00 Neděle: 8:00 - 22:00"
-    },
-    {
-      "name": "Il Bistro",
-      "district": "praha-7",
-      "address": "Jankovcova, 1566, 170 00, Praha 7",
-      "openingHours": "Dnes: 08:00 - 15:30 Pondělí: 08:00 - 15:30 Úterý: 08:00 - 15:30 Středa: 08:00 - 15:30 Čtvrtek: 08:00 - 15:30 Pátek: 08:00 - 15:30 Sobota: ------- Neděle: -------"
     },
     {
       "name": "Jídelna a řeznictví Letná",
@@ -2601,10 +2349,22 @@
       "openingHours": "Dnes: 07:30 - 16:00 Pondělí: 07:30 - 16:00 Úterý: 07:30 - 16:00 Středa: 07:30 - 16:00 Čtvrtek: 07:30 - 16:00 Pátek: 07:30 - 16:00 Sobota: 10:00 - 14:00 Neděle: ZAVŘENO"
     },
     {
+      "name": "Restaurace terasa",
+      "district": "praha-7",
+      "address": "Dělnická 12, Praha 7, 17000, Praha 7",
+      "openingHours": "Dnes: 8:00–15:00 Pondělí: 8:00–15:00 Úterý: 8:00–15:00 Středa: 8:00–15:00 Čtvrtek: 8:00–15:00 Pátek: 8:00–15:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
       "name": "Kavárna Muzeum",
       "district": "praha-7",
       "address": "Kostelní, 42, 170 78, Praha 7",
       "openingHours": "Dnes: 9:00 – 18:00 Pondělí: Zavřeno Úterý: 9:00 – 18:00 Středa: 9:00 – 18:00 Čtvrtek: 9:00 – 18:00 Pátek: 9:00 – 18:00 Sobota: 9:00 – 18:00 Neděle: 9:00 – 18:00"
+    },
+    {
+      "name": "Klub AVU",
+      "district": "praha-7",
+      "address": "U Akademie , 172/4, 170 00, Praha 7",
+      "openingHours": "Dnes: 09:00 - 22:30 Pondělí: 09:00 - 22:30 Úterý: 09:00 - 22:30 Středa: 09:00 - 22:30 Čtvrtek: 09:00 - 22:30 Pátek: 09:00 - 22:30 Sobota: ------- Neděle: -------"
     },
     {
       "name": "Le due torri",
@@ -2631,6 +2391,12 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
+      "name": "ODS Uherský Brod",
+      "district": "praha-7",
+      "address": "Janovského, 919/36, 170 00, Praha 7",
+      "openingHours": "Dnes: 12:00 - 24:00 Pondělí: 12:00 - 23:00 Úterý: 12:00 - 23:00 Středa: 12:00 - 23:00 Čtvrtek: 12:00 - 24:00 Pátek: 12:00 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12:00 - 23:00"
+    },
+    {
       "name": "Peperoncino",
       "district": "praha-7",
       "address": "Letohradská, 648/34, 170 00, Praha 7",
@@ -2641,12 +2407,6 @@
       "district": "praha-7",
       "address": "Dělnická, 30, 170 00, Praha 7",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Phills corner",
-      "district": "praha-7",
-      "address": "Komunardů , 32, 170 00, Praha 7",
-      "openingHours": "Dnes: 07:30 - 22:00 Pondělí: 07:30 - 22:00 Úterý: 07:30 - 22:00 Středa: 07:30 - 23:00 Čtvrtek: 07:30 - 23:00 Pátek: 07:30 - 23:00 Sobota: ZAVŘENO Neděle: 09:00 - 18:00"
     },
     {
       "name": "Pivnice Polepšovna",
@@ -2661,22 +2421,22 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
-      "name": "Restaurace Puzzlesalads",
+      "name": "Port Stanley",
       "district": "praha-7",
-      "address": "Jankovcova , 1596/14b, 170 00, Praha 7",
-      "openingHours": "Dnes: 10:30 - 17:00 Pondělí: 10:30 - 17:00 Úterý: 10:30 - 17:00 Středa: 10:30 - 17:00 Čtvrtek: 10:30 - 17:00 Pátek: 10:30 - 17:00 Sobota: Neděle:"
+      "address": "Na Maninách, 18, 170 00, Praha 7",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: Neděle:"
+    },
+    {
+      "name": "REAL BOX Písek, spol. s r.o.",
+      "district": "praha-7",
+      "address": "Kamenická , 607/17, 170 00, Praha 7",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 01:00 Sobota: 11:30 - 01:00 Neděle: 11:30 - 23:30"
     },
     {
       "name": "Restaurace U divadla",
       "district": "praha-7",
       "address": "pplk. Sochora, 1387/9, 17000, Praha 7",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 2300 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
-    },
-    {
-      "name": "Salut Restaurant",
-      "district": "praha-7",
-      "address": "Jablonského , 639/4, 170 00, Praha 7",
-      "openingHours": "Dnes: 7:00 - 23:00 Pondělí: 7:00 - 23:00 Úterý: 7:00 - 23:00 Středa: 7:00 - 23:00 Čtvrtek: 7:00 - 23:00 Pátek: 7:00 - 23:00 Sobota: 7:30 - 23:00 Neděle: 7:30 - 10:30"
     },
     {
       "name": "Stejkárna Holešovice",
@@ -2688,7 +2448,7 @@
       "name": "Stereo",
       "district": "praha-7",
       "address": "Ovenecká , 562/26, 170 00, Praha 7",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 22:00"
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:30 - 24:00 Neděle: 11:30 - 22:00"
     },
     {
       "name": "Teplá Kačka",
@@ -2775,10 +2535,10 @@
       "openingHours": "Dnes: 12.00 - 24.00 Pondělí: 12.00 - 24.00 Úterý: 12.00 - 24.00 Středa: 12.00 - 24.00 Čtvrtek: 12.00 - 24.00 Pátek: 12.00 - 24.00 Sobota: 12.00 - 24.00 Neděle: 12.00 - 24.00"
     },
     {
-      "name": "Ztracený ráj",
-      "district": "praha-7",
-      "address": "Čechova, 239/9, 17000, Praha 7",
-      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:30 - 23:30 Neděle: 11:30 - 23:00"
+      "name": "Mlsná Kavka",
+      "district": "praha-8",
+      "address": "Sokolovská, 327/29, 186 00, Praha 8",
+      "openingHours": "Dnes: 10:30 - 18:00 Pondělí: 10:30 - 18:00 Úterý: 10:30 - 18:00 Středa: 10:30 - 18:00 Čtvrtek: 10:30 - 18:00 Pátek: 10:30 - 18:00 Sobota: ---------- Neděle: ----------"
     },
     {
       "name": "Bella Vita Karlin",
@@ -2797,6 +2557,12 @@
       "district": "praha-8",
       "address": "Dopraváků, 749/3, 184 00, Praha 8",
       "openingHours": "Dnes: 9:00 – 14:00 Pondělí: 9:00 – 14:00 Úterý: 9:00 – 14:00 Středa: 9:00 – 14:00 Čtvrtek: 9:00 – 14:00 Pátek: 9:00 – 14:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Restaurace Palmovka by Bohemia Boards&Brews",
+      "district": "praha-8",
+      "address": "Sokolovská , 125, 18000, Praha 8",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 -23:00 Sobota: 16:00 - 23:00 Neděle: 16:00 - 22:00"
     },
     {
       "name": "Bonaccia",
@@ -2821,12 +2587,6 @@
       "district": "praha-8",
       "address": "Thámova, 26, 180 00, Praha 8",
       "openingHours": "Dnes: 08:00 - 22:00 Pondělí: 08:00 - 22:00 Úterý: 08:00 - 22:00 Středa: 08:00 - 22:00 Čtvrtek: 08:00 - 22:00 Pátek: 08:00 - 22:00 Sobota: 12:00 - 22:00 Neděle: 12:00 - 22:00"
-    },
-    {
-      "name": "Castle Residence",
-      "district": "praha-8",
-      "address": "Květinářská , 755, 182 00, Praha 8",
-      "openingHours": "Dnes: 07:00 - 22:00 Pondělí: 07:00 - 22:00 Úterý: 07:00 - 22:00 Středa: 07:00 - 22:00 Čtvrtek: 07:00 - 22:00 Pátek: 07:00 - 23:00 Sobota: 7,30 - 23:00 Neděle: 7,30 - 22:00"
     },
     {
       "name": "Charleston",
@@ -2865,6 +2625,12 @@
       "openingHours": "Dnes: 08:00 - 15:00 Pondělí: 08:00 - 15:00 Úterý: 08:00 - 15:00 Středa: 08:00 - 15:00 Čtvrtek: 08:00 - 15:00 Pátek: 08:00 - 15:00 Sobota: 9:00 - 12:00 Neděle: 9:00 - 12:00"
     },
     {
+      "name": "Éčko",
+      "district": "praha-8",
+      "address": "Sokolovská, 136e, 186 00, Praha 8",
+      "openingHours": "Dnes: 08:00 - 15:00 Pondělí: 08:00 - 15:00 Úterý: 08:00 - 15:00 Středa: 08:00 - 15:00 Čtvrtek: 08:00 - 15:00 Pátek: 08:00 - 15:00 Sobota: ---------- Neděle: ----------"
+    },
+    {
       "name": "FastGood Rustonka",
       "district": "praha-8",
       "address": "Sokolovská, 115, 18000, Praha 8",
@@ -2889,6 +2655,12 @@
       "openingHours": "Dnes: 11:00 - 13:30 Pondělí: 11:00 - 13:30 Úterý: 11:00 - 13:30 Středa: 11:00 - 13:30 Čtvrtek: 11:00 - 13:30 Pátek: 11:00 - 13:30 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
+      "name": "Gate Restaurant",
+      "district": "praha-8",
+      "address": "Sokolovská, 539/31, 186 00, Praha 8",
+      "openingHours": "Dnes: 08:00 - 24:00 Pondělí: 08:00 - 24:00 Úterý: 08:00 - 24:00 Středa: 08:00 - 24:00 Čtvrtek: 08:00 - 24:00 Pátek: 08:00 - 01:00 Sobota: 12:00 - 01:00 Neděle: 12:00 - 24:00"
+    },
+    {
       "name": "Grande Vita",
       "district": "praha-8",
       "address": "Křižíkova, 49/212, 186 00, Praha 8",
@@ -2899,6 +2671,12 @@
       "district": "praha-8",
       "address": "Klapkova, 731/34, 182 00, Praha 8",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:30 - 22:00"
+    },
+    {
+      "name": "Hong Kong Karlín",
+      "district": "praha-8",
+      "address": "Thámova , 221/7, 186 00, Praha 8",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
       "name": "Stará Pošta",
@@ -2913,16 +2691,16 @@
       "openingHours": "Dnes: 7:00 – 22:00 Pondělí: 7:00 – 22:00 Úterý: 7:00 – 22:00 Středa: 7:00 – 22:00 Čtvrtek: 7:00 – 22:00 Pátek: 7:00 – 22:00 Sobota: 8:00 – 22:00 Neděle:"
     },
     {
+      "name": "Jídelna Slovanka",
+      "district": "praha-8",
+      "address": "U Slovanky , 1388/5, 182 00, Praha 8",
+      "openingHours": "Dnes: 11:00 - 14:00 Pondělí: 11:00 - 14:00 Úterý: 11:00 - 14:00 Středa: 11:00 - 14:00 Čtvrtek: 11:00 - 14:00 Pátek: 11:00 - 14:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
       "name": "Kantýna Metrostav",
       "district": "praha-8",
       "address": "Koželužská , 2450, 180 00, Praha 8",
       "openingHours": "Dnes: 6:30- 9:30 / 11:00 - Pondělí: 6:30- 9:30 / 11:00 - Úterý: 6:30- 9:30 / 11:00 - Středa: 6:30- 9:30 / 11:00 - Čtvrtek: 6:30- 9:30 / 11:00 - Pátek: 6:30- 9:30 / 11:00 - Sobota: ZAVŘENO Neděle: ZAVŘENO"
-    },
-    {
-      "name": "Restaurace Karel",
-      "district": "praha-8",
-      "address": "Hrušovanské náměstí, 244/3 , 18400, Praha 8",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
       "name": "Bistro Florenc",
@@ -2937,10 +2715,10 @@
       "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 21:00 Sobota: 11:00 - 21:00 Neděle:"
     },
     {
-      "name": "Krystal Mozaika Bistro",
+      "name": "Kozlovna Almara",
       "district": "praha-8",
-      "address": "Sokolovská, 99/101, 18600, Praha 8",
-      "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00-23:00"
+      "address": "Klapkova, 314/80, 182 00, Praha 8",
+      "openingHours": "Dnes: 11:00 - 23:30 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 23:30 Středa: 11:00 - 23:30 Čtvrtek: 11:00 - 23:30 Pátek: 11:00 - 23:30 Sobota: 11:00 - 23:30 Neděle: 11:00 - 23:30"
     },
     {
       "name": "La Palma",
@@ -2955,28 +2733,10 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12:00 - 23:00"
     },
     {
-      "name": "Mlsná kantýna",
-      "district": "praha-8",
-      "address": "Pobřežní, 620/3, 186 00, Praha 8",
-      "openingHours": "Dnes: 8:00 - 15:30 Pondělí: 8:00 - 15:30 Úterý: 8:00 - 15:30 Středa: 8:00 - 15:30 Čtvrtek: 8:00 - 15:30 Pátek: 8:00 - 15:30 Sobota: Neděle:"
-    },
-    {
-      "name": "Mlsná Kavka",
-      "district": "praha-8",
-      "address": "Sokolovská, 327/29, 186 00, Praha 8",
-      "openingHours": "Dnes: 10:30 - 18:00 Pondělí: 10:30 - 18:00 Úterý: 10:30 - 18:00 Středa: 10:30 - 18:00 Čtvrtek: 10:30 - 18:00 Pátek: 10:30 - 18:00 Sobota: ---------- Neděle: ----------"
-    },
-    {
       "name": "Restaurace Na Hlavní 23",
       "district": "praha-8",
       "address": "Na Hlavní , 21/23, 18200, Praha 8",
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 21:00"
-    },
-    {
-      "name": "Restaurace Na Pěšinách",
-      "district": "praha-8",
-      "address": "Na Pěšinách, 8/38, 18200, Praha 8",
-      "openingHours": "Dnes: 11:30 - 23:00 Pondělí: 11:30 - 23:00 Úterý: 11:30 - 23:00 Středa: 11:30 - 23:00 Čtvrtek: 11:30 - 23:00 Pátek: 11:30 - 23:00 Sobota: 14:00 - 23:00 Neděle: Zavřeno."
     },
     {
       "name": "Restaurace na Růžku",
@@ -3042,7 +2802,13 @@
       "name": "Pizzeria Mexicana Giovanni",
       "district": "praha-8",
       "address": "Střelničná, 1826/35, 18200, Praha 8",
-      "openingHours": "Dnes: 11:00 - 22:30 Pondělí: 11:00 - 22:30 Úterý: 11:00 - 22:30 Středa: 11:00 - 22:30 Čtvrtek: 11:00 -22:30 Pátek: 11:00 - 22:30 Sobota: 11:00 - 22:30 Neděle: 11:00 - 22:30"
+      "openingHours": "Dnes: 11:00 -22:30 Pondělí: 11:00 - 22:30 Úterý: 11:00 - 22:30 Středa: 11:00 - 22:30 Čtvrtek: 11:00 -22:30 Pátek: 11:00 - 22:30 Sobota: 11:00 - 22:30 Neděle: 11:00 - 22:30"
+    },
+    {
+      "name": "Polévkárna",
+      "district": "praha-8",
+      "address": "Sokolovská, 86/97, 186 00, Praha 8",
+      "openingHours": "Dnes: 08:00 - 18:00 Pondělí: 08:00 - 18:00 Úterý: 08:00 - 18:00 Středa: 08:00 - 18:00 Čtvrtek: 08:00 - 18:00 Pátek: 08:00 - 18:00 Sobota: zavřeno Neděle: zavřeno"
     },
     {
       "name": "Proti Proudu",
@@ -3051,10 +2817,22 @@
       "openingHours": "Dnes: 08:30 - 22:00 Pondělí: 08:30 - 22:00 Úterý: 08:30 - 22:00 Středa: 08:30 - 22:00 Čtvrtek: 08:30 - 22:00 Pátek: 08:30 - 22:00 Sobota: 09:00 - 18:00 Neděle: ----------"
     },
     {
+      "name": "Restaurace Koráb",
+      "district": "praha-8",
+      "address": "Krejčího, 2261/2a, 18000, Praha 8",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
+    },
+    {
       "name": "Restaurace U Cihelny",
       "district": "praha-8",
       "address": "Chaberská , 528/18, 182 00, Praha 8",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:30"
+    },
+    {
+      "name": "Restaurace Veranda",
+      "district": "praha-8",
+      "address": "ul. Na Hrázi , 17, 180 0, Praha 8",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: Neděle:"
     },
     {
       "name": "Rice House",
@@ -3081,10 +2859,10 @@
       "openingHours": "Dnes: 07:00 - 15:00 Pondělí: 07:00 - 15:00 Úterý: 07:00 - 15:00 Středa: 07:00 - 15:00 Čtvrtek: 07:00 - 15:00 Pátek: 07:00 - 15:00 Sobota: 07:00 - 11:00 Neděle: 07:00 -11:00"
     },
     {
-      "name": "Theatro Café Restaurant",
+      "name": "Restaurant Trattoria Famiglia",
       "district": "praha-8",
-      "address": "Křižíkova, 283/10, 186 00, Praha 8",
-      "openingHours": "Dnes: 11:00 - 17:00 Pondělí: 11:00 - 17:00 Úterý: 11:00 - 17:00 Středa: 11:00 - 17:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 20:00"
+      "address": "Na Hlavní, 2/18, 18200, Praha 8",
+      "openingHours": "Dnes: 11:00 - 20:00 Pondělí: 11:00 - 20:00 Úterý: 11:00 - 20:00 Středa: 11:00 - 20:00 Čtvrtek: 11:00 - 20:00 Pátek: 11:00 - 20:00 Sobota: 11:00 - 20:00 Neděle: 11:00 - 20:00"
     },
     {
       "name": "Restaurace U Blekotů",
@@ -3105,12 +2883,6 @@
       "openingHours": "Dnes: 10:30 - 23:00 Pondělí: 10:30 - 23:00 Úterý: 10:30 - 23:00 Středa: 10:30 - 23:00 Čtvrtek: 10:30 - 23:00 Pátek: 10:30 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "U Jagušky",
-      "district": "praha-8",
-      "address": "Na Žertvách , 28, 18000, Praha 8",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
       "name": "U Jarolímků",
       "district": "praha-8",
       "address": "Primátorská, 241/40, 180 00, Praha 8",
@@ -3127,12 +2899,6 @@
       "district": "praha-8",
       "address": "Karlínské náměstí , 13, 18000, Praha 8",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Hostinec U Součků",
-      "district": "praha-8",
-      "address": "Klapkova, 171/54, 182 00, Praha 8",
-      "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 23:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
     },
     {
       "name": "U Toma",
@@ -3153,6 +2919,12 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
+      "name": "Restaurace U Zábranských",
+      "district": "praha-8",
+      "address": "Křižíkova , 89/330, 186 00, Praha 8",
+      "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 23:30 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 01:00 Sobota: 12:00 - 01:00 Neděle: 12:00 - 23:00"
+    },
+    {
       "name": "Veggie One",
       "district": "praha-8",
       "address": "Pobřežní, 12, 186 00, Praha 8",
@@ -3163,6 +2935,240 @@
       "district": "praha-8",
       "address": "Taussigova , 1172/1, 182 00, Praha 8",
       "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
+    },
+    {
+      "name": "Penzion a Restaurace Šimanda",
+      "district": "praha-9",
+      "address": "Šimanovská , 47 , 198 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Babiččina beseda",
+      "district": "praha-9",
+      "address": "Slavětínská , 120, 190 14, Praha 9",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
+    },
+    {
+      "name": "BACKSTAGE RESTAURANT",
+      "district": "praha-9",
+      "address": "Českomoravská , 19a, 19000, Praha 9",
+      "openingHours": "Dnes: 6:30 - 22:00 Pondělí: 6:30 - 22:00 Úterý: 6:30 - 22:00 Středa: 6:30 - 22:00 Čtvrtek: 6:30 - 22:00 Pátek: 6:30 - 22:00 Sobota: 6:30 - 22:00 Neděle: 6:30 - 22:00"
+    },
+    {
+      "name": "Bazar Klánovice",
+      "district": "praha-9",
+      "address": "Slavětínská , 173, 19000, Praha 9",
+      "openingHours": "Dnes: 11:00 - 21:00 Pondělí: 11:00 - 21:00 Úterý: 11:00 - 21:00 Středa: 11:00 - 21:00 Čtvrtek: 11:00 - 21:00 Pátek: 11:00 - 21:00 Sobota: 11:00 - 21:00 Neděle: 11:00 - 21:00"
+    },
+    {
+      "name": "Beznoska minipivovar",
+      "district": "praha-9",
+      "address": "Klíčovská , 805/11 , 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Bistro Coral",
+      "district": "praha-9",
+      "address": "Račiněveská, 190, 190 16, Praha 9",
+      "openingHours": "Dnes: 11:00 - 15:00 Pondělí: 11:00 - 15:00 Úterý: 11:00 - 15:00 Středa: 11:00 - 15:00 Čtvrtek: 11:00 - 15:00 Pátek: 11:00 - 15:00 Sobota: zavřeno Neděle: zavřeno"
+    },
+    {
+      "name": "Bistro Daneva",
+      "district": "praha-9",
+      "address": "Ve Žlíbku, 221/36, 193 00, Praha 9",
+      "openingHours": "Dnes: 7:30 - 17:00 Pondělí: 7:30 - 17:00 Úterý: 7:30 - 17:00 Středa: 7:30 - 17:00 Čtvrtek: 7:30 - 17:00 Pátek: 7:30 - 17:00 Sobota: 10:00 - 17:00 Neděle: Zavřeno"
+    },
+    {
+      "name": "Café Útes",
+      "district": "praha-9",
+      "address": "Račiněveská , 190, 190 16, Praha 9",
+      "openingHours": "Dnes: 11:00 - 15:00 Pondělí: 11:00 - 15:00 Úterý: 11:00 - 15:00 Středa: 11:00 - 15:00 Čtvrtek: 11:00 - 15:00 Pátek: 11:00 - 15:00 Sobota: zavřeno Neděle: zavřeno"
+    },
+    {
+      "name": "Caruso Pasta & Pizza",
+      "district": "praha-9",
+      "address": "Veselská, 663, 19900, Praha 9",
+      "openingHours": "Dnes: 10:00 – 22:00 Pondělí: 10:00 – 22:00 Úterý: 10:00 – 22:00 Středa: 10:00 – 22:00 Čtvrtek: 10:00 – 22:00 Pátek: 10:00 – 22:00 Sobota: 10:00 – 22:00 Neděle: 10:00 – 22:00"
+    },
+    {
+      "name": "Pizzeria Cerreto",
+      "district": "praha-9",
+      "address": "Sokolovská , 972/195, 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Dvůr Čertousy Restaurace",
+      "district": "praha-9",
+      "address": "Bártlova , 35/10, 193 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 21:00"
+    },
+    {
+      "name": "Restaurace Hokejka",
+      "district": "praha-9",
+      "address": "Breitcetlova, 771/6, 198 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 02:00 Sobota: 11:00 - 02:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "Honest food",
+      "district": "praha-9",
+      "address": "Paceřická, 2773/1, 19300, Praha 9",
+      "openingHours": "Dnes: 7:00 - 14:30 Pondělí: 7:00 - 14:30 Úterý: 7:00 - 14:30 Středa: 7:00 - 14:30 Čtvrtek: 7:00 - 14:30 Pátek: 7:00 - 14:30 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Hospůdka Na Radnici",
+      "district": "praha-9",
+      "address": "Sokolovská , 324/14, 190 49, Praha 9",
+      "openingHours": "Dnes: 11.00 - 23.00 Pondělí: 11.00 - 23.00 Úterý: 11.00 - 23.00 Středa: 11.00 - 23.00 Čtvrtek: 11.00 - 23.00 Pátek: 11.00 - 23.00 Sobota: 11.00 - 23.00 Neděle: 11.00 - 23.00"
+    },
+    {
+      "name": "Jídelna Čakovice",
+      "district": "praha-9",
+      "address": "Cukrovarská, 957/21b, 19600, Praha 9",
+      "openingHours": "Dnes: 11:00 - 13:30 Pondělí: 11.00 - 13:30 Úterý: 11:00 - 13:30 Středa: 11:00 - 13:30 Čtvrtek: 11:00 - 13:30 Pátek: 11:00 - 13:30 Sobota: 11:00 - 13:30 Neděle: 11:00 - 13:30"
+    },
+    {
+      "name": "Jíme lépe",
+      "district": "praha-9",
+      "address": "Křovinovo náměstí, 114, 19300, Praha 9",
+      "openingHours": "Dnes: 10.30 - 16.00 Pondělí: 10.30-16.00 Úterý: 10.30 - 16.00 Středa: 10.30 - 16.00 Čtvrtek: 10.30 - 16.00 Pátek: 10.30 - 16.00 Sobota: Neděle:"
+    },
+    {
+      "name": "Restaurace Klid po práci Praha Vysočany",
+      "district": "praha-9",
+      "address": "Sokolovská , 198/207, 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Kozlovna Na ráně",
+      "district": "praha-9",
+      "address": "Drahobejlova, 957/53, 19000, Praha 9",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:00 - 24:00 Neděle: 11:00 - 24:00"
+    },
+    {
+      "name": "Letňanská terasa",
+      "district": "praha-9",
+      "address": "Štanderova , 887/1, 19900, Praha 9",
+      "openingHours": "Dnes: 10:30 - 22:00 Pondělí: 10:30 - 22:00 Úterý: 10:30 - 22:00 Středa: 10:30 - 22:00 Čtvrtek: 10:30 - 22:00 Pátek: 10:30 - 22:00 Sobota: 10:30 - 22:00 Neděle: 10:30 - 22:00"
+    },
+    {
+      "name": "Café restaurant Mondi",
+      "district": "praha-9",
+      "address": "Na Chvalské tvrzi, 858/11, 193 00, Praha 9",
+      "openingHours": "Dnes: 9:00 - 23.00 Pondělí: 9:00 - 22:00 Úterý: 9:00 - 22:00 Středa: 9:00 - 23.00 Čtvrtek: 9:00 - 23.00 Pátek: 9:00 - 23.00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 20:00"
+    },
+    {
+      "name": "Restaurace Pepř a sůl",
+      "district": "praha-9",
+      "address": "Krátkého , 1, 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Pizzeria Vysočany",
+      "district": "praha-9",
+      "address": "Metro B - Vysočanská, vých. vestibul (směr Českom, , 190 00, Praha 9",
+      "openingHours": "Dnes: 11.00 - 23.00 Pondělí: 11.00 - 23.00 Úterý: 11.00 - 23.00 Středa: 11.00 - 23.00 Čtvrtek: 11.00 - 23.00 Pátek: 11.00 - 23.00 Sobota: 11.00 - 23.00 Neděle: 11.00 - 23.00"
+    },
+    {
+      "name": "Restaurace Harfa",
+      "district": "praha-9",
+      "address": "U Harfy, 229/14, 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: zavřeno Neděle: zavřeno"
+    },
+    {
+      "name": "Restaurace ŠNYT Vysočany",
+      "district": "praha-9",
+      "address": "Kovářská 488/16, 16, 19000, Praha 9",
+      "openingHours": "Dnes: 11:00-23:00 Pondělí: 11:00-23:00 Úterý: 11:00-23:00 Středa: 11:00-23:00 Čtvrtek: 11:00-23:00 Pátek: 11:00-23:00 Sobota: 11:00-23:00 Neděle: 11:00-22:00"
+    },
+    {
+      "name": "Ristorante IL Giardino",
+      "district": "praha-9",
+      "address": "Dudkova , 97, 199 00, Praha 9",
+      "openingHours": "Dnes: 11:15 - 23:00 Pondělí: 11:15 - 23:00 Úterý: 11:15 - 23:00 Středa: 11:15 - 23:00 Čtvrtek: 11:15 - 23:00 Pátek: 11:15 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
+    },
+    {
+      "name": "Svatojánský dvůr",
+      "district": "praha-9",
+      "address": "Střížkovská , 1/29A, 190 00, Praha 9",
+      "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 23:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
+    },
+    {
+      "name": "Jídelna Tesla",
+      "district": "praha-9",
+      "address": "Poděbradská, 186/56, 198 00, Praha 9",
+      "openingHours": "Dnes: 08.00 - 14.00 Pondělí: 08.00 - 14.00 Úterý: 08.00 - 14.00 Středa: 08.00 - 14.00 Čtvrtek: 08.00 - 14.00 Pátek: 08.00 - 14.00 Sobota: zavřeno Neděle: zavřeno"
+    },
+    {
+      "name": "Jídelna U Červenků",
+      "district": "praha-9",
+      "address": "Bystrá , 1720, 193 00, Praha 9",
+      "openingHours": "Dnes: 9.30 – 14.00 Pondělí: 9.30 – 14.00 Úterý: 9.30 – 14.00 Středa: 9.30 – 14.00 Čtvrtek: 9.30 – 14.00 Pátek: 9.30 – 14.00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "U Eriky",
+      "district": "praha-9",
+      "address": "Tálínská, 1026, 198 00, Praha 9",
+      "openingHours": "Dnes: 11:00 – 22:00 Pondělí: 11:00 – 22:00 Úterý: 11:00 – 22:00 Středa: 11:00 – 22:00 Čtvrtek: 11:00 – 22:00 Pátek: 11:00 – 22:00 Sobota: 11:00 – 22:00 Neděle: 11:00 – 22:00"
+    },
+    {
+      "name": "U Herčíků",
+      "district": "praha-9",
+      "address": "Vyhlídkova, 313/16, 196 00, Praha 9",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
+    },
+    {
+      "name": "U Kocoura",
+      "district": "praha-9",
+      "address": "Jandova, 207/4, 1900, Praha 9",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: Dle domluvy Neděle: Dle domluvy"
+    },
+    {
+      "name": "U Matěje",
+      "district": "praha-9",
+      "address": "Slévačská, 744/1, 19800, Praha 9",
+      "openingHours": "Dnes: 11:00 - 24:00 Pondělí: 11:00 - 24:00 Úterý: 11:00 - 24:00 Středa: 11:00 - 24:00 Čtvrtek: 11:00 - 24:00 Pátek: 11:00 - 24:00 Sobota: 11:30 – 01:00 Neděle: 10.30 – 23.00"
+    },
+    {
+      "name": "Restaurace u Pecků",
+      "district": "praha-9",
+      "address": "Staromlýnská, 621/5, 190 00, Praha 9",
+      "openingHours": "Dnes: 10:00 - 22:00 Pondělí: 10:00 - 22:00 Úterý: 10:00 - 22:00 Středa: 10:00 - 22:00 Čtvrtek: 10:00 - 22:00 Pátek: 10:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 22:00"
+    },
+    {
+      "name": "Restaurace U Pejšů",
+      "district": "praha-9",
+      "address": "Nad šestikopy, 322/2, 190 00, Praha 9",
+      "openingHours": "Dnes: 10:00 - 23:00 Pondělí: 10:00 - 23:00 Úterý: 10:00 - 23:00 Středa: 10:00 - 23:00 Čtvrtek: 10:00 - 23:00 Pátek: 10:00 - 23:00 Sobota: 10:00 - 23:00 Neděle: 10:00 - 23:00"
+    },
+    {
+      "name": "Zastávka u Srubu",
+      "district": "praha-9",
+      "address": "Martinická, 1083, 197 00, Praha 9",
+      "openingHours": "Dnes: Pondělí: Úterý: Středa: Čtvrtek: Pátek: Sobota: Neděle:"
+    },
+    {
+      "name": "U Voháků",
+      "district": "praha-9",
+      "address": "Rožnovská , 737/16, 19300, Praha 9",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 22:00 Sobota: 11:00 - 22:00 Neděle: 11:00 - 22:00"
+    },
+    {
+      "name": "Restaurant Café bar U zastávky",
+      "district": "praha-9",
+      "address": "Poděbradská , 50, 190 00, Praha 9",
+      "openingHours": "Dnes: 10:30 - 14:00 Pondělí: 10:30 - 14:00 Úterý: 10:30 - 14:00 Středa: 10:30 - 14:00 Čtvrtek: 10:30 - 14:00 Pátek: 10:30 - 14:00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
+    },
+    {
+      "name": "Restaurace Vagón",
+      "district": "praha-9",
+      "address": "Bystrá, 761/10, 19300, Praha 9",
+      "openingHours": "Dnes: 09:00 - 16:00 Pondělí: 09:00 - 16:00 Úterý: 09:00 - 16:00 Středa: 09:00 - 16:00 Čtvrtek: 09:00 - 16:00 Pátek: 09:00 - 16:00 Sobota: Zavřeno Neděle: Zavřeno"
+    },
+    {
+      "name": "Vinohradský pivovar",
+      "district": "praha-10",
+      "address": "Korunní, 2506/106, 101 00, Praha 10",
+      "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 00:00 Sobota: 11:00 - 00:00 Neděle: 11:00 - 00:00"
     },
     {
       "name": "Restaurace Stará kotelna",
@@ -3177,12 +3183,6 @@
       "openingHours": "Dnes: 07:45 - 16:00 Pondělí: 07:45 - 16:00 Úterý: 07:45 - 16:00 Středa: 07:45 - 16:00 Čtvrtek: 07:45 - 16:00 Pátek: 07:45 - 14:00 Sobota: Neděle:"
     },
     {
-      "name": "Allegria",
-      "district": "praha-10",
-      "address": "Hyacintová , 3265/7, 106 00, Praha 10",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
       "name": "Cafe 22",
       "district": "praha-10",
       "address": "Nové náměstí , 1370/11, 104 00, Praha 10",
@@ -3195,10 +3195,10 @@
       "openingHours": "Dnes: 11.00 – 23.00 Pondělí: 11.00 – 23.00 Úterý: 11.00 – 23.00 Středa: 11.00 – 23.00 Čtvrtek: 11.00 – 23.00 Pátek: 11.00 – 23.00 Sobota: 11.00 – 23.00 Neděle: 11.00 – 23.00"
     },
     {
-      "name": "Restaurace Hamr - Sport",
+      "name": "Dobrá společnost",
       "district": "praha-10",
-      "address": "K Vodě, 3200/3, 106 00, Praha 10",
-      "openingHours": "Dnes: 07:00 - 23:30 Pondělí: 07:00 - 23:30 Úterý: 07:00 - 23:30 Středa: 07:00 - 23:30 Čtvrtek: 07:00 - 23:30 Pátek: 07:00 - 23:30 Sobota: 07:00 - 23:30 Neděle: 07:00 - 23:30"
+      "address": "Parmská , 387, 109 00, Praha 10",
+      "openingHours": "Dnes: 11,00 - 23.00 Pondělí: 11,00 - 23.00 Úterý: 11,00 - 23.00 Středa: 11,00 - 23.00 Čtvrtek: 11,00 - 23.00 Pátek: 11,00 - 01,00 Sobota: 11,30 - 01,00 Neděle: 12,00 - 22,00"
     },
     {
       "name": "Havana Restaurant",
@@ -3247,12 +3247,6 @@
       "district": "praha-10",
       "address": "Kodaňská , 319/5, 101 00, Praha 10",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
-    },
-    {
-      "name": "Kantýna Průmyslová",
-      "district": "praha-10",
-      "address": "Průmyslová, 1472/11, 102 00, Praha 10",
-      "openingHours": "Dnes: 7:00 - 14:00 Pondělí: 7:00 - 14:00 Úterý: 7:00 - 14:00 Středa: 7:00 - 14:00 Čtvrtek: 7:00 - 14:00 Pátek: 7:00 - 14:00 Sobota: Neděle:"
     },
     {
       "name": "Klub Varta - restaurant & lounge",
@@ -3339,12 +3333,6 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Sabroso Mexican",
-      "district": "praha-10",
-      "address": "Nad Primaskou, 526/35, 10000, Praha 10",
-      "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 23:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
-    },
-    {
       "name": "Šenkýrna U Milionu",
       "district": "praha-10",
       "address": "Hostivařská , 66, 10200, Praha 10",
@@ -3369,16 +3357,22 @@
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 23:00"
     },
     {
-      "name": "Toulcův dvůr",
+      "name": "U 2 dubů",
       "district": "praha-10",
-      "address": "Kubatova , 32/1, 102 00, Praha 10",
-      "openingHours": "Dnes: 11:00 - 18:00 Pondělí: 11:00 - 18:00 Úterý: 11:00 - 18:00 Středa: 11:00 - 18:00 Čtvrtek: 11:00 - 18:00 Pátek: 11:00 - 18:00 Sobota: 10:00 - 18:00 Neděle: 10:00 - 18:00"
+      "address": "Štychova , 2/34, 104 00, Praha 10",
+      "openingHours": "Dnes: 11:00 - 22:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 22:00 Středa: 11:00 - 22:00 Čtvrtek: 11:00 - 22:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Restaurace U Husiček",
       "district": "praha-10",
       "address": "Gutova, 1240/17, 100 00, Praha 10",
       "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 24:00 Sobota: 12:00 - 24:00 Neděle: 12:00 - 22:00"
+    },
+    {
+      "name": "Hospůdka u Kašpárka",
+      "district": "praha-10",
+      "address": "Dubečská, 4/74, 10000, Praha 10",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 12:00 - 23:00 Neděle: 12:00 - 23:00"
     },
     {
       "name": "Restaurace U Michálků",
@@ -3399,12 +3393,6 @@
       "openingHours": "Dnes: 11:00 – 23:00 Pondělí: 11:00 – 23:00 Úterý: 11:00 – 23:00 Středa: 11:00 – 23:00 Čtvrtek: 11:00 – 23:00 Pátek: 11:00 – 23:00 Sobota: 11:00 – 23:00 Neděle: 11:00 – 23:00"
     },
     {
-      "name": "U Sokolovny",
-      "district": "praha-10",
-      "address": "Městská, 227/2, 107 00, Praha 10",
-      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 22:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 01:00 Sobota: 11:00 - 01:00 Neděle: 11:00 - 22:00"
-    },
-    {
       "name": "U Sudu",
       "district": "praha-10",
       "address": "Černokostelecká , 919/18, 110 00, Praha 10",
@@ -3423,10 +3411,10 @@
       "openingHours": "Dnes: 11.00 - 15.00 Pondělí: 11.00 - 15.00 Úterý: 11.00 - 15.00 Středa: 11.00 - 15.00 Čtvrtek: 11.00 - 15.00 Pátek: 11.00 - 15.00 Sobota: ZAVŘENO Neděle: ZAVŘENO"
     },
     {
-      "name": "Vinohradský pivovar",
+      "name": "Turnovská pivnice Vršovice",
       "district": "praha-10",
-      "address": "Korunní, 2506/106, 101 00, Praha 10",
-      "openingHours": "Dnes: 11:00 - 00:00 Pondělí: 11:00 - 00:00 Úterý: 11:00 - 00:00 Středa: 11:00 - 00:00 Čtvrtek: 11:00 - 00:00 Pátek: 11:00 - 00:00 Sobota: 11:00 - 00:00 Neděle: 11:00 - 00:00"
+      "address": "Vršovická, 1220/80, 10000, Praha 10",
+      "openingHours": "Dnes: 11:00 - 23:00 Pondělí: 11:00 - 23:00 Úterý: 11:00 - 23:00 Středa: 11:00 - 23:00 Čtvrtek: 11:00 - 23:00 Pátek: 11:00 - 23:00 Sobota: 11:00 - 23:00 Neděle: 11:00 - 22:00"
     },
     {
       "name": "Výčep",
