@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17T11:43:42",
-  "count": 79,
+  "scraped_at": "2026-10-18T12:10:03",
+  "count": 71,
   "restaurants": [
     {
       "name": "FUZE",
@@ -57,12 +57,12 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Dršťková (obsahuje 1,3,7,9)",
+          "name": "Pórková jemná (obsahuje 1,3,7,9)",
           "price": "55 Kč"
         },
         {
           "type": "dish",
-          "name": "Vepřový steak \" Texas \", hranolky, tatarská omáčka (obsahuje 1,3,7)",
+          "name": "Vepřový steak \" Texas \", hranolky, tatarská omáčka (obsahuje 1,3,7,9)",
           "price": "299 Kč"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
           "type": "dish",
-          "name": "Pečená 1/4 farmářského kuřete, vařené brambory, okurka (obsahuje 9)",
+          "name": "Hovězí \" Stroganoff \", jasmínová rýže či hranolky (obsahuje 1,3,7,9)",
           "price": "239 Kč"
         },
         {
@@ -97,12 +97,12 @@
         },
         {
           "type": "dish",
-          "name": "Plněné bramborové knedlíky uzeným masem, bílé zelí (obsahuje 1,3,7,9)",
+          "name": "Kuře \" KUNG PAO \", jasmínová rýže (obsahuje 9)",
           "price": "239 Kč"
         },
         {
           "type": "dish",
-          "name": "Kuře \" KUNG PAO \", jasmínová rýže (obsahuje 9)",
+          "name": "Plněné bramborové knedlíky uzeným masem, bílé zelí (obsahuje 1,3,7,9)",
           "price": "239 Kč"
         },
         {
@@ -114,112 +114,24 @@
       "items_count": 11
     },
     {
-      "name": "U Jindřišské věže",
-      "district": "praha-1",
-      "image": "https://www.menicka.cz/foto/thumb2/1886-1-uv.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Polévky",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí vývar s masem a nudlemi",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Brokolicový krém",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Speciální nabídka",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "150g Kuřecí steak zapečený se šunkou a sýrem, vařený brambor",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "5 ks Marinovaná kuřecí křídla s BBQ omáčkou, hranolky",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Vepřový steak na grilu s bylinkovým přelivem, krokety",
-          "price": "209 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hotová jídla",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "150g Smažený filet z tresky, vařený brambor, citrón",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "130g Kuřecí maso se smetanovo houbovou omáčkou, bramborové noky",
-          "price": "176 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "130g Cikánská hovězí pečeně, dušená rýže",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "130g Svíčková na smetaně, houskový knedlík, citrónový terč",
-          "price": "194 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "130g Hovězí guláš s cibulí, houskový knedlík",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "130g Selská vepřová pečínka, houskový knedlík, zelí",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Moravský vrabec, bramborový knedlík, červené zelí",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 16
-    },
-    {
       "name": "Himalaya Restaurant",
       "district": "praha-1",
       "image": "https://www.menicka.cz/foto/thumb2/9868-1-tempimagerv9azzgif",
       "menu": [
         {
           "type": "dish",
-          "name": "Kuřecí Dansak Jemná, ale pikantní omáčka připravená z indického koření, česneku, ananasu a čočky, ochucená koriandrem, sladkokyselá, podávaná s rýží.",
-          "price": "185 Kč"
+          "name": "Kuřecí molee Pokrmy molee jsou lahodně jemné, připravují se zázvorem v krémové kokosové omáčce a podávají se s rýží.",
+          "price": "219 Kč"
         },
         {
           "type": "dish",
-          "name": "Masová Bhuna Plátky lilků a masa podle speciálního receptu, podávané s rýží.",
-          "price": "179 Kč"
+          "name": "Jehněčí balti Balti se smaží s mnoha ingrediencemi, čímž se zachovává jejich lahodnost. Koření a bylinky si také zachovávají svou původní vůni. Může být mírné nebo pálivé. Podává se s nanem.",
+          "price": "249 Kč"
         },
         {
           "type": "dish",
           "name": "Dall Tarka Čočka vařená v husté pikantní omáčce, podávaná s rýží.",
-          "price": "169 Kč"
+          "price": "189 Kč"
         },
         {
           "type": "dish",
@@ -260,6 +172,11 @@
       "image": "https://www.menicka.cz/foto/thumb2/9914-1-logo-400x158.jpg",
       "menu": [
         {
+          "type": "special_or_info",
+          "name": "Denní menu: Polévka, hlavní chod, zákusek",
+          "price": "169 Kč"
+        },
+        {
           "type": "dish",
           "name": "Polévky:",
           "price": ""
@@ -273,11 +190,6 @@
           "type": "dish",
           "name": "Květáková",
           "price": "49 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Denní menu: Polévka, hlavní chod, zákusek 5",
-          "price": "169 Kč"
         },
         {
           "type": "dish",
@@ -336,11 +248,29 @@
         },
         {
           "type": "dish",
+          "name": "Rajská omáčka, sekaná, těstoviny",
+          "price": "159 Kč"
+        },
+        {
+          "type": "dish",
           "name": "zobrazit více jídel",
           "price": ""
         }
       ],
-      "items_count": 16
+      "items_count": 17
+    },
+    {
+      "name": "La Casa Blů",
+      "district": "praha-1",
+      "image": "https://www.menicka.cz/foto/thumb2/2159-1-eee1.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Sopa Tarasca Michoacana",
+          "price": ""
+        }
+      ],
+      "items_count": 1
     },
     {
       "name": "Restaurace Století",
@@ -386,19 +316,6 @@
       "items_count": 7
     },
     {
-      "name": "La Casa Blů",
-      "district": "praha-1",
-      "image": "https://www.menicka.cz/foto/thumb2/2159-1-eee1.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Sopa Tarasca Michoacana",
-          "price": ""
-        }
-      ],
-      "items_count": 1
-    },
-    {
       "name": "U Rozvařilů",
       "district": "praha-1",
       "image": "https://www.menicka.cz/foto/thumb2/9890-1-jidelna-u-rozvarilu-prahajpg",
@@ -427,19 +344,6 @@
       "items_count": 4
     },
     {
-      "name": "Zlaté Časy",
-      "district": "praha-1",
-      "image": "https://www.menicka.cz/foto/thumb2/9680-1-img_6234jpg",
-      "menu": [
-        {
-          "type": "special_or_info",
-          "name": "О víkendech a státních svátcích polední menu nevaříme.",
-          "price": ""
-        }
-      ],
-      "items_count": 1
-    },
-    {
       "name": "Hostinec u Rotundy",
       "district": "praha-1",
       "image": "https://www.menicka.cz/foto/thumb2/2103-1-1.jpg",
@@ -452,12 +356,12 @@
         {
           "type": "dish",
           "name": "Kachní stehno, bílé a červené zelí, mix knedlíků",
-          "price": "298 Kč"
+          "price": "299 Kč"
         },
         {
           "type": "dish",
           "name": "Steak z krkovičky s pepřovou omáčkou, americké brambory",
-          "price": "298 Kč"
+          "price": "299 Kč"
         },
         {
           "type": "dish",
@@ -466,49 +370,6 @@
         }
       ],
       "items_count": 4
-    },
-    {
-      "name": "Restaurace U Kotvy",
-      "district": "praha-1",
-      "image": "https://www.menicka.cz/foto/thumb2/7922-1-vchod-do-kotvy-recepce-snimek.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Boršč 1, 3, 7",
-          "price": "49 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hotovka + polévka 30kč",
-          "price": "49 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Vepřová plec na hříbkách, jasmínová rýže 1, 3, 7",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "250g Francouzké brambory, okurka 1, 3, 7",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Smažený vepřový řízek z krkovičky, vařené brambory, citron 1, 3, 7",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Smažený studentsky špíz, hranolky, tatarka 1, 3, 7",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Caesar wrap (kuřecí maso, anglická slanina), hranolky, kečup 1, 3, 7",
-          "price": "159 Kč"
-        }
-      ],
-      "items_count": 7
     },
     {
       "name": "Kavárna Adria",
@@ -569,6 +430,19 @@
       "items_count": 10
     },
     {
+      "name": "Zlaté Časy",
+      "district": "praha-1",
+      "image": "https://www.menicka.cz/foto/thumb2/9680-1-img_6234jpg",
+      "menu": [
+        {
+          "type": "special_or_info",
+          "name": "О víkendech a státních svátcích polední menu nevaříme.",
+          "price": ""
+        }
+      ],
+      "items_count": 1
+    },
+    {
       "name": "U tří zlatých trojek",
       "district": "praha-1",
       "image": "https://www.menicka.cz//foto/thumb2/nenikdispozici.jpg",
@@ -597,79 +471,6 @@
       "items_count": 4
     },
     {
-      "name": "The Pub and Grill No. 1",
-      "district": "praha-2",
-      "image": "https://www.menicka.cz/foto/thumb2/3684-1-logo_pub_and_grill.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "SNÍDANĚ od 9 do 11hod.",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "KOZEL 11° 0, 5l (celodenní cena)",
-          "price": "42 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "VEJCE BENEDIKT- (ztracené vejce, sušená italská šunka, rukola, sýr formaggio Duro, holandská omáčka, rozpečená brioška)",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "KOZEL černý 0, 5l (celodenní cena)",
-          "price": "46 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "ANGLICKÁ SNÍDANĚ- (sázené vejce, opečená slanina, mini párečky, fazole, grilované rajské, restované žampiony, máslo, pečivo)",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "SPECIÁLNÍ NABÍDKA: 1, 1 kg Pomalu pečené vepřové koleno na pivu, salátek z kysaného zelí, dva druhy hořčice, smetanový křen a čerstvý chléb",
-          "price": "379 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "SNÍDAŃOVÉ QURITTO- (zapečená tortilla s vaječnou omeletou, opečenou slaninou, čedarem, a rukolou)",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Restaurace otevřena od 9 do 23",
-          "price": "23 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "SNÍDAŃOVÝ CLASSIC FRESH- (rozpečená brioška, míchaná vajíčka, opečená slanina, čedar, rajské salát, majonézový dresink)",
-          "price": "159 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "PEČENÁ ŠUNKA S VEJCI/MÍCHANÁ VEJCE SE ŠUNKOU- vejce, šunka, kyselá okurka, máslo, pečivo)",
-          "price": "135 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "OMELETA SE ŠUNKOU, ŽAMPIONY A SÝREM- (vejce, šunka, žampiony, sýr, máslo, pečivo)",
-          "price": "145 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "NAŠE LÍVANCE S OMÁČKOU Z LESNÍCH PLODŮ- (lívance, omáčka z lesních plodů. krémový smetanový dip, javorový sirup)",
-          "price": "149 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 13
-    },
-    {
       "name": "QUOQ Bistro",
       "district": "praha-2",
       "image": "https://www.menicka.cz/foto/thumb2/9927-1-sni769mek-obrazovky-2026-01-21-v-95357.jpg",
@@ -678,36 +479,6 @@
           "type": "special_or_info",
           "name": "Připravili jsme pro Vás věrnostní kartu QUOQ Pasport, která kromě okamžité slevy přináší další výhody. Informujte se u obsluhy",
           "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Dýňový krém Krémová smetanová polévka z dýně hokaido, pražené dýňové semínko",
-          "price": "65 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Gochujang chicken Bowl kuřecí grilované kousky na korejský způsob v Gochujang chili omáčce s jasmínovou rýží, ředkvička, sladká kukuřice, edamame, ředkev, mrkev, pekingské zelí, kimchi, smažené vejce",
-          "price": "235 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřové na paprice Kousky vepřového plecka s paprikovou omáčkou, podávané s těstovinami",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Butter chicken indické máslové kuře v jemné máslové kořeněné rajčatové omáčce, jasmínová rýže",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Lasagne Bolognese Tradiční vrstvené těstoviny podle receptury našeho italského šéfkuchaře Steffana s pomalu taženým ragú z hovězího a vepřového masa, jemným bešamelem a zapečené se sýrem dozlatova",
-          "price": "210 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Chicken stripsy burger Máslová brioška, farmářský kuřecí strips, cheddar, slanina, rajče, salát, karamelizovaná cibulka, okurka, chipotle mayo, hořčicová mayo",
-          "price": "245 Kč"
         },
         {
           "type": "dish",
@@ -720,7 +491,7 @@
           "price": "149 Kč"
         }
       ],
-      "items_count": 9
+      "items_count": 3
     },
     {
       "name": "Herbivore",
@@ -752,58 +523,38 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Vídeňská bramboračka se slaninou",
+          "name": "Boršč se zakysanou smetanou",
           "price": "63 Kč"
         },
         {
           "type": "dish",
-          "name": "Kuřecí vývar, maso, zelenina, nudle",
+          "name": "Hovězí vývar, maso, zelenina, nudle",
           "price": "55 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Losos na bylinkách, bramborová kaše, salátek",
-          "price": "229 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Moravský vrabec, dušené zelí, mix knedlíků",
+          "name": "150g Pečená krkovička na česneku, dušený špenát, bramborový knedlík",
           "price": "179 Kč"
         },
         {
           "type": "dish",
-          "name": "180g Pečená kuřecí stehna na másle, bramborová kaše, zeleninový salát",
+          "name": "150g Moravský vrabec, zelí, mix knedlíků",
           "price": "179 Kč"
         },
         {
           "type": "dish",
-          "name": "180g Holandský sekaný řízek, brambor, okurka",
+          "name": "180g Čevabčiči s hořčicí a cibulí, brambor",
           "price": "185 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Vařené uzené maso, hrachová kaše s cibulkou, okurka",
+          "name": "150g Krůtí játra na cibulce, brambor, tatarka",
           "price": "179 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Cmunda po Kaplicku (uzené maso, zelí, bramborák)",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "400g Bramborové knedlíky plněné uzeným masem, zelí, cibulka",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "400g Srbské vepřové rizoto, sýr, okurka",
-          "price": "149 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Vepřová játra dušená na cibulce, jasmínová rýže",
-          "price": "179 Kč"
+          "name": "150g Vepřové na paprice, dušená rýže",
+          "price": "185 Kč"
         },
         {
           "type": "dish",
@@ -812,13 +563,33 @@
         },
         {
           "type": "dish",
+          "name": "400g Bramborové knedlíky plněné uzeným masem, zelí, cibulka",
+          "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "400g Rizoto s vepřovým masem, sýr, okurka",
+          "price": "149 Kč"
+        },
+        {
+          "type": "dish",
           "name": "140g Smažený sýr, vařený brambor, tatarka",
           "price": "169 Kč"
         },
         {
           "type": "dish",
+          "name": "150g Pikantní kuřecí směs se zeleninou, jasmínová rýže",
+          "price": "185 Kč"
+        },
+        {
+          "type": "dish",
           "name": "350g Ovocné kynuté knedlíky, tvaroh, cukr, máslo",
           "price": "139 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Domácí bramborák",
+          "price": "46 Kč"
         }
       ],
       "items_count": 14
@@ -835,6 +606,16 @@
         },
         {
           "type": "dish",
+          "name": "Smažená krůtí kapsa plněná neuzenou slaninou a nivou, vařené petrželkové brambory, pikantní mayo",
+          "price": "219 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Zvěřinový guláš z kančí plece, žemlové knedlíky, červena a jarní cibulka",
+          "price": "219 Kč"
+        },
+        {
+          "type": "dish",
           "name": "Zvěřinový guláš z kančí plece, žemlové knedlíky, červena a jarní cibulka",
           "price": "219 Kč"
         },
@@ -842,9 +623,14 @@
           "type": "dish",
           "name": "Grilovaný sedlčanský hermelín na trhaných listových salátech s rukolou, balsamico redukcí, marinovanou hruškou, ořechy a krutony",
           "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Grilovaný sedlčanský hermelín na trhaných listových salátech s rukolou, balsamico redukcí, marinovanou hruškou, ořechy a krutony",
+          "price": "189 Kč"
         }
       ],
-      "items_count": 3
+      "items_count": 6
     },
     {
       "name": "Spravovna",
@@ -854,7 +640,7 @@
         {
           "type": "dish",
           "name": "Boršč, zakysaná smetana",
-          "price": "69 Kč"
+          "price": ""
         },
         {
           "type": "dish",
@@ -870,34 +656,34 @@
       "items_count": 3
     },
     {
-      "name": "Mikrofarma",
+      "name": "X Bowling Žižkov",
       "district": "praha-3",
-      "image": "https://www.menicka.cz/foto/thumb2/5983-1-1.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/4480-1-2.jpg",
       "menu": [
         {
           "type": "dish",
-          "name": "Dýňový krém",
-          "price": "55 Kč"
+          "name": "Hovězí vývar s játrovými knedlíčky a nudlemi",
+          "price": "50 Kč"
         },
         {
           "type": "dish",
-          "name": "Sous vide kotleta, houbovka, šťouchané brambory",
-          "price": "269 Kč"
+          "name": "120g Smažený sekaný řízek se sýrem, podávaný s mačkanými bramborami s cibulkou",
+          "price": "140 Kč"
         },
         {
           "type": "dish",
-          "name": "BBQ trhané hovězí v bulce, zelný salát s fenyklem",
-          "price": "265 Kč"
+          "name": "250g Fussili al formaggi e pollo – italské těstoviny s omáčkou z modrého sýra a kuřecím masem",
+          "price": "140 Kč"
         },
         {
           "type": "dish",
-          "name": "Kuře na zelenině, bramborová kaše",
-          "price": "259 Kč"
+          "name": "120g Vepřový závitek se šunkou a sýrem s jasmínovou rýží",
+          "price": "140 Kč"
         },
         {
           "type": "dish",
-          "name": "Sandwich s krůtou, chipotle mayo, č. sýr",
-          "price": "255 Kč"
+          "name": "Buřty pečené na černém pivu s čerstvým chlebem",
+          "price": "96 Kč"
         }
       ],
       "items_count": 5
@@ -909,12 +695,12 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Frankfurtská s uzeninou nebo kuřecí vývar s těstovinou",
+          "name": "Zelná s uzeninou nebo hovězí vývar s těstovinou",
           "price": "39 Kč"
         },
         {
           "type": "dish",
-          "name": "Plněný papr. lusk, rajská om., těstoviny nebo HK",
+          "name": "Hovězí guláš, houskový knedlík",
           "price": "148 Kč"
         },
         {
@@ -924,12 +710,12 @@
         },
         {
           "type": "dish",
-          "name": "Kuřecí prsa se sýrovou omáčkou, hranolky",
+          "name": "Kuřecí prsa s liškovým přelivem, hranolky",
           "price": "148 Kč"
         },
         {
           "type": "dish",
-          "name": "Marinovaný kuřecí stehenní steak, šť. brambor",
+          "name": "Uherská roštěná, rýže",
           "price": "148 Kč"
         },
         {
@@ -939,12 +725,12 @@
         },
         {
           "type": "dish",
-          "name": "Smažený nebo přírodní filet z kapra, brambor, citrón",
+          "name": "Kapří hranolky, brambor, dip",
           "price": "148 Kč"
         },
         {
           "type": "dish",
-          "name": "GRIL-MIX (hovězí, vepřové, kuřecí), hranolky",
+          "name": "Steak v vepřové krkovičky, am. brambor",
           "price": "166 Kč"
         },
         {
@@ -992,7 +778,7 @@
         },
         {
           "type": "dish",
-          "name": "Sobota 17. 10. 2026",
+          "name": "Neděle 18. 10. 2026",
           "price": ""
         },
         {
@@ -1027,12 +813,12 @@
         },
         {
           "type": "dish",
-          "name": "180g Hovězí štěpánská pečeně, rýže nebo knedlík",
+          "name": "180g Hovězí znojemská pečeně, rýže nebo knedlík",
           "price": "195 Kč"
         },
         {
           "type": "dish",
-          "name": "180g Smažený vepřový řízek, bramborová kaše, okurka",
+          "name": "180g Smažený kuřecí řízek, bramborová kaše, okurka",
           "price": "170 Kč"
         },
         {
@@ -1042,13 +828,13 @@
         },
         {
           "type": "dish",
-          "name": "180g Kuřecí steak s houbovou omáčkou, hranolky",
-          "price": "170 Kč"
+          "name": "180g Vepřové řezy na grilu s vejcem, hranolky, tatarka",
+          "price": "175 Kč"
         },
         {
           "type": "dish",
-          "name": "180g Pečená sekaná, bramborová kaše, okurka",
-          "price": "165 Kč"
+          "name": "350g Buřty na pivu, chléb",
+          "price": "160 Kč"
         },
         {
           "type": "dish",
@@ -1057,6 +843,39 @@
         }
       ],
       "items_count": 16
+    },
+    {
+      "name": "Lavička zahradní restaurace",
+      "district": "praha-3",
+      "image": "https://www.menicka.cz/foto/thumb2/7856-1-56.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Gulášová s bramborem",
+          "price": "57 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Dýňový krém s kokosovým mlékem",
+          "price": "57 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Restované nudličky z hovězí roštěné servírované na krémovém risottu se sušenými rajčaty a žampióny, sypané parmazánem",
+          "price": "245 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Plátek z vepřového karé pečeného „po zbojnicku“ se slaninou, cibulí, divokým kořením a tymiánem, podávaný s bramborovými špalíčky",
+          "price": "200 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažený řízek z kuřecích prsou servírovaný s tradičním bramborovým salátem s kořenovou zeleninou a majonézou, citrón",
+          "price": "225 Kč"
+        }
+      ],
+      "items_count": 5
     },
     {
       "name": "Restaurace U Tří Prasátek",
@@ -1070,18 +889,23 @@
         },
         {
           "type": "dish",
-          "name": "150g Hovězí roštěná na grilu, omáčka z kuřecích jater na červeném víně, lanýžový olej, mačkané brambory grenaille.",
-          "price": "285 Kč"
+          "name": "Pikantní čínská sladkokyselá polévka",
+          "price": "55 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Kuřeci steak zapečený se smetanou a sýrem (ementáler) šťouchaný brambor, tatarská omáčka, okurkový salát",
+          "name": "150g Tortilla s kuřecím mletým masem, fazole, kukuřice, zelenina, čedar, hranolky, česnekový tip",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Kuřeci steak se sýrovou omáčkou, smažené krokety, malý salát",
           "price": "195 Kč"
         },
         {
           "type": "dish",
           "name": "150g Hovězí kýta v rajské omáčce, houskový knedlík",
-          "price": "189 Kč"
+          "price": "195 Kč"
         },
         {
           "type": "dish",
@@ -1134,7 +958,7 @@
           "price": ""
         }
       ],
-      "items_count": 14
+      "items_count": 15
     },
     {
       "name": "Pivnice U Sadu",
@@ -1158,7 +982,7 @@
         },
         {
           "type": "dish",
-          "name": "Frankfurtská polévka s párkem",
+          "name": "Zelná polévka s uzeninou",
           "price": "79 Kč"
         },
         {
@@ -1178,8 +1002,8 @@
         },
         {
           "type": "dish",
-          "name": "Vepřová panenka s dijonskou hořčičnou omáčkou, pečené bylinkové brambory",
-          "price": "219 Kč"
+          "name": "Bramborové gnocchi s kuřecím masem, brokolicí a smetanovou omáčkou, sypané parmazánem",
+          "price": "19 Kč"
         },
         {
           "type": "dish",
@@ -1218,44 +1042,6 @@
         }
       ],
       "items_count": 15
-    },
-    {
-      "name": "Lavička zahradní restaurace",
-      "district": "praha-3",
-      "image": "https://www.menicka.cz/foto/thumb2/7856-1-56.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Žampiónový krém s krutóny",
-          "price": "57 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Drůbeží vývar s masem, zeleninou a nudlemi",
-          "price": "57 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Půlky brambor plněné hovězím ragú s drcenými rajčaty, kukuřicí a jarní cibulkou, gratinované s čedarem, trhané salátové listy, chorizo dip",
-          "price": "220 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Záhorácký závitek z vepřové krkovice plněný kysaným bílým zelím, podávaný se šťouchanými bramborami s osmaženou cibulkou a slaninou",
-          "price": "205 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Restované nudličky z kuřecích prsou v omáčce s ananasem, kokosovým mlékem, rozinkami, pórkem a mandlovými lupínky, barevná rýže",
-          "price": "215 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Filátka z tresky pečená na roštu s citrónovým pepřem, servírovaná na teplém salátu s květákem zámeckými bramborami a cuketou, zakysaná smetana",
-          "price": "245 Kč"
-        }
-      ],
-      "items_count": 6
     },
     {
       "name": "Na Paloučku",
@@ -1424,6 +1210,84 @@
       "items_count": 15
     },
     {
+      "name": "Šenkýrna Pražanka",
+      "district": "praha-4",
+      "image": "https://www.menicka.cz/foto/thumb2/6829-1-senkyrna.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Hovězí vývar s nudlemi a zeleninou",
+          "price": "45 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Čočková s klobáskou",
+          "price": "45 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Steak z kuřecích prsou se třemi druhy sýra, bramborové hranolky",
+          "price": "174 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Španělský ptáček z hovězí roštěné, dušená jasmínová rýže",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Debrecínská vepřová pečeně, kynuté houskové knedlíky",
+          "price": "175 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Čtvrtka pečené kachny, kynuté houskové a bramborové knedlíky, dušené červené a bílé zelí zelí",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí játra na roštu, bramborové hranolky, tatarka",
+          "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažené masové karbanátky, bramborová kaše s máslem, kyselá okurka",
+          "price": "173 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Banán v čokoládě, vanilková zmrzlina, šlehačka",
+          "price": "57 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Nízkosacharidová bezlepková strava: 150g Biftek z pravé hovězí svíčkové na krémové pepřové omáčce, celerové a karotkové hranolky, volské oko",
+          "price": "235 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Bílkovinová strava: 200g Pečený hovězí rostbíf na pepřové redukci, 100g máslové brambory grenaille s petrželkou, volské oko, česnekový sýr cottage, červená cibule (obsah proteinu v tomto pokrmu je 62g a celkový energetický příjem",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Těstoviny fusilli s kuřecím masem, sušenými tomaty a pečenými plátky česneku, sýr Gran Moravia",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Filet z lososa na grilu, bramborová kaše, máslová kukuřice s brokolicí, citron",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažené vídeňské řízky z telecí kýty obalené v čerstvě namleté strouhance, vařené petrželové brambory, ochucené listové saláty, citron",
+          "price": "219 Kč"
+        }
+      ],
+      "items_count": 14
+    },
+    {
       "name": "Na Pekařce",
       "district": "praha-4",
       "image": "https://www.menicka.cz/foto/thumb2/6880-1-pek1.jpg",
@@ -1435,17 +1299,12 @@
         },
         {
           "type": "dish",
-          "name": "Frankfurtská a/1,7",
+          "name": "Dýňová a/1,3,7",
           "price": "59 Kč"
         },
         {
           "type": "dish",
-          "name": "Brokolicový krém, krutony a/1,3,7",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Čočková se slaninou a/1,3,7",
+          "name": "Bramborová a/1,9",
           "price": "59 Kč"
         },
         {
@@ -1455,18 +1314,18 @@
         },
         {
           "type": "dish",
-          "name": "Pivovarský hovězí guláš s cibulkou, houskové knedlíky nebo dušená rýže a/1,3,7",
+          "name": "Pivovarský hovězí guláš s cibulkou, dušená rýže a/1,3,7",
           "price": "195 Kč"
         },
         {
           "type": "dish",
-          "name": "Smažená kuřecí kapsa, plněná šunkou a sýrem, vařené brambory, tatarská omáčka a/1,3,7",
-          "price": "195 Kč"
+          "name": "Vepřové výpečky na černém pivu, špenát, bramborové knedlíky a/1,3,7",
+          "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Pečené kuře na másle, domácí bramborová kaše, rajčatový salátek a/7",
-          "price": "195 Kč"
+          "name": "Vepřový steak z kotlety, máslová kukuřice, šťouchané brambory a/1",
+          "price": "189 Kč"
         },
         {
           "type": "dish",
@@ -1475,26 +1334,26 @@
         },
         {
           "type": "dish",
-          "name": "Plněné bramborové knedlíky uzeným masem, bílé zelí, restovaná cibulka a/1,3,7",
+          "name": "Smažené kuřecí řízečky, domácí bramborový salát a/1,3,7",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Pečené kuřecí špalíčky, bramborová kaše, salátek a/1,3,7",
           "price": "179 Kč"
         },
         {
           "type": "dish",
-          "name": "grilovaná vepřová panenka, zelené restované fazolky, šťouchaný brambor, chilli dip a/1,3,7 (možno i bez lepku)",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Velká čočková, brokolicová, frankfurtská s pečivem a/1,3,7,9",
+          "name": "Velká dýňová, bramborová s pečivem a/1,3,7,9",
           "price": "79 Kč"
         },
         {
           "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
+          "name": "Domácí koláč se šlehačkou a cukrem a/1,3,7",
+          "price": "69 Kč"
         }
       ],
-      "items_count": 13
+      "items_count": 12
     },
     {
       "name": "Di Carlo - Šeberov",
@@ -1513,8 +1372,8 @@
         },
         {
           "type": "dish",
-          "name": "Česnečka",
-          "price": "105 Kč"
+          "name": "Houbové kyselo",
+          "price": "115 Kč"
         },
         {
           "type": "dish",
@@ -1523,8 +1382,8 @@
         },
         {
           "type": "dish",
-          "name": "Chuckroll /180g, Irsko/",
-          "price": "395 Kč"
+          "name": "Kančí ragú",
+          "price": "325 Kč"
         },
         {
           "type": "dish",
@@ -1550,94 +1409,6 @@
       "items_count": 9
     },
     {
-      "name": "Šenkýrna Pražanka",
-      "district": "praha-4",
-      "image": "https://www.menicka.cz/foto/thumb2/6829-1-senkyrna.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Hovězí vývar s nudlemi a zeleninou",
-          "price": "45 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Česnečka se šunkou, rozšlehanými vejci a chlebovými krutony",
-          "price": "48 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Gulášová masová lehce pikantní",
-          "price": "57 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí burger se šunkou, čedarem, ledovým salátem s dijonským dresinkem, cibulí a okurkou, hranolky, tatarka",
-          "price": "177 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí svíčková na smetaně, karlovarské knedlíky, šlehačka, brusinky",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřový guláš s cibulí, vařeným vejcem a strouhaným křenem, naše bramboráčky",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Plněné bramborové knedlíky uzeným masem, dušené bílé zelí, smažená cibulka",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Pečené vykostěné vepřové koleno, dušené bílé a červené zelí, bramborové knedlíky",
-          "price": "188 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kynutý koláč s naší banánovou marmeládou, tvarohem a jahodou",
-          "price": "28 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Banán v čokoládě, vanilková zmrzlina, šlehačka",
-          "price": "57 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nízkosacharidová bezlepková strava: 150g Pečená vepřová panenka do růžova, krémová omáčka s liškami, květákové pyré s máslem",
-          "price": "194 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Bílkovinová strava: 200g Steak z vepřového karé plemene Duroc, vyšlehaný nízkotučný tvaroh se zeleným nakládaným pepřem, 100g pečená brambora s vařeným vejcem gratinovaná sýrem (obsah proteinu v tomto pokrmu je 69 g a obsahuje cel",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený sýr plněný šunkou, vařené brambory s máslem a šnytlíkem, tatarka",
-          "price": "174 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nudličky z kuřecích prsou na kari, smažené bramborové hranolky",
-          "price": "177 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Filet z lososa na grilu, máslová karotka s kukuřicí, parmazánová omáčka, mačkané brambory s cibulkou, citron",
-          "price": "196 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 16
-    },
-    {
       "name": "U Ryby",
       "district": "praha-4",
       "image": "https://www.menicka.cz/foto/thumb2/2181-1-555jpg",
@@ -1649,13 +1420,8 @@
         },
         {
           "type": "dish",
-          "name": "0,33l hráškový krém",
+          "name": "0,33l gulášová",
           "price": "55 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g smažený eidam,vařený brambor, tatarská omáčka",
-          "price": "179 Kč"
         },
         {
           "type": "dish",
@@ -1669,8 +1435,8 @@
         },
         {
           "type": "dish",
-          "name": "150g kuřecí burger,hranolky,coleslaw",
-          "price": "210 Kč"
+          "name": "2ks koprová omáčka s vejci,vařený brambor",
+          "price": "159 Kč"
         },
         {
           "type": "dish",
@@ -1679,7 +1445,7 @@
         },
         {
           "type": "dish",
-          "name": "200g vepřový steak s grilovanou zeleninou,krokety",
+          "name": "200g kuřecí steak s grilovanou zeleninou,opečený brambor",
           "price": "245 Kč"
         },
         {
@@ -1689,18 +1455,23 @@
         },
         {
           "type": "dish",
-          "name": "150g svíčkova na smetaně,houskové knedlíky,brusinky,citrón",
+          "name": "150g hovězí pečeně na žampionech,rýže",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "150g štěpánská hovězí pečeně,rýže",
+          "name": "150g dančí kýta na smetaně,houskový knedlík,brusinky",
           "price": "189 Kč"
         },
         {
           "type": "dish",
           "name": "150g vepřová plec po selsku,zelí,bramborové knedlíky",
           "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "1ks pečené kuřecí stehno,vařený brambor,rajčatový salátek",
+          "price": "179 Kč"
         },
         {
           "type": "dish",
@@ -1755,74 +1526,16 @@
         },
         {
           "type": "dish",
-          "name": "Kuřecí roláda s mladým špenátem a fáší s mandlemi, špecle, kuřecí juice –",
-          "price": "215 Kč"
+          "name": "Kuřecí řízek s tradičním bramborovým salátem a citronem –",
+          "price": "205 Kč"
         },
         {
           "type": "dish",
-          "name": "Hovězí plzeňský guláš na pivě s bramboráčky, cibulkou a chilli –",
-          "price": "225 Kč"
+          "name": "Risotto carbonara s guanciale –",
+          "price": "205 Kč"
         }
       ],
       "items_count": 3
-    },
-    {
-      "name": "Jankovna U Bazénu",
-      "district": "praha-4",
-      "image": "https://www.menicka.cz/foto/thumb2/4602-1-66.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Kuřecí vývar se zeleninou, masem a těstovinou",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Květáková s vejcem a bramborem",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený sýr, hranolky, tatarská omáčka",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kuřecí plátek na rozmarýnu, rýže",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřové nudličky po čínsku, jasmínová rýže",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Segedínský guláš, houskový knedlík",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Plněné bramborové knedlíky uzeným masem, zelí, cibulka",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Medovník",
-          "price": "59 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Čokoládový fondán se šlehačkou",
-          "price": "69 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Malý šopský salát",
-          "price": "59 Kč"
-        }
-      ],
-      "items_count": 10
     },
     {
       "name": "U Bansethů",
@@ -1832,17 +1545,12 @@
         {
           "type": "dish",
           "name": "Silný hovězí vývar na plotně přes noc tažený se zeleninou a játrovým knedlíkem1,3,9",
-          "price": "45 Kč"
+          "price": "55 Kč"
         },
         {
           "type": "dish",
           "name": "Záhorácká zelňačka s klobásou1",
           "price": "55 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Rohlík DLOUBÁK1,3,7,11",
-          "price": "10 Kč"
         },
         {
           "type": "dish",
@@ -1900,7 +1608,98 @@
           "price": "59 Kč"
         }
       ],
-      "items_count": 14
+      "items_count": 13
+    },
+    {
+      "name": "Restaurace Maják",
+      "district": "praha-4",
+      "image": "https://www.menicka.cz/foto/thumb2/2226-1-1.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Pikantní fazolová (1a)",
+          "price": "49 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Svíčková na smetaně, houskové knedlíky, brusinkový terč (1a, 3, 7, 9, 10)",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Dančí kýta se šípkovou omáčkou, houskové knedlíky (1a, 3, 7, 9, 10)",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Hovězí maso na houbách, dušená rýže (1a, 3)",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí nudličky s cibulí, paprikou a klobásou, vařené brambory (1a)",
+          "price": "179 Kč"
+        }
+      ],
+      "items_count": 5
+    },
+    {
+      "name": "Jankovna U Bazénu",
+      "district": "praha-4",
+      "image": "https://www.menicka.cz/foto/thumb2/4602-1-66.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Kuřecí vývar se zeleninou, masem a těstovinou",
+          "price": "59 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Květáková s vejcem a bramborem",
+          "price": "59 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "TOP: Hovězí maso, svíčková omáčka, houskový knedlík, brusinkový terč",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažený sýr, hranolky, tatarská omáčka",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Hovězí stroganoff, jasmínová rýže",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí plátek na tymiánu, hranolky",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Segedínský guláš, houskový knedlík",
+          "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Medovník",
+          "price": "59 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Čokoládový fondán se šlehačkou",
+          "price": "69 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Malý šopský salát",
+          "price": "59 Kč"
+        }
+      ],
+      "items_count": 10
     },
     {
       "name": "Šenkýrna Na Ledárnách",
@@ -1914,52 +1713,52 @@
         },
         {
           "type": "dish",
-          "name": "Dýňový krém se zázvorem a krutony",
+          "name": "Krémová z bílých fazolí s uzeným masem",
           "price": "45 Kč"
         },
         {
           "type": "dish",
-          "name": "Quesadilla s trhaným vepřovým masem, sýrem a kukuřicí, smažené bramborové hranolky, tatarka",
-          "price": "175 Kč"
+          "name": "Tomatovo smetanová z parmazánem",
+          "price": "45 Kč"
         },
         {
           "type": "dish",
-          "name": "Přírodní špikovaná hovězí pečeně, dušená jasmínová rýže",
-          "price": "198 Kč"
+          "name": "170g Smažené masové karbanátky, bramborová kaše s máslem, kyselá okurka",
+          "price": "169 Kč"
         },
         {
           "type": "dish",
-          "name": "Telecí kýta na smetanové omáčce s hráškem, šunkou a čerstvou paprikou, kynuté houskové knedlíky",
-          "price": "192 Kč"
+          "name": "Vepřová plec na slanině, dušená jasmínová rýže",
+          "price": "174 Kč"
         },
         {
           "type": "dish",
-          "name": "Pečený vykostěný králičí hřbet na česneku, bramborové knedlíky maštěné cibulkou, dušený špenát",
-          "price": "183 Kč"
+          "name": "Kuřecí játra na roštu, mexický dip, grilované brambory",
+          "price": "169 Kč"
         },
         {
           "type": "dish",
-          "name": "Nudličky z kuřecích prsou se zeleninou a jalapeňos papričkou, smažené bramborové krokety",
-          "price": "177 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nízkosacharidová a bezlepková strava: 150g Steak z kuřecích prsou se sýrovými grusetkami a fazolovými lusky, zakysaná smetana",
+          "name": "Nízkosacharidová bezlepková strava: 150g Plátkovaná vepřová panenka na brokolicovém pyré, grilovaná karotka, vařené vejce",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Bílkovinová strava: 200g Kapsa z vepřové kotlety bez kosti na grilu plněná žampiony, sýrem a klobáskou, 100g pečená brambora s cottage sýrem (obsah proteinu v tomto pokrmu je 54g a celkový energetický příjem je 570 kcal)",
+          "name": "Bílkovinová strava: 150g Špikovaný hovězí váleček na květákovém mozečku s cibulkou a anglickou slaninou, 120g vařená brambora se šnytlíkovým máslem (obsah proteinu v tomto pokrmu je 62g a celkový energetický příjem je 560kcal)",
           "price": "199 Kč"
         },
         {
           "type": "dish",
-          "name": "Smažené řízky z vepřové panenky, bramborová kaše s máslem, citron",
-          "price": "187 Kč"
+          "name": "Medailonky z vepřového karé na krémové smetanové omáčce s drceným pepřem a anglickou slaninou, smažené bramborové hranolky",
+          "price": "186 Kč"
         },
         {
           "type": "dish",
-          "name": "Salát z trhaných listů a zeleniny ochucený mexickým dresinkem, medailonky z pravé hovězí svíčkové, vařené vejce, sýr Gran Moravia",
+          "name": "Medailonky z pravé hovězí svíčkové na fazolových luskách, smažené bramborové plátky",
+          "price": "235 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Dorůžova pečený anglický rostbíf na míchaném zeleninovém salátu s česnekovým dresinkem a červenou cibulkou, sýr Gran Moravia",
           "price": "174 Kč"
         }
       ],
@@ -2037,19 +1836,6 @@
         }
       ],
       "items_count": 13
-    },
-    {
-      "name": "Eaternia",
-      "district": "praha-5",
-      "image": "https://www.menicka.cz/foto/thumb2/6124-1-logo.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Měsíční speciál (Bánh mì s ořechovou paštikou) a stálá nabídka",
-          "price": ""
-        }
-      ],
-      "items_count": 1
     },
     {
       "name": "Le Camille",
@@ -2196,62 +1982,72 @@
       "items_count": 11
     },
     {
-      "name": "Zbraslavský Hostinec",
+      "name": "Restaurace U Přístavu",
       "district": "praha-5",
-      "image": "https://www.menicka.cz/foto/thumb2/4836-1--16.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/2253-1-up1.jpg",
       "menu": [
         {
           "type": "dish",
-          "name": "PIKANTNÍ KUKUŘIČNÁ POLÉVKA S CHILLI",
-          "price": "69 Kč"
+          "name": "Frankfurtská",
+          "price": "45 Kč"
         },
         {
           "type": "dish",
-          "name": "HOVĚZÍ VÝVAR S CELESTÝNSKÝMI NUDLEMI",
-          "price": "79 Kč"
+          "name": "Vývar s játrovými knedlíčky",
+          "price": "45 Kč"
         },
         {
           "type": "dish",
-          "name": "PIZZA S PĚTI DRUHY SALÁMŮ / TOMAT, EIDAM, ŠUNKA, VYSOČINA, ANGLICKÁ SLANINA, KLOBÁSA, PAPRIKOVÝ SALÁM",
-          "price": "220 Kč"
+          "name": "120 g Svíčková na smetaně, knedlík, brusinky",
+          "price": "210 Kč"
         },
         {
           "type": "dish",
-          "name": "ŽAMPIONOVÁ / TOMAT, EIDAM, ŠUNKA, ŽAMPIONY",
-          "price": "220 Kč"
+          "name": "120 g Hovězí na hříbkách, rýže",
+          "price": "205 Kč"
         },
         {
           "type": "dish",
-          "name": "HALLOUMI SÝR SMAŽENÝ V PANKO STROUHANCE, MIX SALÁTŮ S MEDOVO-HOŘČIČNÝM DRESINKEM",
-          "price": "220 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "PEČENÝ FILET „RED FISH“, CUKETOVO-LILKOVÉ RAGÚ",
+          "name": "120 g Roštěná Djulbastia, americký brambor",
           "price": "240 Kč"
         },
         {
           "type": "dish",
-          "name": "PEČENÁ KACHNA SE ŠVETSKOVOU OMÁČKOU, BRAMBOROVÉ PLACKY",
-          "price": "240 Kč"
+          "name": "120 g Vepřové medailonky z panenky na drceném pepři, hranolky",
+          "price": "210 Kč"
         },
         {
           "type": "dish",
-          "name": "POMALU PEČENÝ VEPŘOVÝ BOK, ČERVENÉ ZELÍ, JÁHLY",
-          "price": "230 Kč"
+          "name": "120 g Smažená vepřová krkovice, bramborový salát",
+          "price": "205 Kč"
         },
         {
           "type": "dish",
-          "name": "ŠPAGETY S AVOKÁDEM, KREVETAMI, ŠALOTKOU, PETRŽELKOU A CITRONEM",
-          "price": "230 Kč"
+          "name": "1/4 Kachny pečené, mix knedlíků, bílé, červené zelí",
+          "price": "225 Kč"
         },
         {
           "type": "dish",
-          "name": "ŠUNKOFLEKY S KYSELOU OKURKOU",
-          "price": "190 Kč"
+          "name": "120 g Krůtí steak se zeleným pepřem a smetanou, krokety",
+          "price": "210 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "120 g Kuřecí kapsa s hermelínem a brusinkami, krokety",
+          "price": "210 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "120 g Naše sekaná, bramborová kaše, okurka",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "120 g Losos na grilu, brambor",
+          "price": "225 Kč"
         }
       ],
-      "items_count": 10
+      "items_count": 12
     },
     {
       "name": "Restaurace Pod Černým vrchem",
@@ -2277,87 +2073,77 @@
       "items_count": 3
     },
     {
-      "name": "Restaurace U Přístavu",
+      "name": "Zbraslavský Hostinec",
       "district": "praha-5",
-      "image": "https://www.menicka.cz/foto/thumb2/2253-1-up1.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/4836-1--16.jpg",
       "menu": [
         {
           "type": "dish",
-          "name": "Hrachová s uzeninou",
-          "price": "45 Kč"
+          "name": "PIKANTNÍ KUKUŘIČNÁ POLÉVKA S CHILLI",
+          "price": "69 Kč"
         },
         {
           "type": "dish",
-          "name": "Vývar s játrovými knedlíčky",
-          "price": "45 Kč"
+          "name": "HOVĚZÍ VÝVAR S CELESTÝNSKÝMI NUDLEMI",
+          "price": "79 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Svíčková na smetaně, knedlík, brusinky",
-          "price": "210 Kč"
+          "name": "ŠUNKOVÁ / TOMAT, EIDAM, ŠUNKA",
+          "price": "220 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g jelení gulaš, knedlík",
-          "price": "205 Kč"
+          "name": "ŽAMPIONOVÁ / TOMAT, EIDAM, ŠUNKA, ŽAMPIONY",
+          "price": "220 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Vepřové medailonky z panenky na zeleném pepři se smetanou, krokety",
-          "price": "210 Kč"
+          "name": "HALLOUMI SÝR SMAŽENÝ V PANKO STROUHANCE, MIX SALÁTŮ S MEDOVO-HOŘČIČNÝM DRESINKEM",
+          "price": "220 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Smažená vepřová krkovice, bramborový salát",
-          "price": "210 Kč"
+          "name": "PEČENÝ FILET „RED FISH“, CUKETOVO-LILKOVÉ RAGÚ",
+          "price": "250 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Staročeská směs v bramboráku",
-          "price": "205 Kč"
+          "name": "PEČENÁ KACHNA SE ŠÍPKOVOU OMÁČKOU, BRAMBOROVÉ PLACKY",
+          "price": "250 Kč"
         },
         {
           "type": "dish",
-          "name": "1/4 Kachny pečené, mix knedlíků, bílé, červené zelí",
-          "price": "225 Kč"
+          "name": "POMALU PEČENÝ VEPŘOVÝ BOK, ČERVENÉ ZELÍ, BRAMBOROVÉ KNEDLÍKY",
+          "price": "230 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Kuřecí nudličky s rokfórem, krokety",
-          "price": "210 Kč"
+          "name": "ŠPAGETY S AVOKÁDEM, KREVETAMI, ŠALOTKOU, PETRŽELKOU A CITRONEM",
+          "price": "230 Kč"
         },
         {
           "type": "dish",
-          "name": "120 g Kuřecí kapsa hermelín, brusinky, rukola, hranolky",
-          "price": "210 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "120 g Losos na grilu, brambor",
-          "price": "225 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "120 g Naše sekaná, šťouchané brambory, kyselá okurka",
-          "price": "195 Kč"
+          "name": "ŠUNKOFLEKY S KYSELOU OKURKOU",
+          "price": "220 Kč"
         }
       ],
-      "items_count": 12
+      "items_count": 10
     },
     {
-      "name": "Staročeská krčma",
+      "name": "Ballon restaurant",
       "district": "praha-6",
-      "image": "https://www.menicka.cz/foto/thumb2/4657-1-20220514_1526091_rew.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/2513-1-1.jpg",
       "menu": [
         {
-          "type": "special_or_info",
-          "name": "Otevřeno 11:00 - 22:00",
-          "price": ""
+          "type": "dish",
+          "name": "Plzeňský hovězí guláš s červenou cibulkou, variace našich knedlíků 160g",
+          "price": "269 Kč"
         },
         {
-          "type": "special_or_info",
-          "name": "Stálý jídelní lístek a nabídka specialit",
-          "price": ""
+          "type": "dish",
+          "name": "Krémové spaghetti burrata, krůtí prsa, bazalkové pesto, parmazán 150g",
+          "price": "285 Kč"
         }
       ],
       "items_count": 2
@@ -2367,11 +2153,6 @@
       "district": "praha-6",
       "image": "https://www.menicka.cz/foto/thumb2/172-1-1.jpg",
       "menu": [
-        {
-          "type": "dish",
-          "name": "Drštková 65, -",
-          "price": ""
-        },
         {
           "type": "dish",
           "name": "150g Domácí Valcha tlačenka světlá, cibulka, ocet, čerstvý chléb 129, -",
@@ -2394,112 +2175,44 @@
         },
         {
           "type": "dish",
-          "name": "150g Hovězí pečeně na česneku, listový špenát s kapkou smetany, bramborový knedlík 239, -",
+          "name": "100g Haloumi burger v domácí bulce, grilovaný Haloumi sýr, čerstvá zelenina, jogurtový dresink s bazalkou, kořeněné americké brambory 279, -",
           "price": ""
         },
         {
           "type": "dish",
-          "name": "150g Hovězí zadní vařené, smetanová hříbková omáčka, houskové knedlíky 239, -",
+          "name": "100g Farmářský salát s kuřecím masem, sázeným vejcem, pečenými bramborami, domácí dresink 229, -",
           "price": ""
         },
         {
           "type": "dish",
-          "name": "150g Kančí guláš sypaný cibulkou, houskový knedlík 239, -",
+          "name": "Teplý jablečný štrůdl s vanilkovou zmrzkou 109, -",
           "price": ""
         },
         {
           "type": "dish",
-          "name": "150g Vepřová líčka (sous-vide) v čerstvých bylinkách, listový špenát, bramborové knedlíky 219, -",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "150g Vepřová krkovice pečená v pepři, šťouchané brambory, salátek 199, -",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "150g Steak z vepřové pečeně na grilu, sázené vejce se šunkou, bramborové hranolky, salátek 219, -",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "150g Čevabčiči, šťouchané brambory, hořčice, cibulka, salátek 199, -",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "200g Kuřecí špalíky pečené po italsku, těstoviny- penne 199, -",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
+          "name": "Čokoládový fondant se šlehačkou 129, -",
           "price": ""
         }
       ],
-      "items_count": 14
+      "items_count": 8
     },
     {
-      "name": "Budvarka",
+      "name": "Staročeská krčma",
       "district": "praha-6",
-      "image": "https://www.menicka.cz/foto/thumb2/2676-1-1.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Dýňová se zázvorem a chilli 1 7 9",
-          "price": "55 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Debrecínská hovězí pečeně s jasmínovou rýží 1 3 7",
-          "price": "185 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený hermelín s vařenými brambory a tatarskou omáčkou 1 3 7 10",
-          "price": "165 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Francouzské brambory s kyselou okurkou 3 7 9",
-          "price": "175 Kč"
-        }
-      ],
-      "items_count": 4
-    },
-    {
-      "name": "Ballon restaurant",
-      "district": "praha-6",
-      "image": "https://www.menicka.cz/foto/thumb2/2513-1-1.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/4657-1-20220514_1526091_rew.jpg",
       "menu": [
         {
           "type": "special_or_info",
-          "name": "Salátové listy s kuskusem a rukolou, grilovaná zelenina, cherry rajčata, bazalkový dresink, kuřecí prso 150g",
-          "price": "269 Kč"
+          "name": "Otevřeno 11:00 - 22:00",
+          "price": ""
         },
         {
-          "type": "dish",
-          "name": "Kapustová s uzeným masem, opečené brambory, zakysaná smetana",
-          "price": "99 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Telecí špalky na šalvěji a bílém víně, sušené houby a pečená rýže 150g",
-          "price": "275 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Plzeňský hovězí guláš s červenou cibulkou, variace našich knedlíků 160g",
-          "price": "269 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Krémové spaghetti burrata, krůtí prsa, bazalkové pesto, parmazán 150g",
-          "price": "285 Kč"
+          "type": "special_or_info",
+          "name": "Stálý jídelní lístek a nabídka specialit",
+          "price": ""
         }
       ],
-      "items_count": 5
+      "items_count": 2
     },
     {
       "name": "Oléo Pazzo",
@@ -2525,63 +2238,10 @@
       "items_count": 3
     },
     {
-      "name": "Restaurace U Viléma",
-      "district": "praha-6",
-      "image": "https://www.menicka.cz/foto/thumb2/7887-1-img-20180620-wa0002.jpg",
-      "menu": [
-        {
-          "type": "special_or_info",
-          "name": "špikovaná sušenými rajčaty, česnekový dip /7/",
-          "price": "229 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "3 ks Domácí pirohy s povidly v mandlové strouhance, přelité máslem /1,3,7,8/",
-          "price": "69 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "3 ks Domácí lívance se zakysanou smetanou a borůvkami /1,3,7/",
-          "price": "99 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "1 ks Domácí jablečný závin, vanilková zmrzlina, šlehačka /1,3,7,8/",
-          "price": "99 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí zadní, rajská omáčka s perníkem, těstoviny /1,3,7,9/",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Moravský vrabec, bramborový knedlík, bílé zelí /1,3,7/",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Smažený kuřecí řízek, vařený brambor, kyselá okurka, citrón /1,3,7/",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "120g Hermelín na vařený brambor, brusinky /7/",
-          "price": "179 Kč"
-        }
-      ],
-      "items_count": 8
-    },
-    {
       "name": "Restaurace Na Rozhraní",
       "district": "praha-6",
       "image": "https://www.menicka.cz/foto/thumb2/4188-1-na1.jpg",
       "menu": [
-        {
-          "type": "dish",
-          "name": "Bramboračka s houbami (1,9), domácí pečivo",
-          "price": "70 Kč"
-        },
         {
           "type": "dish",
           "name": "Dýňový krém se zakysanou smetanou (7), domácí pečivo",
@@ -2589,8 +2249,13 @@
         },
         {
           "type": "dish",
-          "name": "Marinovaná kuřecí prsa, bramborová kaše s lanýžovým olejem, malý zeleninový salátek (7)",
-          "price": "219 Kč"
+          "name": "Pikantní soté z vepřové panenky, hranolky (nebo jasmínová rýže), (6)",
+          "price": "229 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Pečený králičí hřbet bez kosti ve slanině, listový špenát, gratinované brambory (7)",
+          "price": "289 Kč"
         },
         {
           "type": "dish",
@@ -2599,114 +2264,16 @@
         },
         {
           "type": "dish",
-          "name": "Filírovaný hovězí flank steak (200g), zelené fazolky s česnekem, opečené brambůrky",
-          "price": "369 Kč"
+          "name": "Vepřový steak (200g) na houbové omáčce, opečené brambory s rozmarýnem (7)",
+          "price": "279 Kč"
         },
         {
           "type": "dish",
-          "name": "Telecí spider steak (250g) na švestkové omáčce, gratinované brambory (7)",
-          "price": "339 Kč"
+          "name": "Bramborové knedlíky plněné trhaným kachním masem, červené a bílé zelí (1,3)",
+          "price": "269 Kč"
         }
       ],
       "items_count": 6
-    },
-    {
-      "name": "Restaurace Dejvická Sokolovna",
-      "district": "praha-6",
-      "image": "https://www.menicka.cz/foto/thumb2/2587-1-882.jpg",
-      "menu": [
-        {
-          "type": "special_or_info",
-          "name": "Selská tlačenka s octem a cibulí",
-          "price": "99 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "Matjesový salát s nakládanou cibulí",
-          "price": "133 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "Nakládaný utopenec s cibulí",
-          "price": "99 Kč"
-        },
-        {
-          "type": "special_or_info",
-          "name": "Buřt na černém pivu",
-          "price": "99 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Gulášová",
-          "price": "69 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí guláš, houskové knedlíky nebo penne",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "*1/4 Pečené kachny, bramborové a houskové knedlíky, červené zelí",
-          "price": "249 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Tradiční Svíčková na smetaně s hovězím masem, houskové knedlíky, brusinky s čerstvou šlehačkou",
-          "price": "209 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřo Knedlo Zelo – vepřová pečeně, houskové knedlíky, dušené zelí",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Koprová omáčka, hovězí maso vařené, houskové knedlíky nebo vařené brambory",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí pečeně na žampiónech, dušená rýže nebo houskové knedlíky",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřové výpečky, bramborové knedlíky, dušené zelí",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Uzená Kladenská pečeně, šťouchané brambory, okurka",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený karbanátek, vařené brambory, okurka",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Penne s kuřecím masem, smetanou a žampióny, sypané sýrem Grana Padano",
-          "price": "209 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Filet z norského lososa na másle, vařené brambory",
-          "price": "229 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kuřecí steak s Anglickou slaninou, pečeným rajčátkem a bazalkovým pestem, bramborové hranolky",
-          "price": "209 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 18
     },
     {
       "name": "Bowling Manta",
@@ -2777,6 +2344,104 @@
       "items_count": 12
     },
     {
+      "name": "Restaurace Dejvická Sokolovna",
+      "district": "praha-6",
+      "image": "https://www.menicka.cz/foto/thumb2/2587-1-882.jpg",
+      "menu": [
+        {
+          "type": "special_or_info",
+          "name": "Selská tlačenka s octem a cibulí",
+          "price": "99 Kč"
+        },
+        {
+          "type": "special_or_info",
+          "name": "Matjesový salát s nakládanou cibulí",
+          "price": "133 Kč"
+        },
+        {
+          "type": "special_or_info",
+          "name": "Nakládaný utopenec s cibulí",
+          "price": "99 Kč"
+        },
+        {
+          "type": "special_or_info",
+          "name": "Buřt na černém pivu",
+          "price": "99 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí vývar s masem a nudlemi",
+          "price": "56 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Hovězí guláš, houskové knedlíky nebo penne",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "*1/4 Pečené kachny, bramborové a houskové knedlíky, červené zelí",
+          "price": "249 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Tradiční Svíčková na smetaně s hovězím masem, houskové knedlíky, brusinky s čerstvou šlehačkou",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Vepřo Knedlo Zelo – vepřová pečeně, houskové knedlíky, dušené zelí",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Myslivecká hovězí pečeně, houskové knedlíky",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Záhorácký závitek – krkovička plněná kysaným zelím, špekem a česnekem, bramborové knedlíky nebo šťouchané brambory",
+          "price": "208 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Vepřová pečeně na barevném pepři, dušená rýže nebo houskové knedlíky",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažený Hermelín, vařené brambory, brusinková tatarka",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Penne ala Carbonara se slaninou ve smetanové omáčce, sypané sýrem Grana Padano",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Pstruh na kmínu, vařené brambory",
+          "price": "215 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí steak se šunkou, gratinovaný sýrem, bramborové hranolky",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Medailonky z vepřové panenky balené v Anglické slanině, šťouchané brambory",
+          "price": "229 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "zobrazit více jídel",
+          "price": ""
+        }
+      ],
+      "items_count": 18
+    },
+    {
       "name": "Restaurace Na Staré Faře",
       "district": "praha-6",
       "image": "https://www.menicka.cz/foto/thumb2/2511-1-1.jpg",
@@ -2803,7 +2468,7 @@
         },
         {
           "type": "dish",
-          "name": "Květáková s opečeným chlebem",
+          "name": "Bramborová",
           "price": "50 Kč"
         },
         {
@@ -2833,7 +2498,7 @@
         },
         {
           "type": "dish",
-          "name": "150 g Marinovaná vepřová krkovice se šunkou od kosti a sázeným vejcem, opečené brambory, salát z červené řepy s křenem a zakysanou smetanou",
+          "name": "150 g Marinovaná vepřová krkovice se šunkou od kosti a sázeným vejcem, hranolky, salát z červené řepy s křenem a zakysanou smetanou",
           "price": "189 Kč"
         },
         {
@@ -2923,94 +2588,6 @@
       "items_count": 7
     },
     {
-      "name": "Restaurace U sv. Antoníčka",
-      "district": "praha-7",
-      "image": "https://www.menicka.cz/foto/thumb2/4806-1-logo.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Kapustová se slaninou",
-          "price": "52 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kulajda",
-          "price": "52 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Slepičí vývar s masem a nudlemi",
-          "price": "52 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Vepřová žebra BBQ s nakládanou zeleninou a rozpečeným chlebem",
-          "price": "239 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Pečený králík, špenát, houskový knedlík",
-          "price": "187 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Vepřový španělský ptáček, rýže",
-          "price": "184 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Domácí sekaná s bramborovou kaší, okurka",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Medailonky z panenky s pepřovou omáčkou, hranolky",
-          "price": "194 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "1 ks Králičí stehno na smetaně, houskový knedlík",
-          "price": "187 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Slepice na paprice, kolínka",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Špagety s mletým masem a smetanou, sypané sýrem",
-          "price": "178 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Kuřecí steak zapečený nivou, hranolky",
-          "price": "194 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Smažené žampiony s vařeným bramborem a tatarkou",
-          "price": "182 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Ceasar salát s kuřecím masem, krutony a parmazánem",
-          "price": "196 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Smažený hermelín se šunkou, vařené brambory a tatarská omáčka",
-          "price": "182 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 16
-    },
-    {
       "name": "Restaurace V Háji",
       "district": "praha-7",
       "image": "https://www.menicka.cz/foto/thumb2/6937-1-v-haji-fotojpg",
@@ -3027,8 +2604,8 @@
         },
         {
           "type": "dish",
-          "name": "0, 3l Dršťková",
-          "price": "48 Kč"
+          "name": "0, 3l Gulášová",
+          "price": "47 Kč"
         },
         {
           "type": "dish",
@@ -3047,7 +2624,12 @@
         },
         {
           "type": "dish",
-          "name": "gr Vepřový steak s uzrným sýrem, hranolky, zelný salát",
+          "name": "gr Vepřové medailonky m hranolky, zelný salát",
+          "price": "178 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Kuřecí steak s omáčkou z modrého sýru, hranolky",
           "price": "178 Kč"
         },
         {
@@ -3062,13 +2644,8 @@
         },
         {
           "type": "dish",
-          "name": "gr Ďábelský kotlík s bramboráčky",
-          "price": "175 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "gr Hovězí kostky na česneku se špenátem, bramborový knedlík",
-          "price": "175 Kč"
+          "name": "gr Ďábelský kotlík s houskovým knedlíkem",
+          "price": "170 Kč"
         },
         {
           "type": "dish",
@@ -3115,16 +2692,6 @@
         },
         {
           "type": "dish",
-          "name": "150g Hovězí kostky na slanině, bramborový knedlík, špenát",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí maso vařené, rajská omáčka, houskový knedlík",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
           "name": "150g Domácí sekaná, bramborová kaše, okurka",
           "price": "176 Kč"
         },
@@ -3135,8 +2702,13 @@
         },
         {
           "type": "dish",
-          "name": "150g Hovězí svíčková na smetaně, houskový knedlík, brusinky",
-          "price": "184 Kč"
+          "name": "Halušky s uzeným masem a zelí",
+          "price": "176 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažené žampióny, vařené brambory, tatarská omáčka",
+          "price": "176 Kč"
         },
         {
           "type": "dish",
@@ -3164,7 +2736,108 @@
           "price": "184 Kč"
         }
       ],
-      "items_count": 12
+      "items_count": 11
+    },
+    {
+      "name": "Restaurace U sv. Antoníčka",
+      "district": "praha-7",
+      "image": "https://www.menicka.cz/foto/thumb2/4806-1-logo.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Zelná s klobásou",
+          "price": "52 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kapustová se slaninou",
+          "price": "52 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Slepičí vývar s masem a nudlemi",
+          "price": "52 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Hovězí plátek na červeném víně, bramborová kaše",
+          "price": "186 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Vepřové po bratislavsku, houskový knedlík",
+          "price": "182 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Vepřové kostky v mrkvi, brambor",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Pečený králík, špenát, bramborový knedlík",
+          "price": "187 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Kuře na paprice, kolínka",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Vepřový španělský ptáček, rýže",
+          "price": "184 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Medailonky z panenky s pepřovou omáčkou, hranolky",
+          "price": "194 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "1 ks Králičí stehno na smetaně, houskový knedlík",
+          "price": "187 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Kuřecí steak zapečený nivou, hranolky",
+          "price": "194 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Smažené žampiony s vařeným bramborem a tatarkou",
+          "price": "182 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Ceasar salát s kuřecím masem, krutony a parmazánem",
+          "price": "196 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "gr Smažený hermelín se šunkou, vařené brambory a tatarská omáčka",
+          "price": "182 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "zobrazit více jídel",
+          "price": ""
+        }
+      ],
+      "items_count": 16
+    },
+    {
+      "name": "Salut Restaurant",
+      "district": "praha-7",
+      "image": "https://www.menicka.cz/foto/thumb2/9521-1-img_2410jpg",
+      "menu": [
+        {
+          "type": "special_or_info",
+          "name": "V neděli je restaurace uzavřena",
+          "price": ""
+        }
+      ],
+      "items_count": 1
     },
     {
       "name": "U Houbaře",
@@ -3193,17 +2866,17 @@
         },
         {
           "type": "dish",
-          "name": "150g Hamburská vepřová kýta (smetanová omáčka s kousky šunky, nakládané okurky a opečené slaniny), houskový knedlík",
+          "name": "150g Nudličky z roštěné s gorgonzolo-smetanovou omáčkou, bramborové hranolky",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Roštěná na lesních houbách a rozmarýnu, houskový knedlík / jasmínová rýže",
-          "price": "195 Kč"
+          "name": "1ks Hovězí burger, ledový salát, rajské jablíčko, čerstvá cibule, americký dresink, hranolky, pikantní dip",
+          "price": "219 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Nudličky z roštěné s gorgonzolo-smetanovou omáčkou, bramborové hranolky",
+          "name": "150g Hovězí pečeně na lesních houbách a rozmarýnu, houskový knedlík / jasmínová rýže",
           "price": "189 Kč"
         },
         {
@@ -3226,28 +2899,61 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Dršťková z hlívy ústřičné",
+          "name": "Brokolicový krém s krutony",
           "price": "39 Kč"
         },
         {
           "type": "dish",
-          "name": "Segedínský guláš s houskovým knedlíkem",
+          "name": "Plněné bramborové knedlíky uzeným masem se zelím a smaženou cibulkou",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Hovězí kýta v rajské omáčce s houskovým knedlíkem",
+          "name": "Smažené filé z Tilápie s vařeným bramborem, citron",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Vepřová opečená domácí sekaná s vařeným bramborem a znojemskou okurkou",
+          "name": "Hovězí svíčková na smetaně s brusinkovým terčem a houskovým knedlíkem",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Těstovinový salát s kuřecím masem, zeleninou a jogurtovým dresinkem",
+          "name": "Penne s bazalkovým pestem a kuřecím masem",
           "price": "189 Kč"
+        }
+      ],
+      "items_count": 5
+    },
+    {
+      "name": "Holešovická Sedma",
+      "district": "praha-7",
+      "image": "https://www.menicka.cz/foto/thumb2/5118-1-1.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Frankfurtská s restovanou klobásou a bramborami ... 1, 7 frankfurt-style soup with sautéed sausage and potatoes/span>",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "Frankfurtská s restovanou klobásou a bramborami ... 1, 7 frankfurt-style soup with sautéed sausage and potatoes/span>",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "Masové kuličky s čedarovou omáčkou, steakové bramborové hranolky, listový salát s francouzským dresinkem … 1, 3, 7, 10 meatballs with cheddar cheese sauce, steak fries, leaf salad with french dressing",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Masové kuličky s čedarovou omáčkou, steakové bramborové hranolky, listový salát s francouzským dresinkem … 1, 3, 7, 10 meatballs with cheddar cheese sauce, steak fries, leaf salad with french dressing",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "zobrazit více jídel",
+          "price": ""
         }
       ],
       "items_count": 5
@@ -3296,27 +3002,62 @@
       "items_count": 7
     },
     {
-      "name": "Holešovická Sedma",
+      "name": "Domažlická Jizba",
       "district": "praha-7",
-      "image": "https://www.menicka.cz/foto/thumb2/5118-1-1.jpg",
+      "image": "https://www.menicka.cz/foto/thumb2/6513-1-80.jpg",
       "menu": [
         {
           "type": "dish",
-          "name": "Rybí polévka z tresky, zeleniny a drcených rajčat … 7 cod soup with vegetables and crushed tomatoes",
-          "price": ""
+          "name": "0,3l Cibulová se sýrem",
+          "price": "55 Kč"
         },
         {
           "type": "dish",
-          "name": "Kuřecí gyros na pita chlebu se zeleninou, ledovým salátem, česnekovo – bylinkovým dresinkem a drobeným balkánským sýrem … 1, 3, 7 chicken gyros in pita bread with vegetables, iceberg lettuce, garlic and herb dressing, crumbled bal",
-          "price": "179 Kč"
+          "name": "0,3l Hovězí vývar s játrovými knedlíčky",
+          "price": "57 Kč"
         },
         {
           "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
+          "name": "150g Hovězí pečeně v koprové omáčce, vařené vejce, houskový knedlík",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Medailonky z vepřové panenky s lanýžovým máslem, mexická zeleninová směs, smažené americké brambory, pikantní dip",
+          "price": "219 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Grilovaná kuřecí prsa zapečená s broskví a sýrem, opečené brambory, tatarská omáčka",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Dančí kýta na medu a hříbkách, bramborový knedlík",
+          "price": "219 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "1 ks Smažený hermelín plněný tyrolskou šunkou, bramborové krokety, tatarská omáčka",
+          "price": "185 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Grilovaná vepřová krkovice (California), bramborové krokety",
+          "price": "209 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Hovězí svíčková na smetaně, houskový knedlík, brusinkový terč, citron",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150g Hovězí guláš na černém pivu Master, houskový knedlík, cibulka",
+          "price": "185 Kč"
         }
       ],
-      "items_count": 3
+      "items_count": 10
     },
     {
       "name": "Restaurace Home Kitchen Bistro Jankovcova",
@@ -3330,7 +3071,7 @@
         },
         {
           "type": "dish",
-          "name": "Květákový krém",
+          "name": "Dršťková z hlívy ústričné",
           "price": "100 Kč"
         },
         {
@@ -3392,235 +3133,6 @@
       "items_count": 13
     },
     {
-      "name": "Domažlická Jizba",
-      "district": "praha-7",
-      "image": "https://www.menicka.cz/foto/thumb2/6513-1-80.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "0,3l Hovězí vývar se zeleninou a nudlemi",
-          "price": "55 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "0,3l Cibulová se sýrem",
-          "price": "57 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí pečeně v koprové omáčce, vařené vejce, houskový knedlík",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Nudličky z roštěné z mladého býka \"Stroganoff\", jasmínová rýže",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Medailonky z vepřové panenky s lanýžovým máslem, mexická zeleninová směs, smažené americké brambory, pikantní dip",
-          "price": "219 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Grilovaná kuřecí prsa zapečená s broskví a sýrem, opečené brambory, tatarská omáčka",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Dančí kýta na medu a hříbkách, bramborový knedlík",
-          "price": "219 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Smažený uzený sýr, opečené brambory, tatarská omáčka",
-          "price": "185 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "3 ks Bramborové knedlíky plněné uzeným masem, kysané zelí, opražená cibulka",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí svíčková na smetaně, houskový knedlík, brusinkový terč, citron",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150g Hovězí guláš na černém pivu Master, houskový knedlík, cibulka",
-          "price": "185 Kč"
-        }
-      ],
-      "items_count": 11
-    },
-    {
-      "name": "Restaurace U Saní",
-      "district": "praha-8",
-      "image": "https://www.menicka.cz/foto/thumb2/7151-1-sani0.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Polévky:",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Česnekový krém s krutony",
-          "price": "55 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Denní nabídka",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 1)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Dušená vepřová játra na kmíně, dušená rýže",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 2)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Cikánská hovězí pečeně, houskové knedlíky / dušená rýže",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 3)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Variace vepřových a kuřecích řízečků, vařené brambory, kyselá okurka, citron",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 4)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Plněné bramborové knedlíky uzeným masem, dušené zelí, cibulka",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 5)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Maďarský vepřový guláš, houskové knedlíky",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Nabídka 6)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 15
-    },
-    {
-      "name": "Restaurace U Rokytky",
-      "district": "praha-8",
-      "image": "https://www.menicka.cz/foto/thumb2/6842-1-rotky.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": ", Hovězí vývar s masem a nudlemi",
-          "price": "50 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Bílá zelná s klobásou",
-          "price": "50 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Rumpsteak, hranolky, obloha",
-          "price": "320 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Králík na smetaně, karlovarské knedlíky",
-          "price": "200 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kančí kostky na divoko, bramborové resty, brusinky",
-          "price": "200 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Pečená kachna, mix knedlíků, zelí",
-          "price": "200 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažené kalamárové kroužky, hranolky, tatarská omáčka, obloha",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí guláš, houskové knedlíky",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Svíčková na smetaně, houskové knedlíky, terč",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kuřecí \"kung pao\" hranolky /rýže/",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřová pečeně, fazolky na kyselo, brambory",
-          "price": "160 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Zapečené houbové fleky, okurka",
-          "price": "160 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Vepřové výpečky, mix zelí, bramborové knedlíky",
-          "price": "160 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený sýr, hranolky, tatarská omáčka",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 15
-    },
-    {
       "name": "Restaurace U Blekotů",
       "district": "praha-8",
       "image": "https://www.menicka.cz/foto/thumb2/2421-1-20200527_151456.jpg",
@@ -3642,8 +3154,13 @@
         },
         {
           "type": "dish",
-          "name": "150g Pečené vepřové maso na divoko, sedlácké zelí, variace knedlíků (houskový + bramborový)",
+          "name": "150g Pečená krkovička, sedlácké zelí, bramborový knedlík",
           "price": "215 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "130g Kuřecí směs na curry se smetanou a porkem, jasmínová rýže",
+          "price": "209 Kč"
         },
         {
           "type": "dish",
@@ -3652,13 +3169,13 @@
         },
         {
           "type": "dish",
-          "name": "150g Svíčková na smetaně s brusinkovým terčem a houskovým knedlíkem",
-          "price": "229 Kč"
+          "name": "170g Domácí sekaná pečeně se sýrem a šťouchaným bramborem",
+          "price": "209 Kč"
         },
         {
           "type": "dish",
-          "name": "170g Domácí sekaná pečeně se sýrem a šťouchaným bramborem",
-          "price": "209 Kč"
+          "name": "150g Pečené vepřové maso na divoko, červené zelí, variace knedlíků (houskový + bramborový)",
+          "price": "215 Kč"
         },
         {
           "type": "dish",
@@ -3671,7 +3188,7 @@
           "price": "189 Kč"
         }
       ],
-      "items_count": 9
+      "items_count": 10
     },
     {
       "name": "U Herčíků",
@@ -3695,7 +3212,7 @@
         },
         {
           "type": "dish",
-          "name": "330 ml Dršťková",
+          "name": "330 ml Gulášová",
           "price": "55 Kč"
         },
         {
@@ -3705,18 +3222,18 @@
         },
         {
           "type": "dish",
-          "name": "1 ks Pizza- \"tvarůžková 32cm",
+          "name": "1 ks Pizza- \"Hawai\" 32cm",
           "price": ""
         },
         {
           "type": "dish",
-          "name": "tomat, eidam, šunka, tvarůžky",
+          "name": "tomat, eidam, šunka, ananas",
           "price": ""
         },
         {
           "type": "dish",
-          "name": "1/4 ks Pečená kachna, červené a bílé zelí, HK+BK",
-          "price": "269 Kč"
+          "name": "200g Vídeňská hovězí roštěná, rýže",
+          "price": "249 Kč"
         },
         {
           "type": "dish",
@@ -3725,18 +3242,23 @@
         },
         {
           "type": "dish",
-          "name": "200g Vepřový bok se zelím v lokši",
+          "name": "200g Kuřecí špíz, hranolky, tatarka",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "paprika, cibule, slanina",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "200g Čakovický talíř, zelí, BK",
           "price": "195 Kč"
         },
         {
           "type": "dish",
-          "name": "200g Špecle s kuřecím masem a žampiony",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "200g Pečené kuřecí stehno na zelenině, rýže",
-          "price": "185 Kč"
+          "name": "200g Špagety \"Pomodoro\" s kuřecím masem, parmazán",
+          "price": "189 Kč"
         },
         {
           "type": "dish",
@@ -3744,7 +3266,7 @@
           "price": "169 Kč"
         }
       ],
-      "items_count": 13
+      "items_count": 14
     },
     {
       "name": "Restaurace ŠNYT Vysočany",
@@ -3753,8 +3275,13 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Gulášová",
+          "name": "Kuřecí vývar s masem, zeleninou a nudlemi",
           "price": "59 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Znojemská hovězí pečeně, jasmínová rýže",
+          "price": "195 Kč"
         },
         {
           "type": "dish",
@@ -3763,8 +3290,8 @@
         },
         {
           "type": "dish",
-          "name": "Kuřecí prsíčko na grilu, pikantní cibulová marmeláda, steakové hranolky",
-          "price": "189 Kč"
+          "name": "Kuřecí prsíčko na grilu, omáčka z modrého sýra, smažené bramborové krokety",
+          "price": "195 Kč"
         },
         {
           "type": "dish",
@@ -3778,7 +3305,7 @@
         },
         {
           "type": "dish",
-          "name": "Grilovaný sýr halloumi na míchaném salátku, hranolky, česnekový dip",
+          "name": "Grilovaný hermelín na míchaném salátku, vařený brambor, tatarka",
           "price": "189 Kč"
         },
         {
@@ -3813,82 +3340,11 @@
         },
         {
           "type": "dish",
-          "name": "Staročeský medovník se šlehačkou",
-          "price": "79 Kč"
-        },
-        {
-          "type": "dish",
           "name": "zobrazit více jídel",
           "price": ""
         }
       ],
       "items_count": 14
-    },
-    {
-      "name": "Bistro Daneva",
-      "district": "praha-9",
-      "image": "https://www.menicka.cz/foto/thumb2/10234-1-bistro-daneva-bistro-jpeg.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Snídaně DANEVA (náš kváskový chléb, nakládaný lilek, bylinkové máslo, vídeňské párky, volská oka)",
-          "price": "215 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Avokádové chleby s pošírovanými vejci",
-          "price": "215 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hemenex se salátkem",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Omeleta se sýrem a salátkem",
-          "price": "175 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Croissant s avokádem, slaninou, volským okem",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Ovesná kaše s ovocem, skořicí a agáve sirupem",
-          "price": "169 Kč"
-        }
-      ],
-      "items_count": 6
-    },
-    {
-      "name": "Penzion a Restaurace Šimanda",
-      "district": "praha-9",
-      "image": "https://www.menicka.cz/foto/thumb2/4617-1-incollage_20211217_115108065jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "250g Řízek,, Sloní ucho,, z kýty, bramborový salát",
-          "price": "196 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Zapečené žampiony Portobello s masovou směsí, šťouchané brambory",
-          "price": "185 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Králík na smetaně, houskové knedlíky",
-          "price": "196 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "170g Alpský povidlový knedlík s vanilkovým krémem",
-          "price": "98 Kč"
-        }
-      ],
-      "items_count": 4
     },
     {
       "name": "Malešický mikropivovar",
@@ -3897,22 +3353,17 @@
       "menu": [
         {
           "type": "dish",
-          "name": "Gulášová polévka 1 9",
+          "name": "Boršč se zakysanou smetanou GF 3 7 9",
           "price": "49 Kč"
         },
         {
           "type": "dish",
-          "name": "Cikánská hovězí pečeně, rýže 1 3 7 9 10",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Sedlácká sekaná s králičím hřbetem a slaninou, bramborová kaše, sterilovaná okurka 1 3 7 9 10",
+          "name": "Shepherd´s Pie - irský masový koláč zapečený v bramborovém pyré GF 7 9",
           "price": "189 Kč"
         },
         {
           "type": "dish",
-          "name": "Kuřecí green curry s pórkem,, kokosové mléko, rýže 1 3 7 9",
+          "name": "Vepřové výpečky se zelím, bramborové knedlíky 1 3 7 9 12",
           "price": "179 Kč"
         },
         {
@@ -3921,7 +3372,7 @@
           "price": "89 Kč"
         }
       ],
-      "items_count": 5
+      "items_count": 4
     },
     {
       "name": "U Klokoně",
@@ -3967,6 +3418,147 @@
       "items_count": 7
     },
     {
+      "name": "U Sudu",
+      "district": "praha-10",
+      "image": "https://www.menicka.cz/foto/thumb2/4747-1-100.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Hovězí vývar se zeleninou a nudlemi",
+          "price": "45 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Gulášová",
+          "price": "49 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "1 ks - Jablečný závin se šlehačkou",
+          "price": "69 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "200 g - Salát coleslaw",
+          "price": "69 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150 g - Svíčková na smetaně, hovězí maso, houskový knedlík, brusinkový terčík se šlehačkou",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "1/4 Pečené kachny (cca 550 g), variace knedlíků a zelí",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "180 g - Čevabčiči, vařené brambory, hořčice, cibulka",
+          "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150 g - Smažený vepřový řízek, bramborový salát",
+          "price": "169 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "350 g - Kuřecí rizoto s hráškem a strouhaným sýrem, kyselá okurka",
+          "price": "159 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "150 g - Kuřecí medailonky s grilovanou zeleninou, hranolky, česnekový dip",
+          "price": "179 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "200 g - Grilovaná vepřová krkovice s pepřovou omáčkou, opečené brambory",
+          "price": "199 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "120 g - Smažený uzený sýr, vařené brambory, tatarská omáčka",
+          "price": "169 Kč"
+        }
+      ],
+      "items_count": 12
+    },
+    {
+      "name": "Restaurace U Pepíčka",
+      "district": "praha-10",
+      "image": "https://www.menicka.cz/foto/thumb2/4307-1-198989_192029374165453_1191837_n.jpg",
+      "menu": [
+        {
+          "type": "dish",
+          "name": "Česnečka s krutony (1,3,6)",
+          "price": "45 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Česnečka s krutony (1,3,6)",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "Hovězí guláš ,houskový knedlík (3,6)",
+          "price": "190 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Česnečka s krutony (3,6)",
+          "price": ""
+        },
+        {
+          "type": "dish",
+          "name": "Uzené krkovička ,zelí, variace knedlíků (3,6)",
+          "price": "195 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Pikantní masová směs ,bramboráčky(1,3,6)",
+          "price": "175 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Brambory apollo (kuřecí maso, žampióny ,slanina ,smetana) sýr (3,6,7)",
+          "price": "180 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažené kuřecí stripsy, hranolky ,omáčka swet chilli (1,3,,6)",
+          "price": "180 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Kuřecí steak dijon ,hranolky (3,7)",
+          "price": "185 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Hovězí guláš , houskový knedlík (1,3,6)",
+          "price": "175 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Uzené krkovička ,zelí, variace knedlíků (1,3,6)",
+          "price": "180 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Smažený vepřový řízek, vařené brambory, okurka (1,3,7)",
+          "price": "170 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "zobrazit více jídel",
+          "price": ""
+        }
+      ],
+      "items_count": 13
+    },
+    {
       "name": "Šenkýrna U Milionu",
       "district": "praha-10",
       "image": "https://www.menicka.cz/foto/thumb2/6818-1-milion.jpg",
@@ -3979,7 +3571,7 @@
         {
           "type": "special_or_info",
           "name": "1ksNáš kynutý knedlík plněný borůvkami, vanilková omáčka, šlehačka, karamel",
-          "price": "79 Kč"
+          "price": "99 Kč"
         },
         {
           "type": "special_or_info",
@@ -3993,68 +3585,68 @@
         },
         {
           "type": "dish",
-          "name": "Květáková s anglickou slaninou",
-          "price": "45 Kč"
+          "name": "Mexická s klobásou",
+          "price": "49 Kč"
         },
         {
           "type": "dish",
-          "name": "Quesadilla plněná plátkovanou vepřovou panenkou, kukuřicí, sýrem a červenou cibulí, smažené bramborové hranolky, pikantní dip",
-          "price": "175 Kč"
+          "name": "150g Smažené holandské řízky, bramborová kaše s máslem, kyselá okurka",
+          "price": "171 Kč"
         },
         {
           "type": "dish",
-          "name": "Hovězí guláš s červenou cibulí a feferonkou, těstoviny vřetena",
+          "name": "Koprová omáčka s hovězím válečkem, kynuté houskové knedlíky",
           "price": "198 Kč"
         },
         {
           "type": "dish",
-          "name": "Bratislavská vepřová plec, kynuté houskové knedlíky",
+          "name": "Vepřová plec na paprice, těstoviny vřetena",
           "price": "174 Kč"
         },
         {
           "type": "dish",
-          "name": "Nudličky z kuřecích prsou se zeleninou, kokosovým mlékem a smetanou ochucené červeným kari kořením, dušená jasmínová rýže",
-          "price": "177 Kč"
+          "name": "Hrachová kaše s osmaženou cibulkou, naše půlmetrová norimberská klobása od řezníky Píši z grilu (96 % masa, bezlepková, volské oko, kyselá okurka",
+          "price": "169 Kč"
         },
         {
           "type": "dish",
-          "name": "Nízkosacharidová bezlepková strava: Roláda z kuřecích prsou plněná šunkou, brokolicí a vejci na smetanové sýrové omáčce, celerové a karotkové hranolky",
-          "price": "189 Kč"
+          "name": "Pečená kachna na kmíně, houskové a bramborové knedlíky, dušené bílé a červené zelí",
+          "price": "209 Kč"
         },
         {
           "type": "dish",
-          "name": "Proteinová strava:200g Steak z kuřecích prsou na grilu, volské oko na zelených fazolkách,100g grilovaná brambora se sýrem cottage (obsah proteinu v tomto pokrmu je 79g a celkový energetický příjem je 640kcal)",
+          "name": "Nízkosacharidová bezlepková strava: 150g Medailonky z vepřové panenky na smetanové omáčce se třemi druhy sýra, batátové pyré, máslová brokolice",
+          "price": "191 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Proteinová strava: 200g Sekaný hovězí steak na grilu se šunkou, mozzarellou a volským okem, 90g paprikový salát se sýrem cottage, 100g pečená brambora s česnekem (obsah proteinu 60g, energ. příjem 700 kcal)",
           "price": "199 Kč"
         },
         {
           "type": "dish",
-          "name": "Vepřová kotleta bez kosti zapečená s anglickou slaninou a nivou, smažené bramborové hranolky, tatarka",
+          "name": "Steak z kuřecích prsou zapečený s broskví a sýrem, smažené bramborové hranolky",
           "price": "188 Kč"
         },
         {
           "type": "dish",
-          "name": "Cheeseburger z hovězího masa s listovým salátem, rajčaty, cibulovou marmeládou, sázeným vejcem a jalapenos majonézou, smažené bramborové hranolky, tatarka",
+          "name": "Quasadilla plněná grilovanými kuřecími prsy, anglickou slaninou, sýrem, červenou cibulí a papričkami jalapenos, smažené bramborové hranolky, česneková zakysaná smetana",
+          "price": "189 Kč"
+        },
+        {
+          "type": "dish",
+          "name": "Náš dvojitý vepřový burger s opečenou anglickou slaninou, ledovým salátem, rajčaty, červenou cibulí, kyselou okurkou, hořčicí a kečupem, smažené bramborové hranolky, tatarka",
           "price": "199 Kč"
         },
         {
           "type": "dish",
-          "name": "Pečená marinovaná žebra /pásky/, červená cibule, křenový a feferonkový dip, beraní roh, čerstvý chléb",
+          "name": "Pečená marinovaná žebra (pásky), červená cibule, křenový a feferonkový dip, beraní roh, pečivo",
           "price": "249 Kč"
         },
         {
           "type": "dish",
           "name": "150g Smažený sýr 45%, vařené brambory s máslem a šnytlíkem, tatarka",
           "price": "149 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Budvar Redix alk. 4,0% - Hořkost (IBU 28)",
-          "price": "45 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Tankový Budvar 33 - světlý ležák alk. 4,6% - Hořkost (IBU 33)",
-          "price": "54 Kč"
         },
         {
           "type": "dish",
@@ -4096,18 +3688,18 @@
         },
         {
           "type": "dish",
-          "name": "Italská rajčatová polévka s těstovinami a parmazánem (1,3,7,9))",
+          "name": "Bramboračka s houbami (1,9)",
           "price": "45 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Moravský vrabec, červené zelí, bramborové knedlíky (1,3,7)",
+          "name": "150g Dušené hovězí s koprovou omáčkou, houskové knedlíky (1,3,7)",
           "price": "185 Kč"
         },
         {
           "type": "dish",
-          "name": "150g Hovězí guláš s cibulkou, houskové knedlíky (1,3,7)",
-          "price": "185 Kč"
+          "name": "150g Pečená zbojnická vepřová roláda, šťouchané brambory (1,3,7)",
+          "price": "175 Kč"
         },
         {
           "type": "dish",
@@ -4116,13 +3708,8 @@
         },
         {
           "type": "dish",
-          "name": "150 Čevabčiči, vařené brambory, hořčice, cibulka (1,3,7,10)",
+          "name": "150 Smažené žampiony, vařené brambory, tatarka (1,3,7,10)",
           "price": "175 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "300g Těstoviny s kuřecím masem, sýrovou omáčkou a parmazánem (1,3,7)",
-          "price": "195 Kč"
         },
         {
           "type": "dish",
@@ -4156,152 +3743,16 @@
         },
         {
           "type": "dish",
+          "name": "100g Smažený sýr gouda, hranolky, tatarka (1,3,7,10)",
+          "price": "165 Kč"
+        },
+        {
+          "type": "dish",
           "name": "zobrazit více jídel",
           "price": ""
         }
       ],
       "items_count": 18
-    },
-    {
-      "name": "U Sudu",
-      "district": "praha-10",
-      "image": "https://www.menicka.cz/foto/thumb2/4747-1-100.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Hovězí vývar se zeleninou a nudlemi",
-          "price": "45 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kulajda s houbami",
-          "price": "49 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "1 ks - Jablečný závin se šlehačkou",
-          "price": "69 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "200 g - Salát coleslaw",
-          "price": "69 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150 g - Hovězí guláš sypaný cibulkou, houskový knedlík",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "350 g - Pečená vepřová žebra BBQ, zelný salát, chléb",
-          "price": "199 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150 g - Vepřový bok pečený na černém pivu, variace zelí a knedlíků",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150 g - Vepřová cikánská pečeně, jasmínová rýže",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "350 g - Boloňské lasagne s parmezánem",
-          "price": "169 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150 g - Kuřecí steak se sýrovou omáčkou, hranolky",
-          "price": "179 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "150 g - Vepřový steak zapečený se slaninou a čedarem, opečené brambory",
-          "price": "189 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "120 g - Smažený eidam, vařené brambory, tatarská omáčka",
-          "price": "169 Kč"
-        }
-      ],
-      "items_count": 12
-    },
-    {
-      "name": "Restaurace U Pepíčka",
-      "district": "praha-10",
-      "image": "https://www.menicka.cz/foto/thumb2/4307-1-198989_192029374165453_1191837_n.jpg",
-      "menu": [
-        {
-          "type": "dish",
-          "name": "Česnečka s krutony (1,3,6)",
-          "price": "45 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Česnečka s krutony (1,3,6)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí guláš, houskový knedlík (3,6)",
-          "price": "190 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Česnečka s krutony (1,3,6)",
-          "price": ""
-        },
-        {
-          "type": "dish",
-          "name": "Uzené krkovička, zelí, variace knedlíků (3,6)",
-          "price": "195 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Pikantní masová směs, bramboráčky (1,3,6)",
-          "price": "175 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Brambory apollo (kuřecí maso, žampióny, slanina, smetana), sýr (3,6,7)",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažené kuřecí stripsy, hranolky, omáčka swet chilli (1,3,,6)",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Kuřecí steak dijon, hranolky (3,7)",
-          "price": "185 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Hovězí guláš, houskový knedlík (1,3,6)",
-          "price": "175 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Uzené krkovička, zelí, variace knedlíků (1,3,6)",
-          "price": "180 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "Smažený vepřový řízek, vařené brambory, okurka (1,3,7)",
-          "price": "170 Kč"
-        },
-        {
-          "type": "dish",
-          "name": "zobrazit více jídel",
-          "price": ""
-        }
-      ],
-      "items_count": 13
     },
     {
       "name": "Hospůdka u Kašpárka",
